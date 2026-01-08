@@ -122,7 +122,7 @@ SELECT
     ROW_NUMBER() OVER (ORDER BY menu_item) AS item_id,
     menu_item AS item_name,
     get_item_category(menu_item) AS category,
-    MAX(unit_price) AS price,                              -- Se utiliza el precio máximo observado para evitar inconsistencias derivadas de promociones o variaciones temporales. --
+    MAX(unit_price) AS price,
     is_item_vegetarian(menu_item) AS is_vegetarian
 FROM fact_pos_logs
 GROUP BY menu_item
