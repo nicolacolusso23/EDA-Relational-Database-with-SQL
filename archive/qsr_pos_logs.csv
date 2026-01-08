@@ -1,0 +1,1744 @@
+order_id,store_id,transaction_datetime,business_day,daypart,service_mode,menu_item,modifier,quantity,unit_price,discount,tax,total_amount,payment_type
+120000,102,2025-07-05 06:14:08,2025-07-05,Breakfast,Drive-Thru,Bottled Water,,1,1.48,0.15,0.1,1.43,Cash
+120001,201,2025-07-05 11:48:51,2025-07-05,Lunch,Dine-In,Chicken Sandwich,,1,5.34,0.0,0.45,5.79,Card
+120002,403,2025-04-13 08:05:35,2025-04-13,Breakfast,Takeout,Bottled Water,Light Ice,1,1.49,0.15,0.1,1.44,Cash
+120003,301,2025-06-25 06:42:17,2025-06-25,Breakfast,Drive-Thru,Egg Muffin,No Cheese,1,3.62,0.0,0.34,3.96,Cash
+120004,301,2025-08-01 12:58:36,2025-08-01,Lunch,Drive-Thru,Spicy Chicken Combo,,2,9.17,0.0,1.38,19.72,Card
+120005,501,2025-07-12 12:32:31,2025-07-12,Lunch,Dine-In,Double Cheeseburger,,1,5.64,0.0,0.37,6.01,Card
+120006,101,2025-07-26 17:56:34,2025-07-26,Afternoon,Delivery,Onion Rings,,1,3.59,0.54,0.29,3.34,MobilePay
+120007,403,2025-07-21 16:48:10,2025-07-21,Afternoon,Takeout,Soft Drink (Medium),,1,1.8,0.27,0.11,1.64,Cash
+120008,102,2025-06-02 23:08:42,2025-06-02,Late Night,Delivery,Chicken Sandwich,Extra Sauce,2,5.22,0.0,0.79,11.73,Card
+120009,402,2025-07-12 05:21:01,2025-07-12,Breakfast,Drive-Thru,Hash Browns,,1,2.0,0.0,0.12,2.12,Card
+120010,103,2025-04-19 21:15:50,2025-04-19,Dinner,Takeout,Double Cheeseburger,,1,5.55,0.0,0.33,5.88,Card
+120011,102,2025-07-16 11:08:27,2025-07-16,Morning,Dine-In,Apple Pie,,1,1.53,0.0,0.1,1.63,Card
+120012,201,2025-06-08 08:13:55,2025-06-08,Breakfast,Takeout,Sausage Biscuit,Sausage Patty,2,3.1,0.0,0.64,9.24,Card
+120013,103,2025-07-13 10:37:47,2025-07-13,Morning,Takeout,Coffee,Oat Milk,2,1.51,0.0,0.27,4.69,Cash
+120014,201,2025-04-11 12:37:38,2025-04-11,Lunch,Dine-In,Spicy Chicken Combo,,1,8.43,0.0,0.67,9.1,Card
+120015,102,2025-05-22 09:06:04,2025-05-22,Breakfast,Delivery,Egg Muffin,,1,3.1,0.0,0.23,3.33,Card
+120016,403,2025-04-27 09:19:59,2025-04-27,Breakfast,Drive-Thru,Egg Muffin,,1,2.99,0.0,0.22,3.21,MobilePay
+120017,403,2025-04-16 11:05:40,2025-04-16,Lunch,Takeout,Cheeseburger,,1,4.59,0.0,,5.0,Card
+120018,403,2025-06-23 09:35:09,2025-06-23,Breakfast,Takeout,Sausage Biscuit,Extra Egg,2,2.81,0.0,0.55,8.17,Card
+120019,103,2025-07-10 19:51:51,2025-07-10,Dinner,Dine-In,Chicken Sandwich,Extra Sauce,1,4.87,0.0,0.37,5.49,Card
+120020,201,2025-04-14 11:22:19,2025-04-14,Morning,Drive-Thru,Coffee,Sugar-Free Syrup,1,2.18,0.0,0.19,2.67,MobilePay
+120021,101,2025-07-07 06:37:16,2025-07-07,Breakfast,Dine-In,Sausage Biscuit,Cinnamon,1,2.98,0.0,0.26,3.34,Cash
+120022,403,2025-04-11 17:47:42,2025-04-11,Afternoon,Dine-In,Ice Cream Cone,Cinnamon,1,1.65,0.0,0.13,1.88,Card
+120023,201,2025-04-11 14:43:47,2025-04-11,Lunch,Drive-Thru,Spicy Chicken Sandwich,No Pickles,1,5.09,0.0,0.41,5.5,Cash
+120024,103,2025-07-04 17:42:40,2025-07-04,Afternoon,Takeout,Ice Cream Cone,,1,1.58,0.0,0.11,1.69,Card
+120025,401,2025-05-28 19:45:44,2025-05-28,Dinner,Takeout,Chicken Sandwich,Extra Cheese,1,5.43,0.0,0.56,6.49,Card
+120026,402,2025-05-30 17:20:48,2025-05-30,Afternoon,Drive-Thru,Milkshake,Cinnamon,1,3.61,0.0,0.33,4.04,Cash
+120027,402,2025-07-05 16:04:45,2025-07-05,Afternoon,Dine-In,French Fries,Small Size,1,2.75,0.0,0.17,2.62,Card
+120028,201,2025-06-21 18:54:56,2025-06-21,Dinner,Drive-Thru,Cheeseburger,,1,4.29,0.0,0.36,4.65,Card
+120029,202,2025-08-06 14:21:42,2025-08-06,Lunch,Delivery,Chicken Sandwich,No Onions,3,5.28,0.0,1.35,17.19,Card
+120030,103,2025-06-22 07:13:29,2025-06-22,Breakfast,Takeout,Sausage Biscuit,,1,2.89,0.15,0.27,3.11,Cash
+120031,101,2025-07-09 19:53:01,2025-07-09,Dinner,Delivery,Cheeseburger Combo,,2,9.42,0.0,1.41,20.25,Card
+120032,103,2025-07-27 22:59:19,2025-07-27,Late Night,Drive-Thru,Spicy Chicken Sandwich,,1,5.63,0.0,0.48,7.11,MobilePay
+120033,501,2025-06-26 21:42:23,2025-06-26,Dinner,Dine-In,Cheeseburger,,1,4.14,0.0,0.33,4.47,Cash
+120034,202,2025-04-14 17:49:30,2025-04-14,Afternoon,Takeout,Iced Tea,,1,2.0,0.0,0.15,2.15,MobilePay
+120035,101,2025-06-29 12:31:13,2025-06-29,Lunch,Takeout,Chicken Sandwich,,1,4.94,0.0,0.43,6.37,Card
+120036,402,2025-08-07 11:18:14,2025-08-07,Lunch,Takeout,Spicy Chicken Combo,,1,9.39,0.0,0.89,10.28,Card
+120037,201,2025-05-06 12:12:13,2025-05-06,Lunch,Drive-Thru,Chicken Sandwich Combo,Spicy,1,8.01,0.0,0.58,8.59,Card
+120038,101,2025-05-31 00:44:08,2025-05-31,Late Night,Drive-Thru,Cheeseburger,,1,4.05,0.0,0.32,4.37,Cash
+120039,401,2025-05-28 11:09:09,2025-05-28,Lunch,Drive-Thru,Cheeseburger,,1,4.56,0.0,0.33,4.89,MobilePay
+120040,401,2025-05-22 11:39:47,2025-05-22,Lunch,Dine-In,Chicken Sandwich Combo,,1,9.36,0.0,0.89,10.25,
+120041,201,2025-07-04 14:04:43,2025-07-04,Lunch,Dine-In,Double Cheeseburger Combo,,1,10.08,0.0,0.66,10.74,Card
+120042,103,2025-05-25 20:28:07,2025-05-25,Dinner,Takeout,Cheeseburger Combo,,1,8.43,0.0,0.51,8.94,Card
+120043,501,2025-08-07 17:52:17,2025-08-07,Afternoon,Takeout,Chicken Nuggets (10pc),,1,4.89,0.0,0.42,5.31,Cash
+120044,102,2025-06-28 21:44:31,2025-06-28,Dinner,,Double Cheeseburger Combo,,1,9.25,0.0,0.74,9.99,MobilePay
+120045,403,2025-08-03 12:33:23,2025-08-03,Lunch,Delivery,Cheeseburger Combo,,1,8.13,0.0,0.61,8.74,Card
+120046,201,2025-07-01 18:35:26,2025-07-01,Dinner,Dine-In,Onion Rings,Large Size,1,3.01,0.0,0.27,3.88,GiftCard
+120047,403,2025-07-16 09:32:47,2025-07-16,Breakfast,Drive-Thru,Hash Browns,Cinnamon,1,2.1,0.0,0.16,2.36,MobilePay
+120048,402,2025-06-13 21:22:21,2025-06-13,Dinner,Delivery,Cheeseburger Combo,,1,8.66,0.0,0.74,9.4,Card
+120049,401,2025-05-17 12:31:02,2025-05-17,Lunch,Dine-In,Spicy Chicken Sandwich,,2,4.96,1.98,0.48,8.42,GiftCard
+120050,202,2025-05-13 14:41:05,2025-05-13,Lunch,Drive-Thru,French Fries,No Sauce,1,2.73,0.0,0.25,2.98,MobilePay
+120051,201,2025-06-15 18:48:40,2025-06-15,Dinner,Delivery,Chicken Sandwich,,1,5.25,0.0,0.32,5.57,Card
+120052,103,2025-07-30 09:55:24,2025-07-30,Breakfast,Drive-Thru,Soft Drink (Small),,1,1.48,0.0,0.11,1.59,Card
+120053,102,2025-06-26 13:40:27,2025-06-26,Lunch,Delivery,Spicy Chicken Sandwich,Extra Patty,1,5.87,0.0,0.63,8.5,Card
+120054,202,2025-04-21 10:49:47,2025-04-21,Breakfast,Drive-Thru,Coffee,Extra Ice,1,2.1,0.0,0.17,2.27,MobilePay
+120055,103,2025-04-16 17:41:02,2025-04-16,Afternoon,Takeout,Iced Tea,,2,2.01,0.0,0.34,4.36,Card
+120056,202,2025-07-08 21:51:18,2025-07-08,Dinner,Drive-Thru,Double Cheeseburger,,1,5.39,0.0,0.46,5.85,Card
+120057,403,2025-06-23 10:47:43,2025-06-23,Breakfast,Takeout,Pancake Platter,No Cheese,1,4.89,0.0,0.46,5.35,Card
+120058,202,2025-07-26 15:02:02,2025-07-26,Afternoon,Takeout,Chicken Nuggets (6pc),,1,3.82,0.0,0.36,4.18,Card
+120059,402,2025-04-11 16:02:44,2025-04-11,Afternoon,Takeout,Ice Cream Cone,,3,1.75,0.0,0.54,7.29,Card
+120060,102,2025-05-19 17:38:01,2025-05-19,Afternoon,Dine-In,Ice Cream Cone,Caramel Topping,1,1.58,0.0,0.15,2.23,Card
+120061,501,2025-04-22 06:08:34,2025-04-22,Breakfast,Takeout,Pancake Platter,,1,4.93,0.0,0.36,5.29,
+120062,102,2025-06-10 21:49:23,2025-06-10,Dinner,Takeout,Cheeseburger Combo,,1,7.94,0.0,0.75,8.69,Card
+120063,401,2025-06-08 17:58:28,2025-06-08,Afternoon,Dine-In,Iced Tea,,1,1.73,0.0,0.16,1.89,Card
+120064,401,2025-05-12 05:54:41,2025-05-12,Breakfast,Drive-Thru,Coffee,,1,2.05,0.0,0.16,2.21,Cash
+120065,202,2025-07-21 14:04:05,2025-07-21,Lunch,Drive-Thru,Cheeseburger,,1,4.94,0.0,0.47,5.41,Card
+120066,401,2025-05-09 18:18:38,2025-05-09,Dinner,Dine-In,Cheeseburger Combo,,1,8.45,0.0,0.68,9.13,Card
+120067,403,2025-04-27 22:38:59,2025-04-27,Late Night,Drive-Thru,Cheeseburger,,1,4.82,0.0,0.39,5.21,Cash
+120068,101,2025-06-03 06:24:26,2025-06-03,Breakfast,Takeout,Sausage Biscuit,,2,3.13,0.0,0.38,6.64,Card
+120069,401,2025-06-14 14:17:13,2025-06-14,Lunch,Drive-Thru,Cheeseburger Combo,,1,8.17,,0.61,8.78,Card
+120070,201,2025-05-04 20:18:20,2025-05-04,Dinner,Dine-In,Cheeseburger Combo,,1,8.67,0.0,0.82,9.49,Card
+120071,101,2025-07-31 13:36:27,2025-07-31,Lunch,Takeout,Cheeseburger Combo,,1,9.26,0.0,0.83,10.09,Cash
+120072,501,2025-07-30 14:55:19,2025-07-30,Lunch,Drive-Thru,Double Cheeseburger Combo,,1,9.97,0.0,0.72,10.69,Card
+120073,201,2025-07-08 06:11:38,2025-07-08,Breakfast,Dine-In,Egg Muffin,Cinnamon,1,3.63,0.0,0.34,4.07,MobilePay
+120074,301,2025-08-01 08:28:40,2025-08-01,Breakfast,Takeout,Egg Muffin,,1,2.59,0.57,0.24,3.46,Card
+120075,402,2025-04-30 17:57:02,2025-04-30,Afternoon,Takeout,Milkshake,,1,4.26,0.0,0.26,4.52,MobilePay
+120076,103,2025-05-11 08:28:33,2025-05-11,Breakfast,Delivery,Sausage Biscuit,,1,3.06,0.0,0.18,3.24,Card
+120077,202,2025-04-22 10:21:05,2025-04-22,Morning,Takeout,Latte,Almond Milk,1,3.17,0.0,0.25,4.12,Card
+120078,403,2025-05-16 08:32:23,2025-05-16,Breakfast,Dine-In,Milkshake,,1,4.02,0.0,0.28,4.3,Card
+120079,403,2025-06-27 09:08:38,2025-06-27,Breakfast,Takeout,Latte,Light Ice,1,2.74,0.41,0.17,2.5,Card
+120080,201,2025-04-28 14:57:53,2025-04-28,Lunch,Dine-In,Chicken Sandwich Combo,Gluten-Free Bun,1,8.88,0.0,0.84,10.72,Cash
+120081,402,2025-05-31 18:45:54,2025-05-31,Dinner,Takeout,Double Cheeseburger,,1,5.89,0.0,0.5,6.39,Card
+120082,401,2025-06-06 07:15:24,2025-06-06,Breakfast,Drive-Thru,Egg Muffin,Sausage Patty,1,3.61,0.0,0.36,5.17,Card
+120083,501,2025-07-30 05:16:13,2025-07-30,Breakfast,Drive-Thru,Coffee,,1,1.79,0.0,0.12,1.91,Card
+120084,402,2025-08-07 17:32:36,2025-08-07,Afternoon,Dine-In,Onion Rings,Small Size,1,2.91,0.0,0.17,2.78,Card
+120085,403,2025-06-21 14:02:40,2025-06-21,Lunch,Takeout,Double Cheeseburger Combo,,1,9.74,0.0,0.63,10.37,Card
+120086,103,2025-05-14 21:44:30,2025-05-14,Dinner,Delivery,Cheeseburger,,1,4.8,0.0,0.29,5.09,MobilePay
+120087,403,2025-08-05 12:18:22,2025-08-05,Lunch,Drive-Thru,Spicy Chicken Combo,,1,9.45,0.0,0.8,10.25,Card
+120088,402,2025-04-29 13:51:05,2025-04-29,Lunch,Drive-Thru,Chicken Sandwich Combo,Add Jalapenos,1,8.73,0.0,0.73,9.86,Card
+120089,301,2025-05-08 13:39:27,2025-05-08,Lunch,Dine-In,Chicken Nuggets (10pc),,1,5.16,0.0,0.36,5.52,GiftCard
+120090,102,2025-05-19 11:23:24,2025-05-19,Morning,Drive-Thru,Coffee,Extra Ice,1,1.91,0.0,0.13,2.04,Card
+120091,103,2025-06-21 11:16:49,2025-06-21,Lunch,Dine-In,Iced Tea,,2,2.02,0.0,0.26,4.3,Card
+120092,301,2025-05-11 15:35:34,2025-05-11,Afternoon,Dine-In,Chicken Nuggets (10pc),,2,4.76,0.0,0.76,10.28,Card
+120093,101,2025-05-28 13:29:51,2025-05-28,Lunch,Drive-Thru,Onion Rings,,1,3.05,0.0,0.27,3.32,Card
+120094,102,2025-05-14 13:08:56,2025-05-14,Lunch,Drive-Thru,Chicken Sandwich Combo,No Onions,1,8.79,0.0,0.53,9.32,Card
+120095,201,2025-04-11 13:54:05,2025-04-11,Lunch,Dine-In,Chicken Sandwich Combo,,1,8.26,0.0,0.78,9.04,Cash
+120096,501,2025-04-13 11:52:55,2025-04-13,Lunch,Dine-In,Chicken Sandwich Combo,Add Bacon,1,9.14,0.0,0.61,10.75,Card
+120097,401,2025-07-31 11:10:28,2025-07-31,Lunch,Takeout,Spicy Chicken Sandwich,,2,5.74,0.0,0.92,12.4,Card
+120098,402,2025-06-13 06:09:06,2025-06-13,Breakfast,Dine-In,Latte,Light Ice,1,3.24,0.0,0.26,3.5,MobilePay
+120099,402,2025-04-11 08:32:29,2025-04-11,Breakfast,Drive-Thru,Sausage Biscuit,,1,2.98,0.0,0.27,3.25,
+120100,301,2025-06-24 18:25:03,2025-06-24,Dinner,Delivery,Chicken Sandwich Combo,,1,8.28,0.0,0.62,8.9,Card
+120101,301,2025-06-27 20:48:09,2025-06-27,Dinner,Dine-In,Cheeseburger Combo,,1,8.28,0.0,0.75,9.03,Card
+120102,301,2025-05-23 10:53:19,2025-05-23,Breakfast,Drive-Thru,Breakfast Burrito,Sausage Patty,1,3.65,0.73,0.27,4.39,Card
+120103,101,2025-07-07 17:50:49,2025-07-07,Afternoon,Takeout,Chicken Nuggets (6pc),,1,3.54,0.0,0.3,3.84,Card
+120104,101,2025-06-17 12:26:44,2025-06-17,Lunch,Dine-In,Chicken Sandwich Combo,No Pickles,1,8.91,0.0,0.85,9.76,Card
+120105,403,2025-06-25 13:39:30,2025-06-25,Lunch,Dine-In,Chicken Sandwich Combo,,3,9.19,0.0,2.07,29.64,Card
+120106,202,2025-05-28 14:57:25,2025-05-28,Lunch,Drive-Thru,French Fries,,1,3.17,0.0,0.25,3.42,GiftCard
+120107,202,2025-05-12 20:08:06,2025-05-12,Dinner,,Spicy Chicken Sandwich,Add Jalapenos,1,5.71,0.0,0.4,6.51,Card
+120108,403,2025-07-20 01:41:59,2025-07-20,Late Night,Drive-Thru,Onion Rings,No Sauce,1,3.21,0.0,0.21,3.42,Card
+120109,103,2025-04-24 12:59:58,2025-04-24,Lunch,Dine-In,Double Cheeseburger Combo,,1,9.95,0.0,0.75,10.7,
+120110,202,2025-05-19 14:56:08,2025-05-19,Lunch,Drive-Thru,Chicken Sandwich,,1,4.69,0.0,0.35,5.04,
+120111,201,2025-04-22 10:57:25,2025-04-22,Breakfast,Drive-Thru,Egg Muffin,,3,3.23,0.0,0.7,10.39,Card
+120112,501,2025-08-08 20:41:23,2025-08-08,Dinner,Delivery,Double Cheeseburger,,1,5.77,0.0,0.43,6.2,Card
+120113,103,2025-06-12 13:26:44,2025-06-12,Lunch,Takeout,Chicken Sandwich Combo,Add Bacon,1,10.22,0.0,0.73,11.95,Card
+120114,403,2025-07-15 19:10:20,2025-07-15,Dinner,Drive-Thru,Spicy Chicken Combo,,1,9.19,0.0,0.83,10.02,Card
+120115,402,2025-07-01 17:01:25,2025-07-01,Afternoon,Dine-In,French Fries,,1,2.73,0.0,0.26,2.99,Card
+120116,401,2025-07-23 10:46:41,2025-07-23,Breakfast,Drive-Thru,Bottled Water,,1,1.44,0.0,0.17,1.91,Card
+120117,103,2025-07-12 18:48:01,2025-07-12,Dinner,Drive-Thru,Spicy Chicken Combo,,1,8.71,0.0,0.78,9.49,Card
+120118,401,2025-04-12 15:15:13,2025-04-12,Afternoon,Dine-In,Soft Drink (Medium),No Ice,1,1.84,0.37,0.11,1.58,Cash
+120119,201,2025-05-08 20:36:38,2025-05-08,Dinner,Drive-Thru,Chicken Sandwich,Add Jalapenos,1,5.67,0.0,0.36,6.43,Cash
+120120,403,2025-06-26 14:50:33,2025-06-26,Lunch,Dine-In,Double Cheeseburger,,1,6.07,0.0,0.44,6.51,Card
+120121,401,2025-07-23 14:15:16,2025-07-23,Lunch,Dine-In,Chicken Nuggets (10pc),,1,4.69,0.0,0.34,5.03,Cash
+120122,501,2025-05-30 19:30:13,2025-05-30,Dinner,Drive-Thru,Iced Tea,,2,2.08,0.0,0.27,4.43,Card
+120123,401,2025-05-31 20:49:18,2025-05-31,Dinner,Takeout,Veggie Burger,,1,4.75,0.0,0.31,5.06,Cash
+120124,301,2025-05-29 12:47:09,2025-05-29,Lunch,Dine-In,Chicken Sandwich Combo,Gluten-Free Bun,1,9.28,0.0,0.87,11.15,Cash
+120125,402,2025-05-19 01:29:10,2025-05-19,Late Night,Drive-Thru,Double Cheeseburger,,1,6.65,0.0,0.4,7.05,Card
+120126,101,2025-04-24 12:04:45,2025-04-24,Lunch,Dine-In,Cheeseburger Combo,,1,7.99,0.0,0.72,8.71,
+120127,202,2025-07-04 11:32:52,2025-07-04,Lunch,Delivery,Chicken Nuggets (10pc),,3,4.8,0.0,1.04,15.44,Card
+120128,301,2025-06-12 23:44:14,2025-06-12,Late Night,Takeout,Cheeseburger,,1,4.52,0.9,0.31,3.93,MobilePay
+120129,401,2025-06-28 17:54:06,2025-06-28,Afternoon,Drive-Thru,French Fries,Extra Sauce,1,2.5,0.0,0.21,2.96,MobilePay
+120130,201,2025-05-05 17:52:25,2025-05-05,Afternoon,Drive-Thru,Iced Tea,Sugar-Free Syrup,1,1.68,0.0,0.17,2.15,Card
+120131,301,2025-06-15 06:53:04,2025-06-15,Breakfast,Takeout,Milkshake,Almond Milk,1,4.01,0.0,0.42,5.13,Cash
+120132,401,2025-05-22 07:51:15,2025-05-22,Breakfast,Drive-Thru,Egg Muffin,,1,2.97,0.0,0.19,3.16,Card
+120133,102,2025-06-13 11:06:01,2025-06-13,Morning,Dine-In,Soft Drink (Medium),Sugar-Free Syrup,1,1.78,0.0,0.14,2.22,Cash
+120134,401,2025-07-06 07:17:31,2025-07-06,Breakfast,Dine-In,Hash Browns,,1,1.71,0.0,0.12,1.83,Card
+120135,101,2025-06-28 01:51:55,2025-06-28,Late Night,Delivery,Soft Drink (Large),Oat Milk,1,2.14,0.0,0.21,3.05,Card
+120136,402,2025-05-01 23:20:24,2025-05-01,Late Night,Takeout,Spicy Chicken Sandwich,,1,5.34,0.0,0.6,6.94,Cash
+120137,102,2025-04-30 21:43:31,2025-04-30,Dinner,Dine-In,Spicy Chicken Sandwich,,1,5.52,0.0,0.5,6.02,Card
+120138,401,2025-04-30 13:44:57,2025-04-30,Lunch,Drive-Thru,Chicken Nuggets (10pc),,1,5.26,0.0,0.37,5.63,Card
+120139,301,2025-06-15 22:00:06,2025-06-15,Late Night,Takeout,French Fries,,1,2.29,0.0,0.19,2.18,Cash
+120140,102,2025-04-11 10:09:22,2025-04-11,Breakfast,Takeout,Hash Browns,Cinnamon,1,1.94,0.0,0.18,2.22,Card
+120141,102,2025-07-19 17:15:33,2025-07-19,Afternoon,Dine-In,Soft Drink (Medium),Light Ice,2,1.85,0.0,0.26,3.96,Card
+120142,501,2025-08-09 12:13:17,2025-08-09,Lunch,Drive-Thru,Cheeseburger,,2,3.95,0.0,0.63,8.53,Cash
+120143,301,2025-05-23 16:37:07,2025-05-23,Afternoon,Takeout,Iced Tea,Almond Milk,1,1.91,0.0,0.17,2.78,MobilePay
+120144,103,2025-06-17 12:36:24,2025-06-17,Lunch,Takeout,Chicken Sandwich Combo,No Onions,1,9.12,0.0,0.64,9.76,Card
+120145,402,2025-04-27 08:35:32,2025-04-27,Breakfast,Drive-Thru,Breakfast Burrito,Cinnamon,1,3.94,0.2,0.28,4.12,Card
+120146,402,2025-07-26 11:17:49,2025-07-26,Lunch,Takeout,Chicken Sandwich Combo,Extra Patty,1,8.37,0.0,0.67,11.04,GiftCard
+120147,202,2025-04-27 11:28:55,2025-04-27,Lunch,Drive-Thru,Chicken Sandwich,,1,4.91,0.0,0.42,5.33,Cash
+120148,301,2025-05-25 12:20:45,2025-05-25,Lunch,Dine-In,Soft Drink (Medium),Almond Milk,2,1.78,0.0,0.42,5.38,Cash
+120149,201,2025-06-29 06:48:53,2025-06-29,Breakfast,Drive-Thru,Breakfast Burrito,,1,3.81,0.0,0.25,4.06,Card
+120150,402,2025-08-09 11:46:29,2025-08-09,Lunch,Delivery,French Fries,Extra Sauce,1,2.71,0.0,0.21,3.17,Card
+120151,402,2025-04-17 18:02:06,2025-04-17,Dinner,Delivery,Cheeseburger,,1,4.61,0.0,0.39,5.0,MobilePay
+120152,202,2025-06-24 07:05:23,2025-06-24,Breakfast,Drive-Thru,Egg Muffin,No Cheese,1,3.07,0.15,0.18,3.1,Cash
+120153,101,2025-04-27 15:55:27,2025-04-27,Afternoon,Delivery,French Fries,,2,2.71,0.0,0.43,5.85,Card
+120154,103,2025-05-29 05:39:41,2025-05-29,Breakfast,Dine-In,Hash Browns,,1,1.95,0.0,0.15,2.2,Card
+120155,401,2025-07-23 12:17:41,2025-07-23,Lunch,Dine-In,Chicken Sandwich Combo,No Pickles,2,8.63,0.0,1.29,18.55,Cash
+120156,201,2025-07-26 12:31:40,2025-07-26,Lunch,Takeout,Soft Drink (Medium),Extra Ice,1,1.9,0.0,0.16,2.06,Cash
+120157,101,2025-08-08 16:13:02,2025-08-08,Afternoon,Drive-Thru,Onion Rings,,2,3.27,0.0,0.56,7.1,MobilePay
+120158,202,2025-04-14 06:51:09,2025-04-14,Breakfast,Delivery,Pancake Platter,,1,4.59,0.0,0.41,6.0,Card
+120159,202,2025-05-17 17:11:07,2025-05-17,Afternoon,Dine-In,Chicken Nuggets (6pc),,1,3.9,0.0,0.29,4.19,Card
+120160,101,2025-06-16 13:33:04,2025-06-16,Lunch,Dine-In,Chicken Sandwich Combo,Add Jalapenos,1,8.5,0.0,0.62,9.52,GiftCard
+120161,201,2025-08-09 18:54:55,2025-08-09,Dinner,Dine-In,Veggie Burger,No Onions,2,5.52,0.0,1.05,12.09,Card
+120162,301,2025-07-31 11:07:32,2025-07-31,Morning,Delivery,Coffee,No Ice,2,2.12,0.85,0.25,3.64,Card
+120163,202,2025-07-02 17:39:15,2025-07-02,Afternoon,Takeout,Soft Drink (Medium),,2,1.67,0.0,0.24,3.58,Cash
+120164,101,2025-08-09 01:54:47,2025-08-09,Late Night,Drive-Thru,French Fries,,1,2.91,0.29,0.2,2.82,Card
+120165,301,2025-05-06 11:37:06,2025-05-06,Lunch,Takeout,Veggie Burger,No Pickles,1,5.38,0.0,0.39,5.77,Cash
+120166,301,2025-07-06 12:04:12,2025-07-06,Lunch,Dine-In,Double Cheeseburger,,1,6.08,0.0,0.4,6.48,MobilePay
+120167,102,2025-04-28 10:19:52,2025-04-28,Breakfast,Drive-Thru,Hash Browns,No Cheese,1,2.27,0.0,0.18,2.45,Cash
+120168,401,2025-05-30 19:06:29,2025-05-30,Dinner,Dine-In,Double Cheeseburger,,1,5.64,0.0,0.41,6.05,MobilePay
+120169,202,2025-07-31 18:04:12,2025-07-31,Dinner,Drive-Thru,Double Cheeseburger,,2,5.43,0.0,0.65,11.51,Card
+120170,402,2025-05-14 08:11:22,2025-05-14,Breakfast,Dine-In,Hash Browns,Extra Egg,1,1.71,0.0,0.2,2.91,Card
+120171,401,2025-04-18 10:40:51,2025-04-18,Morning,Takeout,Bottled Water,Sugar-Free Syrup,1,1.37,0.0,0.16,1.83,Card
+120172,202,2025-06-10 09:22:49,2025-06-10,Breakfast,Drive-Thru,Egg Muffin,,1,3.22,0.0,0.19,3.41,Card
+120173,103,2025-05-26 07:51:47,2025-05-26,Breakfast,Drive-Thru,Egg Muffin,No Cheese,1,3.33,0.0,0.3,3.63,MobilePay
+120174,101,2025-08-09 13:58:39,2025-08-09,Lunch,Dine-In,Spicy Chicken Combo,,2,9.43,0.0,1.13,19.99,Card
+120175,301,2025-06-23 01:37:06,2025-06-23,Late Night,Delivery,Milkshake,,1,4.27,0.0,0.38,5.15,Card
+120176,201,2025-04-27 15:24:19,2025-04-27,Afternoon,Delivery,Chicken Nuggets (10pc),,2,4.99,0.0,0.6,10.58,Card
+120177,102,2025-07-22 20:47:04,2025-07-22,Dinner,Dine-In,Chicken Sandwich,Extra Cheese,2,5.92,0.0,1.03,13.87,GiftCard
+120178,102,2025-08-03 21:28:46,2025-08-03,Dinner,Takeout,Cheeseburger Combo,,1,8.36,0.0,0.75,9.11,Card
+120179,101,2025-06-30 13:06:04,2025-06-30,Lunch,Dine-In,Chicken Sandwich,,2,6.39,0.0,1.02,13.8,MobilePay
+120180,103,2025-06-15 15:03:06,2025-06-15,Afternoon,Takeout,Onion Rings,,2,3.32,0.0,0.43,7.07,GiftCard
+120181,401,2025-04-26 10:40:38,2025-04-26,Breakfast,Takeout,Hash Browns,Extra Egg,1,1.72,0.0,0.23,2.95,Card
+120182,301,2025-06-23 19:28:02,2025-06-23,Dinner,Dine-In,Chicken Sandwich,,1,5.0,0.0,0.32,5.32,Card
+120183,403,2025-06-21 09:26:34,2025-06-21,Breakfast,Drive-Thru,Breakfast Burrito,,1,3.86,0.0,0.23,4.09,MobilePay
+120184,102,2025-06-13 23:10:13,2025-06-13,Late Night,Drive-Thru,Spicy Chicken Sandwich,Extra Sauce,1,5.55,0.0,0.41,6.21,Card
+120185,401,2025-05-31 13:54:17,2025-05-31,Lunch,Takeout,Cheeseburger,,1,4.73,0.0,0.31,5.04,MobilePay
+120186,102,2025-07-28 16:55:34,2025-07-28,Afternoon,Drive-Thru,French Fries,Extra Sauce,1,2.77,0.0,0.21,3.23,MobilePay
+120187,201,2025-06-10 07:57:23,2025-06-10,Breakfast,Dine-In,Sausage Biscuit,,1,3.02,0.0,0.2,3.22,MobilePay
+120188,301,2025-06-17 10:12:28,2025-06-17,Morning,Dine-In,Egg Muffin,,2,3.03,0.0,0.59,9.05,MobilePay
+120189,501,2025-07-16 06:53:03,2025-07-16,Breakfast,Dine-In,Soft Drink (Small),Extra Ice,1,1.41,0.0,0.12,1.53,Card
+120190,103,2025-06-10 00:22:10,2025-06-10,Late Night,Drive-Thru,Soft Drink (Large),,1,1.95,0.2,0.13,1.88,Card
+120191,101,2025-07-24 12:38:51,2025-07-24,Lunch,Dine-In,French Fries,,3,2.88,0.0,0.73,9.37,Card
+120192,403,2025-06-20 18:00:32,2025-06-20,Dinner,Drive-Thru,Double Cheeseburger Combo,,1,10.1,0.0,0.66,10.76,GiftCard
+120193,202,2025-06-04 10:57:03,2025-06-04,Morning,Drive-Thru,Hash Browns,No Cheese,1,1.64,0.0,0.12,1.76,Cash
+120194,501,2025-06-27 19:43:34,2025-06-27,Dinner,Delivery,Onion Rings,No Sauce,2,3.19,0.0,0.61,6.99,Card
+120195,103,2025-04-16 00:41:05,2025-04-16,Late Night,Takeout,Bottled Water,Extra Ice,1,1.47,0.0,0.13,1.6,Card
+120196,102,2025-07-16 11:55:43,2025-07-16,Lunch,Takeout,Cheeseburger,,1,4.2,0.0,0.36,4.56,Card
+120197,103,2025-06-08 20:40:11,2025-06-08,Dinner,Dine-In,Cheeseburger Combo,,1,8.57,0.0,0.6,9.17,Card
+120198,401,2025-06-09 14:00:02,2025-06-09,Lunch,Takeout,Soft Drink (Medium),Oat Milk,1,1.74,0.0,0.18,2.62,Cash
+120199,202,2025-04-26 05:19:18,2025-04-26,Breakfast,Takeout,Breakfast Burrito,No Cheese,1,3.45,0.0,0.28,3.73,Cash
+120200,201,2025-07-24 19:46:01,2025-07-24,Dinner,Delivery,Veggie Burger,No Pickles,1,5.37,0.0,0.51,5.88,Card
+120201,101,2025-06-17 16:24:07,2025-06-17,Afternoon,Takeout,Chicken Nuggets (10pc),,1,5.18,0.0,0.34,5.52,Card
+120202,102,2025-05-22 11:18:07,2025-05-22,Lunch,Drive-Thru,Chicken Sandwich Combo,Add Jalapenos,3,9.53,0.0,2.53,32.32,Card
+120203,301,2025-08-08 10:58:07,2025-08-08,Morning,Drive-Thru,Coffee,,1,2.1,0.0,0.14,2.24,Cash
+120204,101,2025-07-18 05:54:18,2025-07-18,Breakfast,Takeout,Sausage Biscuit,,2,2.7,0.0,0.32,5.72,Cash
+120205,501,2025-05-08 10:23:52,2025-05-08,Morning,Takeout,Bottled Water,Sugar-Free Syrup,1,1.36,0.0,0.14,1.8,Card
+120206,103,2025-04-15 09:30:51,2025-04-15,Breakfast,Drive-Thru,Pancake Platter,Extra Egg,2,5.16,0.0,0.86,13.18,Card
+120207,301,2025-04-20 10:33:49,2025-04-20,Breakfast,Drive-Thru,Hash Browns,Sausage Patty,1,1.99,0.0,0.21,3.4,Cash
+120208,103,2025-05-30 18:00:41,2025-05-30,Dinner,Drive-Thru,Cheeseburger Combo,,1,8.75,0.0,0.7,9.45,Card
+120209,401,2025-07-30 21:28:51,2025-07-30,Dinner,Delivery,Cheeseburger Combo,,3,9.99,,1.8,31.77,Card
+120210,501,2025-05-20 00:56:32,2025-05-20,Late Night,Drive-Thru,French Fries,,2,2.8,0.0,0.5,6.1,Cash
+120211,402,2025-05-04 10:14:00,2025-05-04,Breakfast,Takeout,French Fries,,1,2.96,0.0,0.18,3.14,MobilePay
+120212,202,2025-07-16 15:59:54,2025-07-16,Afternoon,Takeout,Side Salad,,1,3.05,0.0,0.2,3.25,Card
+120213,402,2025-05-07 05:35:59,2025-05-07,Breakfast,Takeout,Soft Drink (Small),,2,1.59,0.0,0.22,3.4,Cash
+120214,401,2025-04-14 23:17:25,2025-04-14,Late Night,Drive-Thru,French Fries,,1,2.55,0.0,0.24,2.79,GiftCard
+120215,201,2025-05-22 11:43:22,2025-05-22,Morning,Drive-Thru,Egg Muffin,No Cheese,1,3.43,0.0,0.27,3.7,Card
+120216,401,2025-04-17 17:18:56,2025-04-17,Afternoon,Drive-Thru,Soft Drink (Medium),,1,1.68,0.0,0.12,1.8,Cash
+120217,101,2025-07-03 15:48:34,2025-07-03,Afternoon,Dine-In,Chicken Nuggets (10pc),,2,4.91,0.0,0.93,10.75,MobilePay
+120218,101,2025-06-21 21:50:43,2025-06-21,Dinner,Dine-In,Cheeseburger,,1,4.33,0.0,0.39,4.72,Cash
+120219,403,2025-07-15 19:18:28,2025-07-15,Dinner,,Chicken Sandwich,,1,5.42,0.0,0.46,5.88,Cash
+120220,402,2025-07-21 18:09:59,2025-07-21,Dinner,Takeout,Onion Rings,,1,3.8,0.0,0.3,4.1,Card
+120221,403,2025-06-01 09:25:05,2025-06-01,Breakfast,Takeout,Pancake Platter,,1,4.37,0.0,0.42,4.79,MobilePay
+120222,301,2025-04-16 12:02:43,2025-04-16,Lunch,Drive-Thru,Double Cheeseburger Combo,,1,10.33,0.0,0.62,10.95,Card
+120223,101,2025-05-18 12:20:32,2025-05-18,Lunch,Dine-In,Soft Drink (Medium),Oat Milk,1,1.61,0.23,0.18,2.26,Card
+120224,401,2025-04-11 15:47:43,2025-04-11,Afternoon,Dine-In,French Fries,,1,2.51,0.0,0.24,2.75,Card
+120225,401,2025-08-07 14:43:07,2025-08-07,Lunch,Takeout,Chicken Sandwich Combo,Spicy,1,9.53,0.0,0.76,10.29,Cash
+120226,402,2025-04-26 11:30:10,2025-04-26,Lunch,Takeout,Veggie Burger,Add Jalapenos,1,5.26,0.0,0.42,6.08,Card
+120227,101,2025-05-30 12:07:02,2025-05-30,Lunch,Dine-In,Chicken Sandwich Combo,Gluten-Free Bun,1,8.45,0.0,0.76,10.21,Cash
+120228,501,2025-07-16 18:11:42,2025-07-16,Dinner,Drive-Thru,French Fries,,1,2.44,0.13,0.19,2.75,MobilePay
+120229,201,2025-05-22 05:57:12,2025-05-22,Breakfast,Takeout,Pancake Platter,,1,5.22,0.0,0.42,5.64,Card
+120230,401,2025-06-24 10:43:46,2025-06-24,Morning,Takeout,Bottled Water,Sugar-Free Syrup,1,1.38,0.0,0.11,1.79,Card
+120231,102,2025-04-17 18:54:32,2025-04-17,Dinner,Delivery,Chicken Sandwich Combo,Add Bacon,2,9.1,0.0,1.92,22.12,MobilePay
+120232,501,2025-07-03 19:29:32,2025-07-03,Dinner,Takeout,Cheeseburger Combo,,2,8.51,0.0,1.19,18.21,Card
+120233,103,2025-06-09 20:02:14,2025-06-09,Dinner,Drive-Thru,Spicy Chicken Sandwich,,1,5.39,0.0,0.43,5.82,Card
+120234,102,2025-06-04 20:53:47,2025-06-04,Dinner,Dine-In,Chicken Sandwich,No Sauce,1,6.18,0.0,0.4,6.58,Card
+120235,301,2025-06-09 11:32:56,2025-06-09,Lunch,Dine-In,Cheeseburger,,1,4.7,0.0,0.38,5.08,Card
+120236,102,2025-06-09 14:13:37,2025-06-09,Lunch,Dine-In,Cheeseburger,,1,3.81,0.0,0.36,4.17,MobilePay
+120237,401,2025-05-29 17:01:56,2025-05-29,Afternoon,Delivery,French Fries,,1,2.69,0.0,0.24,2.93,Card
+120238,103,2025-06-05 16:10:46,2025-06-05,Afternoon,Delivery,Iced Tea,,1,1.8,0.0,0.11,1.91,MobilePay
+120239,102,2025-04-16 09:38:02,2025-04-16,Breakfast,Drive-Thru,Coffee,,1,2.06,0.0,0.2,2.26,Card
+120240,301,2025-05-12 21:14:51,2025-05-12,Dinner,Takeout,Veggie Burger,Spicy,1,4.96,0.0,0.45,5.41,Cash
+120241,202,2025-05-11 10:36:33,2025-05-11,Morning,Dine-In,Hash Browns,Sausage Patty,1,1.87,0.0,0.26,3.33,Card
+120242,202,2025-06-20 23:26:35,2025-06-20,Late Night,Drive-Thru,Spicy Chicken Sandwich,Gluten-Free Bun,3,5.83,0.0,1.74,22.23,Card
+120243,103,2025-06-05 08:50:21,2025-06-05,Breakfast,Drive-Thru,Coffee,,1,2.06,0.0,0.13,2.19,Cash
+120244,301,2025-08-05 10:24:59,2025-08-05,Breakfast,Drive-Thru,Breakfast Burrito,Extra Egg,2,3.44,0.0,0.8,9.68,Cash
+120245,101,2025-06-05 19:39:10,2025-06-05,Dinner,Delivery,Spicy Chicken Combo,,1,9.12,0.0,0.78,9.9,Card
+120246,102,2025-05-31 20:46:53,2025-05-31,Dinner,Delivery,Veggie Burger,Add Bacon,1,5.07,0.0,0.52,6.59,Card
+120247,202,2025-07-26 13:56:34,2025-07-26,Lunch,Drive-Thru,Spicy Chicken Combo,,1,8.96,0.0,0.72,9.68,Card
+120248,102,2025-06-22 10:43:44,2025-06-22,Morning,Dine-In,Chicken Nuggets (6pc),,1,4.18,0.0,0.3,4.48,Card
+120249,103,2025-06-25 12:57:36,2025-06-25,Lunch,Dine-In,Spicy Chicken Combo,,1,9.49,0.0,0.69,10.18,MobilePay
+120250,103,2025-07-25 18:43:42,2025-07-25,Dinner,Takeout,French Fries,Extra Sauce,1,2.28,0.0,0.19,2.72,Card
+120251,501,2025-06-03 08:30:34,2025-06-03,Breakfast,Dine-In,Latte,Sugar-Free Syrup,3,3.47,0.0,1.02,12.33,
+120252,301,2025-07-07 15:35:16,2025-07-07,Afternoon,Dine-In,Iced Tea,Sugar-Free Syrup,1,2.17,0.0,0.2,2.67,Card
+120253,201,2025-05-09 20:51:15,2025-05-09,Dinner,Delivery,Chicken Sandwich,,1,5.77,1.15,0.42,5.04,MobilePay
+120254,402,2025-05-30 11:25:06,2025-05-30,Lunch,Delivery,French Fries,Large Size,1,2.21,0.0,0.22,3.03,Card
+120255,301,2025-05-24 19:36:36,2025-05-24,Dinner,Delivery,Iced Tea,,1,1.83,0.0,0.16,1.99,Card
+120256,103,2025-04-13 16:26:40,2025-04-13,Afternoon,Takeout,Ice Cream Cone,,1,1.79,0.0,0.13,1.92,Card
+120257,301,2025-06-04 21:26:10,2025-06-04,Dinner,Dine-In,Spicy Chicken Combo,,2,8.94,0.0,1.16,19.04,Card
+120258,101,2025-06-20 09:48:05,2025-06-20,Breakfast,Dine-In,Egg Muffin,Cinnamon,1,3.35,0.0,0.26,3.71,Cash
+120259,301,2025-06-29 21:29:55,2025-06-29,Dinner,Delivery,Cheeseburger Combo,,1,8.88,0.0,0.8,9.68,Card
+120260,202,2025-06-09 19:51:05,2025-06-09,Dinner,Takeout,Spicy Chicken Sandwich,,1,5.28,0.0,,,Card
+120261,101,2025-04-29 20:38:14,2025-04-29,Dinner,Drive-Thru,Chicken Sandwich,Extra Sauce,1,5.37,0.0,0.48,6.1,Card
+120262,501,2025-05-14 20:18:41,2025-05-14,Dinner,Drive-Thru,Cheeseburger Combo,,1,6.99,0.0,0.63,7.62,Cash
+120263,101,2025-08-07 23:06:18,2025-08-07,Late Night,Takeout,Onion Rings,,1,2.85,0.0,0.23,3.08,Cash
+120264,101,2025-04-24 12:03:17,2025-04-24,Lunch,Drive-Thru,Cheeseburger Combo,,2,8.36,0.0,1.0,17.72,Card
+120265,101,2025-05-07 10:33:42,2025-05-07,Morning,Drive-Thru,Egg Muffin,,1,2.93,0.0,0.18,3.11,Card
+120266,301,2025-04-21 19:07:15,2025-04-21,Dinner,Delivery,Chicken Sandwich,,1,5.99,0.0,0.36,6.35,Card
+120267,102,2025-06-07 10:43:39,2025-06-07,Morning,Takeout,Egg Muffin,,1,2.88,0.0,0.27,3.15,GiftCard
+120268,301,2025-06-14 19:01:44,2025-06-14,Dinner,Takeout,Spicy Chicken Sandwich,,1,5.47,0.0,0.52,5.99,Cash
+120269,202,2025-05-25 19:04:33,2025-05-25,Dinner,Dine-In,Spicy Chicken Sandwich,No Pickles,1,5.69,0.0,0.4,6.09,Card
+120270,102,2025-06-02 16:12:33,2025-06-02,Afternoon,Delivery,Chicken Nuggets (10pc),,1,5.47,0.0,0.36,5.83,MobilePay
+120271,201,2025-07-16 05:02:36,2025-07-16,Breakfast,Drive-Thru,Breakfast Burrito,,1,3.38,0.0,0.3,4.88,Card
+120272,402,2025-08-02 20:35:47,2025-08-02,Dinner,Drive-Thru,Veggie Burger,,1,5.65,0.28,0.4,5.77,Card
+120273,401,2025-06-03 10:36:40,2025-06-03,Morning,Drive-Thru,Soft Drink (Medium),Almond Milk,1,1.74,0.0,0.21,2.65,Card
+120274,103,2025-05-25 14:59:22,2025-05-25,Lunch,Drive-Thru,Iced Tea,Sugar-Free Syrup,1,1.76,0.0,0.16,2.22,Card
+120275,202,2025-06-13 14:25:00,2025-06-13,Lunch,Drive-Thru,Chicken Sandwich Combo,Gluten-Free Bun,1,9.22,0.0,0.74,10.96,GiftCard
+120276,403,2025-05-28 12:06:02,2025-05-28,Lunch,Takeout,Chicken Sandwich,Add Bacon,1,5.46,0.0,0.42,6.88,Card
+120277,402,2025-04-26 10:44:36,2025-04-26,Breakfast,Drive-Thru,Pancake Platter,,1,4.79,0.0,0.29,5.08,Card
+120278,102,2025-07-11 18:40:49,2025-07-11,Dinner,Delivery,Chicken Sandwich Combo,,1,9.02,0.0,0.65,9.67,Card
+120279,501,2025-07-12 14:18:50,2025-07-12,Lunch,Takeout,Cheeseburger,,1,4.36,0.0,0.28,4.64,Card
+120280,201,2025-05-18 12:35:39,2025-05-18,Lunch,Drive-Thru,Chicken Sandwich,,1,5.43,0.0,0.35,5.78,Card
+120281,101,2025-07-19 20:39:52,2025-07-19,Dinner,Drive-Thru,Chicken Sandwich,,1,5.63,0.0,0.45,6.08,Card
+120282,501,2025-04-20 20:00:21,2025-04-20,Dinner,Delivery,Cheeseburger Combo,,1,9.28,0.0,0.67,9.95,Card
+120283,101,2025-04-16 11:16:10,2025-04-16,Lunch,Dine-In,Spicy Chicken Combo,,1,8.67,0.0,0.56,9.23,Card
+120284,101,2025-04-18 14:14:24,2025-04-18,Lunch,Takeout,Chicken Nuggets (10pc),,1,5.7,0.57,0.49,5.62,Cash
+120285,202,2025-06-20 12:01:22,2025-06-20,Lunch,Delivery,Spicy Chicken Sandwich,Add Jalapenos,1,4.89,0.79,0.38,4.88,Card
+120286,103,2025-06-20 12:05:46,2025-06-20,Lunch,Takeout,Chicken Sandwich Combo,Add Bacon,1,8.91,0.0,0.84,10.75,GiftCard
+120287,103,2025-05-14 15:55:08,2025-05-14,Afternoon,Takeout,Soft Drink (Medium),,4,1.79,0.0,0.5,7.66,Cash
+120288,102,2025-04-24 10:46:01,2025-04-24,Morning,Drive-Thru,Bottled Water,,1,1.46,0.0,0.13,1.89,MobilePay
+120289,501,2025-05-29 10:38:14,2025-05-29,Morning,Dine-In,Coffee,Light Ice,1,1.77,0.0,0.14,1.91,Card
+120290,401,2025-08-08 20:26:14,2025-08-08,Dinner,Drive-Thru,Double Cheeseburger Combo,,2,9.89,0.0,1.78,21.56,GiftCard
+120291,501,2025-06-22 20:25:39,2025-06-22,Dinner,Drive-Thru,Chicken Sandwich Combo,No Pickles,1,8.74,0.0,0.52,9.26,Card
+120292,401,2025-05-21 11:12:18,2025-05-21,Lunch,Takeout,Double Cheeseburger Combo,,1,9.7,0.0,0.58,10.28,MobilePay
+120293,403,2025-05-02 09:57:44,2025-05-02,Breakfast,Delivery,Sausage Biscuit,,1,3.25,0.0,0.24,3.49,Card
+120294,103,2025-07-25 18:07:45,2025-07-25,Dinner,Takeout,Chicken Sandwich Combo,Add Jalapenos,1,9.17,0.0,0.91,10.48,Card
+120295,103,2025-07-22 06:49:45,2025-07-22,Breakfast,Dine-In,Coffee,Extra Ice,1,1.75,,0.12,1.87,
+120296,402,2025-08-09 14:15:13,2025-08-09,Lunch,Takeout,Cheeseburger Combo,,1,8.94,0.0,0.85,9.79,Card
+120297,101,2025-08-05 15:54:02,2025-08-05,Afternoon,Delivery,French Fries,Large Size,1,2.73,0.0,0.23,3.56,MobilePay
+120298,103,2025-05-06 00:59:02,2025-05-06,Late Night,Dine-In,Spicy Chicken Sandwich,Extra Cheese,1,5.95,0.0,0.42,6.87,Card
+120299,403,2025-07-14 10:06:36,2025-07-14,Morning,Delivery,Chicken Nuggets (6pc),,2,3.9,0.0,0.58,8.38,Card
+120300,103,2025-06-07 17:46:40,2025-06-07,Afternoon,Takeout,Brownie,,1,1.78,0.0,0.12,1.9,MobilePay
+120301,401,2025-06-28 13:35:51,2025-06-28,Lunch,Delivery,Chicken Sandwich,,1,5.18,0.0,0.49,5.67,Card
+120302,501,2025-08-06 15:12:21,2025-08-06,Afternoon,Drive-Thru,Soft Drink (Medium),No Ice,1,1.8,0.0,0.16,1.96,MobilePay
+120303,101,2025-07-02 20:35:34,2025-07-02,Dinner,Dine-In,Veggie Burger,No Sauce,1,5.45,0.0,0.33,5.78,Cash
+120304,103,2025-04-21 16:45:54,2025-04-21,Afternoon,Takeout,Onion Rings,Small Size,1,3.13,0.0,0.21,3.04,Card
+120305,102,2025-08-06 14:57:32,2025-08-06,Lunch,Dine-In,Cheeseburger Combo,,1,8.55,0.0,0.56,9.11,Card
+120306,402,2025-04-21 11:00:19,2025-04-21,Lunch,Drive-Thru,Chicken Sandwich Combo,,1,9.63,1.44,0.49,8.68,Cash
+120307,202,2025-05-03 14:42:07,2025-05-03,Lunch,Dine-In,Double Cheeseburger,,1,5.49,0.0,0.52,6.01,Card
+120308,201,2025-07-01 09:57:21,2025-07-01,Breakfast,Delivery,Egg Muffin,,1,3.38,0.88,0.3,3.8,Card
+120309,501,2025-06-28 12:45:48,2025-06-28,Lunch,Delivery,Soft Drink (Medium),Sugar-Free Syrup,1,1.72,0.4,0.11,1.73,Card
+120310,201,2025-04-17 09:16:58,2025-04-17,Breakfast,Takeout,Soft Drink (Small),,2,1.52,0.0,0.27,3.31,Card
+120311,301,2025-07-24 17:06:25,2025-07-24,Afternoon,Drive-Thru,French Fries,No Sauce,1,2.95,0.0,0.25,3.2,Cash
+120312,201,2025-05-26 21:50:27,2025-05-26,Dinner,Delivery,Spicy Chicken Combo,,1,9.7,0.0,0.87,10.57,Card
+120313,202,2025-08-01 22:43:52,2025-08-01,Late Night,Drive-Thru,Chicken Sandwich,No Pickles,1,5.69,0.0,0.34,6.03,Cash
+120314,402,2025-05-14 11:19:36,2025-05-14,Morning,Drive-Thru,Ice Cream Cone,Cinnamon,3,1.79,0.0,0.37,6.04,Cash
+120315,101,2025-05-31 11:00:45,2025-05-31,Lunch,Takeout,Double Cheeseburger,,1,5.75,0.0,0.49,6.24,GiftCard
+120316,103,2025-07-16 14:53:59,2025-07-16,Lunch,Takeout,Spicy Chicken Sandwich,No Onions,1,5.9,0.3,0.39,5.99,Card
+120317,401,2025-04-17 21:39:11,2025-04-17,Dinner,Takeout,Double Cheeseburger Combo,,1,9.83,0.0,0.59,10.42,Card
+120318,403,2025-08-05 15:36:30,2025-08-05,Afternoon,Delivery,Soft Drink (Medium),Light Ice,2,1.77,0.0,0.27,3.81,Card
+120319,102,2025-06-01 17:19:39,2025-06-01,Afternoon,Dine-In,Bottled Water,Oat Milk,2,1.43,0.0,0.34,4.6,Card
+120320,501,2025-05-08 20:03:40,2025-05-08,Dinner,Takeout,Cheeseburger,,1,4.52,0.0,0.34,4.86,Card
+120321,501,2025-04-22 13:00:47,2025-04-22,Lunch,Dine-In,Chicken Sandwich Combo,,1,9.29,0.0,0.7,9.99,Card
+120322,102,2025-05-25 23:53:31,2025-05-25,Late Night,Drive-Thru,Spicy Chicken Sandwich,,1,5.33,0.0,0.43,5.76,Card
+120323,402,2025-05-06 12:24:43,2025-05-06,Lunch,Drive-Thru,Double Cheeseburger,,1,6.61,0.0,0.59,7.2,Card
+120324,403,2025-04-23 16:39:58,2025-04-23,Afternoon,Delivery,French Fries,No Sauce,2,2.35,0.0,0.34,5.04,Card
+120325,103,2025-08-08 11:53:04,2025-08-08,Lunch,Dine-In,Double Cheeseburger,,1,5.23,0.0,0.38,5.61,Card
+120326,201,2025-05-20 22:45:07,2025-05-20,Late Night,Dine-In,Spicy Chicken Sandwich,Spicy,1,6.08,0.0,0.4,6.48,Cash
+120327,202,2025-05-13 20:16:10,2025-05-13,Dinner,Drive-Thru,Cheeseburger,,3,4.75,0.0,1.07,15.32,Card
+120328,402,2025-06-01 08:13:39,2025-06-01,Breakfast,,Coffee,,1,2.01,0.0,0.15,2.16,
+120329,101,2025-07-06 15:44:21,2025-07-06,Afternoon,Drive-Thru,Soft Drink (Medium),Sugar-Free Syrup,1,1.79,0.0,0.14,2.23,
+120330,501,2025-06-25 13:43:19,2025-06-25,Lunch,Takeout,Soft Drink (Medium),,1,1.74,0.0,0.11,1.85,Cash
+120331,401,2025-07-02 17:24:57,2025-07-02,Afternoon,Dine-In,Soft Drink (Medium),,2,1.67,0.0,0.29,4.23,Cash
+120332,202,2025-04-25 14:01:02,2025-04-25,Lunch,Dine-In,Spicy Chicken Combo,,1,9.33,0.0,0.89,10.22,Card
+120333,102,2025-07-22 08:41:01,2025-07-22,Breakfast,Takeout,Egg Muffin,No Cheese,1,3.07,0.0,0.23,3.3,MobilePay
+120334,102,2025-05-25 09:14:04,2025-05-25,Breakfast,Drive-Thru,Coffee,,1,2.09,0.0,0.27,3.06,Card
+120335,301,2025-07-05 06:48:26,2025-07-05,Breakfast,Dine-In,Egg Muffin,,1,3.2,,0.27,3.47,
+120336,102,2025-05-26 20:26:44,2025-05-26,Dinner,Drive-Thru,Spicy Chicken Combo,,1,8.88,0.0,0.75,9.63,Cash
+120337,501,2025-05-21 00:22:26,2025-05-21,Late Night,Dine-In,Cheeseburger,,1,4.38,0.0,0.42,4.8,Card
+120338,102,2025-05-14 21:31:11,2025-05-14,Dinner,Dine-In,Cheeseburger,,1,4.63,0.0,0.42,5.05,MobilePay
+120339,402,2025-07-31 12:46:28,2025-07-31,Lunch,Takeout,Chicken Sandwich,,1,5.18,0.0,0.38,5.56,Card
+120340,402,2025-08-03 16:09:13,2025-08-03,Afternoon,Drive-Thru,Onion Rings,,2,2.91,0.0,0.44,6.26,Card
+120341,402,2025-07-19 13:14:56,2025-07-19,Lunch,Dine-In,Double Cheeseburger Combo,,2,10.11,0.0,1.92,22.14,Card
+120342,501,2025-06-11 13:00:46,2025-06-11,Lunch,Takeout,Chicken Sandwich,Add Bacon,2,5.48,0.0,0.91,13.87,MobilePay
+120343,403,2025-06-03 08:30:51,2025-06-03,Breakfast,Drive-Thru,Breakfast Burrito,,1,3.61,0.72,0.21,3.1,Cash
+120344,202,2025-06-12 09:47:37,2025-06-12,Breakfast,Dine-In,Coffee,Sugar-Free Syrup,1,1.8,0.0,0.19,2.29,
+120345,403,2025-06-16 07:44:39,2025-06-16,Breakfast,Delivery,Coffee,,2,1.94,0.0,0.23,4.11,MobilePay
+120346,402,2025-06-24 16:11:41,2025-06-24,Afternoon,Takeout,Milkshake,,3,3.51,0.0,0.68,11.21,Card
+120347,201,2025-04-17 13:32:43,2025-04-17,Lunch,Takeout,Veggie Burger,Add Jalapenos,1,4.75,0.0,0.49,5.64,Card
+120348,102,2025-04-18 11:05:05,2025-04-18,Morning,Takeout,Chicken Nuggets (6pc),,1,3.56,0.0,0.25,3.81,Card
+120349,403,2025-06-10 20:26:28,2025-06-10,Dinner,Drive-Thru,Chicken Sandwich,,1,5.31,0.0,0.5,5.81,Card
+120350,501,2025-06-03 17:28:29,2025-06-03,Afternoon,Takeout,Side Salad,,1,2.91,0.0,0.22,3.13,Card
+120351,103,2025-07-04 19:11:53,2025-07-04,Dinner,Delivery,Double Cheeseburger Combo,,1,10.73,0.0,0.75,11.48,MobilePay
+120352,301,2025-06-13 09:10:34,2025-06-13,Breakfast,Takeout,Sausage Biscuit,,2,3.25,0.0,0.46,6.96,MobilePay
+120353,402,2025-04-11 19:51:36,2025-04-11,Dinner,Drive-Thru,Veggie Burger,,1,5.18,0.26,0.37,5.29,MobilePay
+120354,501,2025-05-27 17:14:50,2025-05-27,Afternoon,Drive-Thru,Chicken Nuggets (6pc),,1,3.74,0.0,0.24,3.98,Card
+120355,101,2025-06-24 21:09:45,2025-06-24,Dinner,Drive-Thru,Cheeseburger Combo,,1,7.99,0.0,0.76,8.75,Card
+120356,202,2025-05-08 08:46:57,2025-05-08,Breakfast,Takeout,Breakfast Burrito,,1,3.74,0.0,0.36,4.1,MobilePay
+120357,401,2025-07-06 16:11:35,2025-07-06,Afternoon,Takeout,Ice Cream Cone,,2,1.61,0.0,0.29,3.51,Cash
+120358,402,2025-04-30 10:09:16,2025-04-30,Morning,Takeout,Hash Browns,,1,1.95,0.0,0.14,2.09,Cash
+120359,102,2025-06-24 17:30:36,2025-06-24,Afternoon,Takeout,Milkshake,Light Ice,1,3.71,0.0,0.22,3.93,Card
+120360,103,2025-08-03 13:23:26,2025-08-03,Lunch,Delivery,Cheeseburger,,1,4.66,0.47,0.29,4.48,GiftCard
+120361,202,2025-05-12 11:06:34,2025-05-12,Morning,Takeout,Coffee,,1,2.2,0.0,0.15,2.35,MobilePay
+120362,501,2025-06-03 17:45:35,2025-06-03,Afternoon,Delivery,Onion Rings,Large Size,2,3.11,0.0,0.67,8.09,MobilePay
+120363,403,2025-06-27 19:45:19,2025-06-27,Dinner,Dine-In,Chicken Sandwich,,1,5.54,0.0,0.4,5.94,MobilePay
+120364,402,2025-08-04 19:06:02,2025-08-04,Dinner,Drive-Thru,Cheeseburger,,1,4.72,0.24,0.29,4.77,Card
+120365,301,2025-07-22 10:17:37,2025-07-22,Breakfast,Takeout,Breakfast Burrito,No Cheese,1,3.64,0.18,0.33,3.79,Card
+120366,102,2025-04-14 21:23:44,2025-04-14,Dinner,Delivery,Iced Tea,,1,1.92,0.0,0.14,2.06,Card
+120367,403,2025-05-04 07:45:18,2025-05-04,Breakfast,Drive-Thru,Sausage Biscuit,,1,3.04,0.0,0.23,3.27,Card
+120368,401,2025-08-01 11:43:23,2025-08-01,Morning,Dine-In,Soft Drink (Small),,1,1.55,0.0,0.1,1.65,GiftCard
+120369,103,2025-07-15 07:12:38,2025-07-15,Breakfast,Drive-Thru,Hash Browns,Cinnamon,1,1.74,0.0,0.14,1.98,Card
+120370,401,2025-06-05 00:09:49,2025-06-05,Late Night,Delivery,French Fries,,3,2.65,0.4,0.49,8.04,Card
+120371,202,2025-07-28 15:42:48,2025-07-28,Afternoon,Takeout,Soft Drink (Medium),,1,1.78,0.0,0.17,1.95,Card
+120372,401,2025-07-25 21:28:20,2025-07-25,Dinner,Drive-Thru,Cheeseburger,,1,4.97,0.0,0.35,5.32,Card
+120373,402,2025-05-14 17:36:30,2025-05-14,Afternoon,Takeout,Soft Drink (Medium),Sugar-Free Syrup,1,1.82,0.0,0.17,2.29,MobilePay
+120374,301,2025-05-07 11:48:57,2025-05-07,Lunch,Delivery,Cheeseburger Combo,,1,9.57,0.96,0.62,9.23,Card
+120375,102,2025-08-07 13:02:29,2025-08-07,Lunch,Delivery,Cheeseburger Combo,,1,8.11,0.0,0.49,8.6,Card
+120376,102,2025-07-14 16:31:32,2025-07-14,Afternoon,Drive-Thru,Chicken Nuggets (10pc),,3,5.28,0.0,1.03,16.87,Cash
+120377,401,2025-05-22 18:45:54,2025-05-22,Dinner,Delivery,Spicy Chicken Sandwich,Add Jalapenos,1,5.71,0.0,0.4,6.51,Card
+120378,201,2025-07-08 14:42:48,2025-07-08,Lunch,Takeout,Chicken Sandwich Combo,No Onions,1,10.08,0.0,0.91,10.99,MobilePay
+120379,501,2025-08-02 19:23:29,2025-08-02,Dinner,Dine-In,Spicy Chicken Combo,,1,8.89,0.0,0.58,9.47,Card
+120380,501,2025-07-10 10:09:12,2025-07-10,Morning,Dine-In,Latte,,1,3.03,0.0,0.24,3.57,MobilePay
+120381,103,2025-08-04 17:31:50,2025-08-04,Afternoon,Dine-In,Chicken Nuggets (6pc),,2,3.59,0.0,0.61,7.79,MobilePay
+120382,103,2025-05-28 10:33:42,2025-05-28,Morning,Drive-Thru,Chicken Nuggets (6pc),,2,3.21,0.0,0.42,6.84,MobilePay
+120383,201,2025-07-13 19:06:11,2025-07-13,Dinner,Dine-In,Cheeseburger Combo,,1,8.23,0.0,0.53,8.76,Card
+120384,103,2025-05-10 13:52:19,2025-05-10,Lunch,Dine-In,Chicken Sandwich Combo,No Pickles,1,8.61,0.0,0.62,9.23,GiftCard
+120385,102,2025-07-10 14:24:00,2025-07-10,Lunch,Drive-Thru,Soft Drink (Medium),,1,1.75,0.0,0.13,1.88,Card
+120386,401,2025-07-05 18:52:49,2025-07-05,Dinner,Drive-Thru,Cheeseburger Combo,,1,8.66,0.0,0.56,9.22,Card
+120387,403,2025-06-12 18:48:03,2025-06-12,Dinner,Delivery,Cheeseburger Combo,,1,9.43,0.0,0.71,10.14,Card
+120388,103,2025-05-14 21:50:20,2025-05-14,Dinner,Takeout,Double Cheeseburger,,1,6.14,0.0,0.46,6.6,MobilePay
+120389,501,2025-08-07 10:58:05,2025-08-07,Morning,Drive-Thru,Egg Muffin,,1,3.1,0.0,0.23,3.33,Card
+120390,403,2025-04-14 14:52:43,2025-04-14,Lunch,Takeout,Chicken Sandwich,Gluten-Free Bun,1,5.06,0.0,0.42,6.48,Card
+120391,201,2025-06-18 12:01:18,2025-06-18,Lunch,Drive-Thru,Cheeseburger Combo,,1,8.74,0.0,0.57,9.31,Card
+120392,401,2025-05-07 20:04:06,2025-05-07,Dinner,Delivery,Onion Rings,,4,2.77,0.0,0.66,11.74,Card
+120393,103,2025-05-30 22:37:11,2025-05-30,Late Night,Takeout,Milkshake,,1,4.6,0.0,0.39,4.99,Cash
+120394,202,2025-04-13 21:18:57,2025-04-13,Dinner,Drive-Thru,Double Cheeseburger Combo,,1,10.58,0.0,0.85,11.43,Cash
+120395,402,2025-07-21 05:14:11,2025-07-21,Breakfast,Dine-In,Coffee,Sugar-Free Syrup,1,1.8,0.0,0.2,2.3,Card
+120396,102,2025-07-04 10:53:10,2025-07-04,Morning,Delivery,Soft Drink (Medium),Light Ice,1,1.6,0.0,0.15,1.75,MobilePay
+120397,102,2025-08-06 20:43:43,2025-08-06,Dinner,Dine-In,Onion Rings,,1,3.52,,0.25,3.07,Card
+120398,501,2025-06-29 23:13:55,2025-06-29,Late Night,Dine-In,Chicken Sandwich,,1,5.35,0.0,0.45,5.8,Cash
+120399,101,2025-07-20 21:49:25,2025-07-20,Dinner,Dine-In,Spicy Chicken Combo,,1,9.91,0.0,0.74,10.65,MobilePay
+120400,201,2025-04-18 14:30:17,2025-04-18,Lunch,Takeout,Double Cheeseburger Combo,,1,9.19,0.0,0.78,9.97,Card
+120401,103,2025-06-03 18:18:29,2025-06-03,Dinner,Takeout,Cheeseburger Combo,,1,8.19,0.0,0.59,8.78,MobilePay
+120402,102,2025-06-18 11:29:42,2025-06-18,Lunch,Drive-Thru,Spicy Chicken Sandwich,,1,5.64,0.0,0.54,6.58,Cash
+120403,202,2025-05-09 14:48:42,2025-05-09,Lunch,Takeout,Spicy Chicken Sandwich,No Onions,1,5.66,,0.31,5.12,
+120404,402,2025-04-20 17:47:38,2025-04-20,Afternoon,Delivery,Side Salad,,1,2.74,0.0,0.23,2.97,Card
+120405,201,2025-07-14 21:41:09,2025-07-14,Dinner,Delivery,Chicken Sandwich Combo,Add Bacon,1,9.3,0.0,0.72,11.02,Card
+120406,402,2025-04-21 14:37:15,2025-04-21,Lunch,Dine-In,French Fries,,1,2.34,0.0,0.2,2.54,Cash
+120407,202,2025-06-19 08:32:37,2025-06-19,Breakfast,Drive-Thru,Bottled Water,Light Ice,1,1.43,0.0,0.12,1.55,MobilePay
+120408,102,2025-04-11 13:28:44,2025-04-11,Lunch,Takeout,Spicy Chicken Combo,,1,9.35,0.0,0.75,10.1,Card
+120409,401,2025-04-25 00:50:30,2025-04-25,Late Night,Drive-Thru,Onion Rings,,2,3.29,0.0,0.46,7.04,Cash
+120410,402,2025-07-14 11:01:22,2025-07-14,Lunch,Drive-Thru,Double Cheeseburger,,2,6.04,0.6,0.92,12.4,Card
+120411,301,2025-05-03 18:49:56,2025-05-03,Dinner,Delivery,French Fries,Large Size,2,2.32,0.0,0.53,6.37,MobilePay
+120412,501,2025-07-27 18:32:06,2025-07-27,Dinner,Dine-In,Chicken Sandwich,Gluten-Free Bun,1,4.83,0.0,0.52,6.35,Card
+120413,201,2025-06-17 11:15:53,2025-06-17,Lunch,Drive-Thru,Cheeseburger Combo,,1,9.13,0.0,0.73,9.86,Card
+120414,103,2025-06-18 21:57:29,2025-06-18,Dinner,Drive-Thru,Spicy Chicken Combo,,1,9.46,0.0,0.9,10.36,Card
+120415,101,2025-08-05 12:57:36,2025-08-05,Lunch,Dine-In,Spicy Chicken Combo,,1,8.92,0.0,0.76,9.68,Cash
+120416,301,2025-07-05 09:39:58,2025-07-05,Breakfast,Dine-In,Pancake Platter,Cinnamon,1,5.51,0.0,0.48,6.09,Card
+120417,103,2025-06-01 13:13:05,2025-06-01,Lunch,Takeout,Spicy Chicken Sandwich,No Pickles,1,5.68,0.0,0.43,6.11,Card
+120418,101,2025-07-07 20:07:03,2025-07-07,Dinner,Drive-Thru,Cheeseburger Combo,,1,9.08,0.0,0.66,9.74,MobilePay
+120419,403,2025-07-11 20:19:18,2025-07-11,Dinner,Delivery,Chicken Sandwich Combo,,1,9.02,0.0,0.59,9.61,MobilePay
+120420,401,2025-07-30 18:03:27,2025-07-30,Dinner,Drive-Thru,Cheeseburger Combo,,1,9.52,0.0,0.9,10.42,Card
+120421,402,2025-06-17 19:09:32,2025-06-17,Dinner,Dine-In,Double Cheeseburger,,2,6.47,0.0,0.94,13.88,Cash
+120422,102,2025-06-18 15:07:23,2025-06-18,Afternoon,Takeout,Chicken Nuggets (10pc),,4,4.91,0.0,1.77,21.41,Card
+120423,202,2025-07-13 19:52:47,2025-07-13,Dinner,Takeout,Veggie Burger,Extra Sauce,1,5.58,0.0,0.52,6.35,Card
+120424,103,2025-06-12 14:42:28,2025-06-12,Lunch,Dine-In,Cheeseburger,,1,4.71,0.0,0.4,5.11,Cash
+120425,102,2025-05-11 18:36:40,2025-05-11,Dinner,Drive-Thru,Chicken Sandwich Combo,,1,9.67,0.0,0.92,10.59,Cash
+120426,101,2025-04-12 09:11:01,2025-04-12,Breakfast,Takeout,Latte,Oat Milk,1,3.0,0.0,0.3,4.0,Card
+120427,401,2025-06-03 07:24:16,2025-06-03,Breakfast,Dine-In,Breakfast Burrito,,1,3.91,0.0,0.27,4.18,GiftCard
+120428,101,2025-07-02 21:06:20,2025-07-02,Dinner,Dine-In,Spicy Chicken Sandwich,Extra Cheese,1,6.05,0.0,0.47,7.02,MobilePay
+120429,402,2025-08-01 14:01:26,2025-08-01,Lunch,Delivery,Cheeseburger,,1,3.9,0.0,0.37,4.27,MobilePay
+120430,403,2025-07-22 11:34:10,2025-07-22,Morning,Drive-Thru,Bottled Water,Sugar-Free Syrup,1,1.34,0.0,0.12,1.76,Card
+120431,202,2025-06-22 20:53:40,2025-06-22,Dinner,Dine-In,Spicy Chicken Sandwich,,1,4.86,0.24,0.39,5.01,MobilePay
+120432,201,2025-04-29 16:56:43,2025-04-29,Afternoon,Drive-Thru,Ice Cream Cone,Chocolate Topping,1,1.61,0.0,0.17,2.28,Cash
+120433,101,2025-08-09 15:43:11,2025-08-09,Afternoon,Takeout,Milkshake,Cinnamon,1,4.23,0.0,0.28,4.61,MobilePay
+120434,401,2025-06-25 21:11:53,2025-06-25,Dinner,Drive-Thru,Cheeseburger,,2,4.99,0.0,0.72,10.7,Cash
+120435,501,2025-04-28 17:14:14,2025-04-28,Afternoon,Drive-Thru,Chicken Nuggets (6pc),,2,3.76,0.0,0.45,7.97,GiftCard
+120436,402,2025-07-16 10:47:36,2025-07-16,Breakfast,Drive-Thru,Egg Muffin,Extra Egg,1,3.65,0.0,0.34,4.99,Cash
+120437,403,2025-05-14 17:56:29,2025-05-14,Afternoon,Dine-In,Milkshake,,1,3.53,0.0,0.32,4.55,Card
+120438,201,2025-04-14 08:34:28,2025-04-14,Breakfast,Takeout,Sausage Biscuit,Extra Egg,3,2.61,0.0,0.92,11.75,Card
+120439,102,2025-06-15 05:37:51,2025-06-15,Breakfast,Drive-Thru,Hash Browns,,1,1.88,0.0,0.11,1.99,Card
+120440,402,2025-05-21 21:37:07,2025-05-21,Dinner,Dine-In,Cheeseburger,,2,4.62,0.92,0.5,8.82,Card
+120441,101,2025-07-03 14:25:06,2025-07-03,Lunch,Delivery,Onion Rings,Large Size,1,3.13,0.0,0.32,4.05,Card
+120442,402,2025-05-26 12:06:06,2025-05-26,Lunch,Dine-In,Chicken Sandwich Combo,Spicy,1,7.96,0.0,0.64,8.6,Cash
+120443,101,2025-05-27 08:32:41,2025-05-27,Breakfast,Drive-Thru,Bottled Water,Light Ice,1,1.43,0.0,0.11,1.54,
+120444,403,2025-05-30 18:27:22,2025-05-30,Dinner,Dine-In,French Fries,No Sauce,1,2.27,0.0,0.2,2.47,Card
+120445,401,2025-07-27 14:56:50,2025-07-27,Lunch,Drive-Thru,Chicken Nuggets (10pc),,2,5.21,0.0,0.76,11.18,Card
+120446,201,2025-04-26 11:23:00,2025-04-26,Lunch,Dine-In,Double Cheeseburger,,1,5.89,0.0,0.47,6.36,Card
+120447,103,2025-05-31 12:11:12,2025-05-31,Lunch,Dine-In,Chicken Nuggets (10pc),,2,4.68,0.0,0.61,9.97,MobilePay
+120448,103,2025-04-29 01:56:45,2025-04-29,Late Night,Dine-In,Milkshake,Sugar-Free Syrup,1,3.82,0.0,0.33,4.45,Card
+120449,201,2025-07-03 19:20:15,2025-07-03,Dinner,Dine-In,French Fries,,1,2.34,0.52,0.13,2.2,MobilePay
+120450,403,2025-06-29 13:33:44,2025-06-29,Lunch,Takeout,Cheeseburger Combo,,1,8.46,0.0,0.51,8.97,GiftCard
+120451,401,2025-05-28 19:59:53,2025-05-28,Dinner,Takeout,Double Cheeseburger,,1,6.14,0.0,0.37,6.51,Cash
+120452,402,2025-06-22 11:11:28,2025-06-22,Lunch,Dine-In,Spicy Chicken Sandwich,,2,5.26,0.0,0.68,11.2,Cash
+120453,201,2025-05-15 13:16:19,2025-05-15,Lunch,Drive-Thru,French Fries,,1,2.78,0.0,0.26,3.04,
+120454,401,2025-04-26 22:30:41,2025-04-26,Late Night,Drive-Thru,Double Cheeseburger,,1,5.52,0.0,0.5,6.02,Cash
+120455,301,2025-06-30 19:27:49,2025-06-30,Dinner,Drive-Thru,Cheeseburger Combo,,1,8.09,0.0,0.57,8.66,Card
+120456,201,2025-05-14 14:48:49,2025-05-14,Lunch,Delivery,Chicken Sandwich Combo,No Pickles,2,8.94,0.0,1.43,19.31,Card
+120457,401,2025-06-20 10:34:24,2025-06-20,Morning,Dine-In,Soft Drink (Medium),,1,1.65,0.0,0.16,1.81,Card
+120458,401,2025-07-11 13:42:33,2025-07-11,Lunch,Dine-In,Cheeseburger Combo,,2,8.21,0.0,1.15,17.57,Card
+120459,201,2025-07-14 07:27:52,2025-07-14,Breakfast,Drive-Thru,Pancake Platter,No Cheese,1,4.59,0.0,0.34,4.93,Card
+120460,201,2025-04-15 14:29:29,2025-04-15,Lunch,Takeout,Spicy Chicken Sandwich,Extra Patty,1,6.39,0.0,0.63,9.02,Cash
+120461,501,2025-06-12 21:58:42,2025-06-12,Dinner,Dine-In,Cheeseburger Combo,,1,8.51,0.0,0.64,9.15,Cash
+120462,201,2025-06-18 18:23:04,2025-06-18,Dinner,Drive-Thru,Double Cheeseburger Combo,,1,9.64,0.0,0.58,10.22,Card
+120463,401,2025-06-20 18:00:16,2025-06-20,Dinner,Dine-In,Veggie Burger,,1,5.31,0.73,0.59,7.17,MobilePay
+120464,102,2025-07-25 09:47:25,2025-07-25,Breakfast,Dine-In,Egg Muffin,,1,3.21,0.0,0.19,3.4,Cash
+120465,403,2025-05-10 17:57:06,2025-05-10,Afternoon,Takeout,Chicken Nuggets (6pc),,2,3.68,0.0,0.53,7.89,Card
+120466,301,2025-05-14 18:14:56,2025-05-14,Dinner,Dine-In,Spicy Chicken Combo,,1,9.6,0.0,0.77,10.37,MobilePay
+120467,401,2025-07-13 05:22:20,2025-07-13,Breakfast,Dine-In,Sausage Biscuit,Cinnamon,1,3.23,0.0,0.25,3.58,Card
+120468,501,2025-07-27 12:16:06,2025-07-27,Lunch,Takeout,Spicy Chicken Combo,,3,9.02,0.0,2.16,29.22,GiftCard
+120469,102,2025-05-24 14:24:32,2025-05-24,Lunch,Delivery,Chicken Sandwich Combo,Add Bacon,1,8.7,0.0,0.63,10.33,Card
+120470,301,2025-07-15 12:24:13,2025-07-15,Lunch,Delivery,Spicy Chicken Combo,,1,9.15,0.0,0.64,9.79,Card
+120471,202,2025-07-11 20:21:15,2025-07-11,Dinner,Dine-In,Onion Rings,Small Size,1,2.49,0.0,0.18,2.37,Card
+120472,101,2025-07-22 15:08:05,2025-07-22,Afternoon,Dine-In,Side Salad,,1,2.51,0.0,0.23,2.74,Card
+120473,202,2025-05-20 15:17:55,2025-05-20,Afternoon,Delivery,Ice Cream Cone,Caramel Topping,1,1.8,,0.2,2.5,Card
+120474,102,2025-04-14 20:38:34,2025-04-14,Dinner,Dine-In,Spicy Chicken Sandwich,,1,6.27,0.0,0.74,9.01,Cash
+120475,101,2025-05-08 20:31:25,2025-05-08,Dinner,Drive-Thru,Iced Tea,Sugar-Free Syrup,1,1.86,0.0,0.14,2.3,MobilePay
+120476,201,2025-07-08 20:32:45,2025-07-08,Dinner,Takeout,Spicy Chicken Combo,,2,9.58,0.0,1.39,20.55,Cash
+120477,103,2025-06-12 10:16:15,2025-06-12,Morning,Takeout,Brownie,,1,1.93,0.0,0.16,2.09,GiftCard
+120478,401,2025-06-16 07:44:19,2025-06-16,Breakfast,Delivery,Bottled Water,,1,1.69,0.0,0.16,2.55,Card
+120479,201,2025-06-20 20:00:10,2025-06-20,Dinner,Drive-Thru,Cheeseburger,,1,4.86,0.0,0.41,5.27,Card
+120480,102,2025-04-27 12:11:12,2025-04-27,Lunch,Dine-In,Double Cheeseburger Combo,,2,9.93,0.0,1.29,21.15,Card
+120481,301,2025-07-10 08:31:43,2025-07-10,Breakfast,Drive-Thru,Hash Browns,Extra Egg,1,1.7,0.0,0.16,2.86,Card
+120482,301,2025-06-27 16:43:56,2025-06-27,Afternoon,Takeout,French Fries,Extra Sauce,1,2.18,0.36,0.17,2.24,
+120483,103,2025-07-25 09:17:44,2025-07-25,Breakfast,Drive-Thru,Breakfast Burrito,Cinnamon,1,3.79,,0.23,4.12,Card
+120484,101,2025-05-07 00:43:28,2025-05-07,Late Night,Takeout,Onion Rings,No Sauce,1,2.93,0.0,0.26,3.19,Card
+120485,201,2025-04-20 18:08:31,2025-04-20,Dinner,Drive-Thru,Spicy Chicken Combo,,2,8.58,0.0,1.54,18.7,Card
+120486,102,2025-05-10 05:10:59,2025-05-10,Breakfast,Drive-Thru,Coffee,,1,1.76,0.0,0.11,1.87,MobilePay
+120487,301,2025-04-12 18:41:21,2025-04-12,Dinner,Takeout,Spicy Chicken Combo,,1,8.75,0.0,0.74,9.49,Cash
+120488,501,2025-05-06 18:36:23,2025-05-06,Dinner,Dine-In,Cheeseburger Combo,,1,9.33,0.0,0.68,10.01,Card
+120489,103,2025-05-24 12:06:25,2025-05-24,Lunch,Dine-In,Spicy Chicken Sandwich,,2,5.98,0.0,1.26,15.22,MobilePay
+120490,101,2025-07-01 17:44:07,2025-07-01,Afternoon,Dine-In,Iced Tea,,1,1.89,0.0,0.16,2.05,MobilePay
+120491,201,2025-08-03 19:54:31,2025-08-03,Dinner,Drive-Thru,Double Cheeseburger Combo,,1,10.73,2.15,0.69,9.27,Card
+120492,202,2025-04-13 12:44:54,2025-04-13,Lunch,Takeout,Spicy Chicken Sandwich,No Pickles,2,5.67,0.0,1.02,12.36,Card
+120493,201,2025-05-06 10:47:41,2025-05-06,Morning,Dine-In,Soft Drink (Medium),Light Ice,1,1.67,0.0,0.12,1.79,Cash
+120494,403,2025-05-26 16:09:40,2025-05-26,Afternoon,Delivery,Chicken Nuggets (10pc),,1,5.5,0.0,0.38,5.88,Card
+120495,402,2025-05-18 21:17:40,2025-05-18,Dinner,Delivery,Double Cheeseburger,,1,5.96,0.0,0.57,6.53,Card
+120496,102,2025-07-17 21:30:41,2025-07-17,Dinner,Delivery,Double Cheeseburger,,1,5.31,0.0,0.5,5.81,Card
+120497,403,2025-06-04 11:48:48,2025-06-04,Lunch,Dine-In,Double Cheeseburger,,1,5.66,1.13,0.36,4.89,Cash
+120498,101,2025-07-25 09:19:23,2025-07-25,Breakfast,Drive-Thru,French Fries,Small Size,1,2.39,0.0,0.2,2.29,Card
+120499,301,2025-06-25 12:44:06,2025-06-25,Lunch,Delivery,Cheeseburger,,2,4.03,0.0,0.56,8.62,Card
+120500,102,2025-07-07 14:41:57,2025-07-07,Lunch,Dine-In,Chicken Nuggets (10pc),,3,5.3,0.0,1.15,17.05,Card
+120501,301,2025-05-19 17:38:10,2025-05-19,Afternoon,Takeout,Ice Cream Cone,,2,1.86,0.0,0.35,5.07,Card
+120502,301,2025-05-02 20:09:55,2025-05-02,Dinner,Drive-Thru,Double Cheeseburger,,1,5.16,0.0,0.34,5.5,Card
+120503,403,2025-05-28 13:35:17,2025-05-28,Lunch,Delivery,Chicken Sandwich,Extra Sauce,1,5.6,0.0,0.56,6.41,MobilePay
+120504,403,2025-05-17 19:09:24,2025-05-17,Dinner,Delivery,Onion Rings,No Sauce,2,2.96,0.0,0.5,6.42,Card
+120505,202,2025-06-04 23:19:40,2025-06-04,Late Night,Drive-Thru,Spicy Chicken Sandwich,,1,5.45,0.55,0.32,5.22,MobilePay
+120506,101,2025-06-16 23:30:31,2025-06-16,Late Night,Drive-Thru,Bottled Water,Sugar-Free Syrup,1,1.39,0.0,0.1,1.79,GiftCard
+120507,403,2025-08-04 17:28:10,2025-08-04,Afternoon,Delivery,Soft Drink (Medium),,1,1.67,0.0,0.16,1.83,MobilePay
+120508,301,2025-07-09 18:18:19,2025-07-09,Dinner,Takeout,Cheeseburger,,1,4.51,0.0,0.43,4.94,Card
+120509,301,2025-06-12 07:19:22,2025-06-12,Breakfast,,Coffee,No Ice,1,1.72,0.0,0.11,1.83,Card
+120510,202,2025-06-20 11:19:23,2025-06-20,Morning,Takeout,Side Salad,,1,2.9,0.0,,,Card
+120511,202,2025-06-20 08:47:21,2025-06-20,Breakfast,Drive-Thru,Hash Browns,Sausage Patty,1,1.88,0.0,0.28,3.36,Card
+120512,403,2025-05-07 21:08:07,2025-05-07,Dinner,Drive-Thru,Double Cheeseburger,,1,5.64,0.0,0.34,5.98,Cash
+120513,202,2025-07-30 14:15:39,2025-07-30,Lunch,Dine-In,Chicken Sandwich,Gluten-Free Bun,3,5.06,0.0,1.55,19.73,Card
+120514,103,2025-04-22 10:14:07,2025-04-22,Morning,Dine-In,Chicken Nuggets (6pc),,1,3.6,0.0,0.23,3.83,Card
+120515,201,2025-06-09 11:32:27,2025-06-09,Lunch,Delivery,Chicken Sandwich,,1,5.67,0.0,,,Card
+120516,202,2025-07-28 21:11:16,2025-07-28,Dinner,Drive-Thru,Spicy Chicken Sandwich,,1,5.83,0.0,0.41,6.24,Card
+120517,301,2025-07-05 10:37:24,2025-07-05,Morning,Dine-In,Hash Browns,Extra Egg,1,1.69,0.0,0.2,2.89,Card
+120518,202,2025-05-04 19:34:46,2025-05-04,Dinner,Dine-In,Cheeseburger Combo,,2,8.54,0.0,1.62,18.7,Card
+120519,102,2025-06-03 11:10:38,2025-06-03,Lunch,Dine-In,Spicy Chicken Sandwich,No Pickles,1,5.93,0.0,0.5,6.43,GiftCard
+120520,403,2025-05-02 14:25:38,2025-05-02,Lunch,Dine-In,Chicken Sandwich,,1,4.78,0.0,0.45,5.23,Card
+120521,202,2025-07-19 12:02:34,2025-07-19,Lunch,,Double Cheeseburger,,2,5.97,0.0,0.72,12.66,Card
+120522,301,2025-06-23 16:05:45,2025-06-23,Afternoon,Drive-Thru,Chicken Nuggets (10pc),,1,4.77,0.0,0.29,5.06,Card
+120523,403,2025-04-20 17:06:46,2025-04-20,Afternoon,Delivery,Milkshake,Cinnamon,1,4.18,0.0,0.34,4.62,Card
+120524,201,2025-06-15 20:09:57,2025-06-15,Dinner,Takeout,Cheeseburger Combo,,1,8.11,0.0,0.57,8.68,Card
+120525,501,2025-07-22 10:27:15,2025-07-22,Morning,Takeout,Bottled Water,Light Ice,1,1.29,0.0,0.08,1.37,Cash
+120526,101,2025-05-03 05:17:09,2025-05-03,Breakfast,Drive-Thru,Coffee,,1,1.56,0.0,0.12,1.68,Card
+120527,103,2025-06-09 12:15:03,2025-06-09,Lunch,Takeout,Chicken Sandwich Combo,,1,9.01,0.0,0.59,9.6,Card
+120528,401,2025-06-25 13:14:58,2025-06-25,Lunch,Drive-Thru,Onion Rings,,1,3.21,0.0,0.28,4.09,Card
+120529,102,2025-05-24 19:11:27,2025-05-24,Dinner,Takeout,Spicy Chicken Combo,,1,8.84,0.0,0.66,9.5,Cash
+120530,102,2025-04-21 19:49:41,2025-04-21,Dinner,Dine-In,Cheeseburger Combo,,3,8.81,0.0,1.72,28.15,Card
+120531,103,2025-06-25 20:31:27,2025-06-25,Dinner,Takeout,Chicken Sandwich Combo,No Onions,1,8.16,0.0,0.59,8.75,GiftCard
+120532,201,2025-05-27 14:33:36,2025-05-27,Lunch,Drive-Thru,Chicken Sandwich,,1,5.37,0.0,0.32,5.69,Cash
+120533,301,2025-04-21 19:18:29,2025-04-21,Dinner,Dine-In,Iced Tea,,1,1.73,0.0,0.12,1.85,MobilePay
+120534,401,2025-05-12 11:42:37,2025-05-12,Lunch,Dine-In,Onion Rings,,1,2.96,0.15,0.17,2.98,MobilePay
+120535,403,2025-07-02 16:26:46,2025-07-02,Afternoon,Takeout,Milkshake,,1,4.01,0.0,0.24,4.25,Cash
+120536,402,2025-04-25 13:58:36,2025-04-25,Lunch,Takeout,Cheeseburger Combo,,3,8.06,0.0,1.69,25.87,Cash
+120537,403,2025-07-31 17:29:30,2025-07-31,Afternoon,Takeout,Side Salad,,1,2.76,0.0,0.2,2.96,Cash
+120538,201,2025-06-01 11:04:13,2025-06-01,Lunch,Takeout,Spicy Chicken Sandwich,,1,6.03,,0.52,6.25,Cash
+120539,202,2025-06-06 23:20:48,2025-06-06,Late Night,Delivery,Double Cheeseburger,,1,5.5,0.0,0.52,6.02,Card
+120540,501,2025-08-05 20:10:09,2025-08-05,Dinner,Delivery,Chicken Sandwich Combo,Add Bacon,2,9.41,0.0,1.46,22.28,Card
+120541,403,2025-06-27 21:50:08,2025-06-27,Dinner,Takeout,French Fries,Extra Sauce,1,2.32,0.0,0.17,2.74,Card
+120542,202,2025-04-29 11:31:06,2025-04-29,Lunch,Takeout,Spicy Chicken Sandwich,,1,5.84,0.0,0.38,6.22,Card
+120543,402,2025-07-23 15:36:31,2025-07-23,Afternoon,Dine-In,Onion Rings,Small Size,1,3.55,0.0,0.26,3.51,MobilePay
+120544,101,2025-05-19 15:47:50,2025-05-19,Afternoon,Dine-In,Chicken Nuggets (6pc),,1,3.12,0.0,0.27,3.39,MobilePay
+120545,402,2025-04-16 16:06:05,2025-04-16,Afternoon,Dine-In,Ice Cream Cone,Chocolate Topping,1,1.55,0.0,0.16,2.21,Card
+120546,402,2025-07-21 08:09:40,2025-07-21,Breakfast,Dine-In,Apple Pie,Caramel Topping,2,1.67,0.0,0.37,4.71,Cash
+120547,401,2025-05-20 10:05:09,2025-05-20,Morning,Dine-In,Latte,Sugar-Free Syrup,1,3.19,0.0,0.26,3.75,Card
+120548,202,2025-06-26 08:30:30,2025-06-26,Breakfast,Delivery,French Fries,,2,2.75,0.0,0.43,6.43,MobilePay
+120549,301,2025-04-17 08:59:09,2025-04-17,Breakfast,Takeout,Coffee,Extra Ice,1,1.77,0.35,0.1,1.52,Card
+120550,201,2025-06-01 12:38:24,2025-06-01,Lunch,Dine-In,Chicken Sandwich,No Pickles,1,5.42,0.0,0.41,5.83,Card
+120551,402,2025-06-25 13:53:34,2025-06-25,Lunch,Takeout,Spicy Chicken Sandwich,Extra Patty,1,5.58,0.0,0.53,8.11,GiftCard
+120552,202,2025-04-11 18:05:51,2025-04-11,Dinner,Drive-Thru,Cheeseburger,,1,4.88,0.0,0.46,5.34,Card
+120553,401,2025-05-02 11:35:24,2025-05-02,Morning,Dine-In,Chicken Nuggets (6pc),,2,3.8,0.0,0.65,8.25,MobilePay
+120554,202,2025-04-16 14:43:15,2025-04-16,Lunch,Dine-In,Cheeseburger,,1,4.6,0.0,0.44,5.04,MobilePay
+120555,201,2025-06-20 12:39:41,2025-06-20,Lunch,Takeout,Chicken Nuggets (10pc),,3,4.85,0.0,1.02,15.57,Card
+120556,103,2025-05-21 14:53:48,2025-05-21,Lunch,Delivery,Chicken Sandwich Combo,,1,8.75,0.49,0.65,9.91,Card
+120557,103,2025-05-20 00:11:15,2025-05-20,Late Night,Drive-Thru,Double Cheeseburger,,1,5.56,0.0,0.47,6.03,Card
+120558,501,2025-07-26 21:59:38,2025-07-26,Dinner,Dine-In,Spicy Chicken Sandwich,,1,5.79,0.0,0.42,6.21,Card
+120559,102,2025-06-17 11:56:20,2025-06-17,Morning,Takeout,Coffee,,2,1.81,0.0,0.22,3.84,Card
+120560,101,2025-05-07 07:59:07,2025-05-07,Breakfast,Dine-In,Egg Muffin,,1,3.31,0.0,0.24,3.55,Card
+120561,202,2025-07-29 13:45:35,2025-07-29,Lunch,Delivery,French Fries,Extra Sauce,3,3.23,0.0,0.76,11.2,Card
+120562,501,2025-04-30 12:46:31,2025-04-30,Lunch,Takeout,Chicken Sandwich Combo,,1,9.43,0.0,0.8,10.23,Card
+120563,103,2025-06-05 20:37:26,2025-06-05,Dinner,Dine-In,Chicken Sandwich Combo,No Sauce,1,8.83,0.0,0.71,9.54,MobilePay
+120564,103,2025-07-25 18:20:44,2025-07-25,Dinner,Dine-In,Cheeseburger Combo,,2,9.09,0.0,1.55,19.73,Card
+120565,102,2025-05-19 16:43:48,2025-05-19,Afternoon,Takeout,Chicken Nuggets (10pc),,1,4.85,0.73,0.35,4.47,MobilePay
+120566,101,2025-05-19 11:58:29,2025-05-19,Lunch,Dine-In,Veggie Burger,Add Jalapenos,1,4.53,0.0,0.32,5.25,MobilePay
+120567,301,2025-05-30 13:31:39,2025-05-30,Lunch,Dine-In,Iced Tea,Almond Milk,2,1.76,0.0,0.39,5.31,Card
+120568,301,2025-05-09 21:14:10,2025-05-09,Dinner,Dine-In,Double Cheeseburger Combo,,1,9.05,0.45,0.65,9.25,Cash
+120569,501,2025-06-22 20:44:10,2025-06-22,Dinner,Drive-Thru,Double Cheeseburger,,1,5.59,0.0,0.48,6.07,Card
+120570,402,2025-06-29 01:14:05,2025-06-29,Late Night,Takeout,Cheeseburger,,2,4.5,0.0,0.65,9.65,Card
+120571,402,2025-07-16 21:06:21,2025-07-16,Dinner,Dine-In,Chicken Sandwich Combo,,1,9.83,0.0,1.03,11.86,Cash
+120572,501,2025-05-02 14:12:04,2025-05-02,Lunch,Dine-In,Spicy Chicken Sandwich,Extra Cheese,1,5.77,0.0,0.41,6.68,Card
+120573,402,2025-07-25 11:22:27,2025-07-25,Lunch,Dine-In,Cheeseburger Combo,,1,8.38,0.0,0.5,8.88,Card
+120574,501,2025-05-24 11:33:27,2025-05-24,Morning,Dine-In,Latte,,1,3.45,0.0,0.26,3.71,Card
+120575,401,2025-07-28 12:46:52,2025-07-28,Lunch,Drive-Thru,Chicken Sandwich,No Sauce,1,4.58,0.0,0.34,4.92,Card
+120576,202,2025-05-13 19:10:20,2025-05-13,Dinner,Delivery,Veggie Burger,,1,5.32,0.0,0.32,5.64,Card
+120577,501,2025-06-10 11:31:55,2025-06-10,Lunch,Dine-In,French Fries,No Sauce,2,2.86,0.0,0.4,6.12,Card
+120578,402,2025-06-01 20:42:31,2025-06-01,Dinner,Dine-In,Double Cheeseburger Combo,,1,9.25,0.0,0.83,10.08,Card
+120579,201,2025-07-22 16:31:01,2025-07-22,Afternoon,Dine-In,Ice Cream Cone,Cinnamon,1,1.77,0.0,0.16,2.03,Cash
+120580,402,2025-04-19 23:16:58,2025-04-19,Late Night,Drive-Thru,Spicy Chicken Sandwich,Gluten-Free Bun,1,5.77,1.02,0.37,6.12,MobilePay
+120581,101,2025-05-14 12:29:43,2025-05-14,Lunch,Dine-In,Chicken Sandwich Combo,Gluten-Free Bun,1,8.78,1.47,0.5,8.81,GiftCard
+120582,101,2025-05-17 11:03:16,2025-05-17,Lunch,Dine-In,Double Cheeseburger Combo,,2,10.31,0.0,1.34,21.96,MobilePay
+120583,202,2025-06-10 11:15:51,2025-06-10,Morning,Delivery,Bottled Water,Extra Ice,2,1.63,0.0,0.23,3.49,Card
+120584,201,2025-06-17 10:19:19,2025-06-17,Morning,Dine-In,Hash Browns,,1,1.93,0.0,0.13,2.16,Cash
+120585,402,2025-06-11 14:26:29,2025-06-11,Lunch,Dine-In,Soft Drink (Medium),Light Ice,1,1.76,0.0,0.13,1.89,Cash
+120586,101,2025-06-20 19:25:42,2025-06-20,Dinner,Dine-In,French Fries,Large Size,1,2.51,0.0,0.2,3.31,MobilePay
+120587,101,2025-05-27 10:32:47,2025-05-27,Breakfast,Drive-Thru,Breakfast Burrito,Cinnamon,1,3.53,,0.25,3.88,Cash
+120588,201,2025-08-09 06:38:56,2025-08-09,Breakfast,Dine-In,Hash Browns,Cinnamon,1,2.06,0.0,0.16,2.32,Card
+120589,501,2025-04-22 17:39:07,2025-04-22,Afternoon,Takeout,Chicken Nuggets (10pc),,2,4.7,0.0,0.89,10.29,Cash
+120590,301,2025-06-20 16:44:51,2025-06-20,Afternoon,Dine-In,Onion Rings,,1,3.16,0.0,0.19,3.35,Card
+120591,301,2025-06-11 01:17:00,2025-06-11,Late Night,Drive-Thru,Soft Drink (Large),,3,1.94,0.0,0.55,6.37,Card
+120592,103,2025-05-04 11:59:25,2025-05-04,Morning,Dine-In,Soft Drink (Small),Oat Milk,2,1.58,0.0,0.43,4.99,MobilePay
+120593,301,2025-04-25 16:04:02,2025-04-25,Afternoon,Dine-In,French Fries,Extra Sauce,3,2.73,0.0,0.65,9.59,Cash
+120594,103,2025-06-21 21:59:04,2025-06-21,Dinner,Dine-In,Cheeseburger,,1,4.84,0.0,0.29,5.13,Card
+120595,501,2025-07-15 13:31:28,2025-07-15,Lunch,Delivery,Double Cheeseburger Combo,,1,9.73,0.0,0.63,10.36,Card
+120596,101,2025-06-18 11:21:11,2025-06-18,Lunch,Delivery,Spicy Chicken Combo,,1,9.16,0.0,0.82,9.98,GiftCard
+120597,402,2025-06-22 11:36:05,2025-06-22,Lunch,Dine-In,Double Cheeseburger,,1,5.33,0.0,0.32,5.65,Card
+120598,102,2025-07-20 20:04:34,2025-07-20,Dinner,Delivery,Onion Rings,Extra Sauce,1,3.01,0.0,0.21,3.47,MobilePay
+120599,401,2025-06-28 10:08:13,2025-06-28,Morning,Takeout,Chicken Nuggets (6pc),,2,3.83,0.0,0.5,8.16,Cash
+120600,301,2025-06-17 22:56:35,2025-06-17,Late Night,Delivery,Onion Rings,,1,3.35,0.0,0.27,3.62,Card
+120601,101,2025-05-01 06:34:38,2025-05-01,Breakfast,Drive-Thru,Coffee,No Ice,1,1.71,0.0,0.12,1.83,Cash
+120602,301,2025-06-27 14:58:03,2025-06-27,Lunch,Dine-In,Cheeseburger,,1,4.78,0.0,0.45,5.23,Card
+120603,102,2025-06-14 06:18:02,2025-06-14,Breakfast,Takeout,Bottled Water,Light Ice,1,1.55,0.0,0.1,1.65,Cash
+120604,301,2025-04-22 19:28:45,2025-04-22,Dinner,Dine-In,Chicken Sandwich Combo,Add Bacon,1,9.2,0.0,0.97,11.17,Card
+120605,202,2025-04-15 06:53:33,2025-04-15,Breakfast,Dine-In,Hash Browns,No Cheese,1,2.27,0.0,0.2,2.47,Cash
+120606,202,2025-07-02 15:03:17,2025-07-02,Afternoon,Drive-Thru,Chicken Nuggets (6pc),,1,3.55,0.0,0.3,3.85,Card
+120607,301,2025-04-15 20:59:53,2025-04-15,Dinner,Drive-Thru,Chicken Sandwich Combo,No Sauce,1,8.37,0.0,0.71,9.08,Cash
+120608,202,2025-04-11 21:27:36,2025-04-11,Dinner,Delivery,Spicy Chicken Sandwich,Extra Patty,1,4.96,0.0,0.49,7.45,MobilePay
+120609,403,2025-05-28 14:02:39,2025-05-28,Lunch,,Chicken Sandwich,Spicy,1,5.94,,0.48,6.42,Card
+120610,101,2025-06-09 23:26:03,2025-06-09,Late Night,Drive-Thru,Bottled Water,No Ice,1,1.49,0.0,0.11,1.6,Card
+120611,101,2025-05-18 10:11:43,2025-05-18,Morning,Takeout,Latte,Light Ice,1,3.23,0.0,0.24,3.47,
+120612,101,2025-06-26 15:04:32,2025-06-26,Afternoon,Takeout,French Fries,,1,2.72,0.0,0.23,2.95,Cash
+120613,301,2025-06-18 13:30:18,2025-06-18,Lunch,Delivery,Cheeseburger,,2,4.11,0.82,0.59,7.99,Card
+120614,201,2025-05-27 11:42:46,2025-05-27,Lunch,Dine-In,Chicken Sandwich Combo,Add Bacon,1,10.21,0.0,1.06,12.27,MobilePay
+120615,501,2025-06-03 14:20:17,2025-06-03,Lunch,Dine-In,Chicken Nuggets (10pc),,2,5.03,0.0,0.73,10.79,Cash
+120616,401,2025-06-25 11:58:23,2025-06-25,Lunch,Delivery,Cheeseburger Combo,,1,8.54,0.0,0.6,9.14,Card
+120617,501,2025-07-04 11:20:07,2025-07-04,Morning,Dine-In,Chicken Nuggets (6pc),,1,3.92,0.0,0.27,4.19,
+120618,402,2025-07-24 18:53:27,2025-07-24,Dinner,Dine-In,Cheeseburger,,1,4.65,0.0,0.4,5.05,Card
+120619,301,2025-05-23 15:46:02,2025-05-23,Afternoon,Dine-In,Ice Cream Cone,Cinnamon,1,1.67,0.0,0.13,1.9,MobilePay
+120620,403,2025-04-17 05:37:37,2025-04-17,Breakfast,Takeout,Sausage Biscuit,Sausage Patty,2,2.84,1.21,0.62,7.49,Cash
+120621,401,2025-06-21 13:48:11,2025-06-21,Lunch,Drive-Thru,Chicken Nuggets (10pc),,2,5.15,0.0,0.77,11.07,Card
+120622,202,2025-07-12 12:18:58,2025-07-12,Lunch,Dine-In,Double Cheeseburger,,1,6.52,0.65,0.35,6.22,Cash
+120623,402,2025-08-06 20:13:18,2025-08-06,Dinner,Drive-Thru,Spicy Chicken Combo,,2,9.96,0.0,1.29,21.21,Card
+120624,102,2025-07-05 18:22:51,2025-07-05,Dinner,Dine-In,Spicy Chicken Combo,,1,10.09,0.0,0.96,11.05,MobilePay
+120625,102,2025-04-30 20:12:53,2025-04-30,Dinner,Delivery,Chicken Sandwich Combo,No Pickles,1,8.73,0.0,0.63,9.36,MobilePay
+120626,202,2025-05-20 05:33:54,2025-05-20,Breakfast,Drive-Thru,Sausage Biscuit,No Cheese,1,2.79,0.42,0.2,2.57,Card
+120627,202,2025-04-19 20:42:31,2025-04-19,Dinner,Takeout,Chicken Sandwich Combo,Gluten-Free Bun,1,8.93,0.0,0.74,10.67,Cash
+120628,301,2025-06-26 17:25:45,2025-06-26,Afternoon,Dine-In,Brownie,Cinnamon,1,1.9,0.0,0.15,2.15,MobilePay
+120629,301,2025-06-30 11:25:51,2025-06-30,Morning,Takeout,Ice Cream Cone,,1,1.77,0.0,0.11,1.88,Card
+120630,102,2025-05-23 00:08:38,2025-05-23,Late Night,Drive-Thru,Cheeseburger,,1,3.93,0.0,0.31,4.24,GiftCard
+120631,201,2025-04-24 01:55:45,2025-04-24,Late Night,Takeout,Milkshake,,1,4.5,0.0,0.27,4.77,MobilePay
+120632,402,2025-07-04 07:01:14,2025-07-04,Breakfast,Drive-Thru,Egg Muffin,Cinnamon,1,3.2,0.0,0.25,3.55,Cash
+120633,101,2025-04-25 09:38:58,2025-04-25,Breakfast,Dine-In,Coffee,,1,1.8,0.0,0.14,1.94,Cash
+120634,501,2025-07-03 14:05:14,2025-07-03,Lunch,Drive-Thru,Cheeseburger Combo,,1,7.98,0.0,0.48,8.46,Card
+120635,402,2025-08-06 11:49:14,2025-08-06,Morning,Takeout,Coffee,,1,1.56,0.0,0.1,1.66,Card
+120636,103,2025-04-24 14:33:46,2025-04-24,Lunch,Drive-Thru,Cheeseburger,,1,4.76,0.0,0.33,5.09,Cash
+120637,201,2025-04-30 21:34:31,2025-04-30,Dinner,Dine-In,Veggie Burger,Add Jalapenos,1,5.27,0.0,0.37,6.04,Cash
+120638,403,2025-07-19 19:28:55,2025-07-19,Dinner,Drive-Thru,Cheeseburger Combo,,1,7.85,0.0,0.75,8.6,
+120639,202,2025-05-23 13:36:41,2025-05-23,Lunch,Dine-In,Spicy Chicken Combo,,2,8.64,0.0,1.3,18.58,Card
+120640,103,2025-05-10 08:00:20,2025-05-10,Breakfast,Takeout,Egg Muffin,Sausage Patty,1,3.16,0.0,0.28,4.64,Card
+120641,301,2025-04-18 15:22:40,2025-04-18,Afternoon,Dine-In,French Fries,Extra Sauce,1,3.11,0.0,0.29,3.65,Card
+120642,102,2025-07-05 19:16:36,2025-07-05,Dinner,Dine-In,Chicken Sandwich Combo,No Sauce,1,8.86,0.0,0.66,9.52,MobilePay
+120643,101,2025-07-13 18:59:51,2025-07-13,Dinner,Delivery,Cheeseburger Combo,,1,7.74,0.0,0.54,8.28,Card
+120644,102,2025-06-20 11:49:24,2025-06-20,Morning,Delivery,Side Salad,,1,2.79,0.0,0.2,2.99,Card
+120645,403,2025-05-13 13:43:07,2025-05-13,Lunch,Takeout,Spicy Chicken Sandwich,,1,5.54,0.0,0.44,5.98,Card
+120646,401,2025-04-12 11:12:28,2025-04-12,Lunch,Takeout,Chicken Sandwich Combo,,2,7.64,0.0,1.45,16.73,Card
+120647,101,2025-05-11 00:17:40,2025-05-11,Late Night,Dine-In,Cheeseburger,,1,4.47,0.0,0.4,4.87,Cash
+120648,101,2025-05-23 12:45:47,2025-05-23,Lunch,Dine-In,Cheeseburger,,1,4.41,0.0,0.26,4.67,MobilePay
+120649,101,2025-05-15 13:57:45,2025-05-15,Lunch,Dine-In,Spicy Chicken Combo,,1,9.64,0.0,0.82,10.46,GiftCard
+120650,202,2025-06-14 05:17:38,2025-06-14,Breakfast,Dine-In,Egg Muffin,Extra Egg,1,3.7,0.0,0.31,5.01,Card
+120651,102,2025-07-17 18:11:20,2025-07-17,Dinner,Delivery,Double Cheeseburger Combo,,1,10.55,0.0,0.69,11.24,GiftCard
+120652,201,2025-05-07 19:19:03,2025-05-07,Dinner,Takeout,Spicy Chicken Sandwich,,1,5.54,0.0,0.42,6.21,Card
+120653,501,2025-05-03 14:53:40,2025-05-03,Lunch,Delivery,Chicken Nuggets (10pc),,1,4.62,0.0,0.39,5.01,Card
+120654,403,2025-05-06 13:05:32,2025-05-06,Lunch,Drive-Thru,Cheeseburger Combo,,1,9.78,0.0,0.68,10.46,Card
+120655,101,2025-07-27 13:55:57,2025-07-27,Lunch,Dine-In,Spicy Chicken Sandwich,Extra Cheese,1,5.66,0.0,0.43,6.59,Card
+120656,501,2025-05-08 16:30:53,2025-05-08,Afternoon,Dine-In,Iced Tea,Sugar-Free Syrup,1,1.89,0.0,0.16,2.35,Cash
+120657,501,2025-08-06 12:32:10,2025-08-06,Lunch,Drive-Thru,Soft Drink (Medium),,3,1.74,0.0,0.37,5.59,MobilePay
+120658,103,2025-06-12 21:10:29,2025-06-12,Dinner,Dine-In,French Fries,,1,2.7,0.0,0.2,2.9,Card
+120659,101,2025-06-26 11:30:35,2025-06-26,Lunch,Delivery,Chicken Nuggets (10pc),,2,4.94,0.0,0.64,10.52,Card
+120660,202,2025-05-08 21:38:25,2025-05-08,Dinner,Takeout,Spicy Chicken Combo,,1,9.0,0.0,0.63,9.63,Card
+120661,401,2025-05-19 19:08:31,2025-05-19,Dinner,Dine-In,Cheeseburger Combo,,1,8.22,0.0,0.62,8.84,Card
+120662,103,2025-05-14 09:53:06,2025-05-14,Breakfast,Takeout,Coffee,,2,1.88,0.0,0.23,3.99,Card
+120663,401,2025-08-03 13:27:16,2025-08-03,Lunch,Drive-Thru,French Fries,No Sauce,2,2.49,0.0,0.47,5.45,Card
+120664,102,2025-06-27 10:37:16,2025-06-27,Breakfast,Dine-In,Coffee,No Ice,1,1.75,0.35,0.13,1.53,MobilePay
+120665,202,2025-08-06 20:11:18,2025-08-06,Dinner,Takeout,Veggie Burger,Spicy,1,5.28,0.0,0.5,5.78,Card
+120666,402,2025-07-05 13:29:44,2025-07-05,Lunch,Delivery,Chicken Nuggets (10pc),,2,4.91,0.0,0.59,10.41,MobilePay
+120667,102,2025-05-09 11:21:59,2025-05-09,Lunch,Delivery,Veggie Burger,,1,5.77,0.0,0.38,6.15,Card
+120668,202,2025-06-01 15:44:51,2025-06-01,Afternoon,Dine-In,French Fries,No Sauce,2,1.89,0.0,0.28,4.06,Cash
+120669,101,2025-08-07 14:42:08,2025-08-07,Lunch,Dine-In,Double Cheeseburger Combo,,1,10.54,0.0,0.84,11.38,Card
+120670,401,2025-06-28 17:24:30,2025-06-28,Afternoon,Drive-Thru,Onion Rings,,1,3.49,0.0,0.31,3.8,Card
+120671,501,2025-05-21 01:35:22,2025-05-21,Late Night,Dine-In,French Fries,,2,2.05,0.0,0.37,4.47,Cash
+120672,101,2025-07-04 21:15:24,2025-07-04,Dinner,Drive-Thru,Chicken Sandwich Combo,Extra Cheese,1,8.82,0.0,0.61,9.93,Card
+120673,401,2025-06-25 12:26:57,2025-06-25,Lunch,Takeout,Veggie Burger,,2,5.11,0.0,0.82,11.04,Card
+120674,202,2025-06-13 19:59:55,2025-06-13,Dinner,Dine-In,Chicken Sandwich Combo,,1,8.29,0.0,0.54,8.83,Card
+120675,501,2025-05-23 10:38:36,2025-05-23,Morning,Delivery,Latte,,1,3.05,0.0,0.2,3.25,MobilePay
+120676,403,2025-04-23 19:29:23,2025-04-23,Dinner,Drive-Thru,Cheeseburger Combo,,1,7.93,0.0,0.52,8.45,Card
+120677,201,2025-06-11 18:51:38,2025-06-11,Dinner,Drive-Thru,French Fries,,2,3.14,0.31,0.51,6.48,MobilePay
+120678,202,2025-06-02 18:45:49,2025-06-02,Dinner,Delivery,Spicy Chicken Combo,,2,9.76,3.9,0.94,16.56,GiftCard
+120679,102,2025-04-23 07:48:52,2025-04-23,Breakfast,Drive-Thru,Coffee,Almond Milk,1,2.14,0.0,0.26,3.1,Cash
+120680,402,2025-05-05 20:21:18,2025-05-05,Dinner,Delivery,Cheeseburger Combo,,1,8.85,0.88,0.56,8.53,Card
+120681,202,2025-07-20 00:30:45,2025-07-20,Late Night,Delivery,Onion Rings,Small Size,1,2.82,0.0,0.19,2.71,Card
+120682,202,2025-06-05 14:30:39,2025-06-05,Lunch,Drive-Thru,Chicken Sandwich Combo,Add Jalapenos,1,8.73,0.0,0.82,9.95,GiftCard
+120683,102,2025-07-01 12:14:09,2025-07-01,Lunch,Dine-In,Double Cheeseburger Combo,,1,10.23,0.0,0.61,10.84,MobilePay
+120684,201,2025-08-05 14:40:06,2025-08-05,Lunch,Drive-Thru,Chicken Sandwich,Add Jalapenos,2,4.94,0.0,0.64,11.32,Card
+120685,201,2025-05-10 11:11:02,2025-05-10,Morning,Drive-Thru,Latte,Almond Milk,2,3.42,0.82,0.7,8.12,Card
+120686,102,2025-05-01 11:20:50,2025-05-01,Lunch,Delivery,Double Cheeseburger,,1,5.64,0.0,,6.05,Card
+120687,402,2025-07-16 21:00:16,2025-07-16,Dinner,Drive-Thru,Cheeseburger Combo,,1,8.3,0.0,0.62,8.92,Cash
+120688,402,2025-05-05 06:31:00,2025-05-05,Breakfast,Takeout,Breakfast Burrito,,1,3.92,0.0,0.29,4.21,GiftCard
+120689,201,2025-05-04 19:13:19,2025-05-04,Dinner,Takeout,Chicken Sandwich Combo,,1,9.21,0.0,0.64,9.85,Card
+120690,103,2025-06-04 14:41:38,2025-06-04,Lunch,Drive-Thru,Chicken Sandwich,,2,5.26,0.0,1.16,15.68,Cash
+120691,401,2025-05-04 16:00:48,2025-05-04,Afternoon,Drive-Thru,Onion Rings,Small Size,3,3.47,0.0,0.57,10.08,Card
+120692,101,2025-04-30 14:20:35,2025-04-30,Lunch,Takeout,Chicken Sandwich,Gluten-Free Bun,1,4.99,0.0,0.48,6.47,Card
+120693,401,2025-04-15 17:31:15,2025-04-15,Afternoon,Dine-In,Onion Rings,,1,3.31,0.0,0.26,3.57,Cash
+120694,401,2025-04-20 19:37:19,2025-04-20,Dinner,Delivery,Cheeseburger Combo,,1,8.79,0.0,0.84,9.63,Card
+120695,301,2025-06-24 01:47:56,2025-06-24,Late Night,Takeout,Chicken Sandwich,Add Bacon,1,5.28,0.0,0.47,6.75,Card
+120696,402,2025-04-25 18:58:32,2025-04-25,Dinner,Takeout,Soft Drink (Large),Extra Ice,2,2.02,0.0,0.32,4.36,Cash
+120697,403,2025-06-05 05:36:59,2025-06-05,Breakfast,Takeout,Hash Browns,,1,1.64,0.0,0.15,1.79,Cash
+120698,501,2025-06-03 14:56:01,2025-06-03,Lunch,Takeout,Chicken Sandwich Combo,No Pickles,1,9.45,0.0,0.71,10.16,Card
+120699,201,2025-05-28 20:57:56,2025-05-28,Dinner,Delivery,Chicken Sandwich,,1,5.32,0.0,0.51,5.83,Card
+120700,301,2025-04-13 19:42:13,2025-04-13,Dinner,Dine-In,Soft Drink (Large),,3,1.94,0.0,0.35,6.17,Card
+120701,402,2025-04-22 19:24:03,2025-04-22,Dinner,Takeout,Chicken Sandwich,,1,5.77,0.0,0.6,6.87,Card
+120702,301,2025-07-14 11:51:32,2025-07-14,Lunch,Takeout,Double Cheeseburger,,1,5.45,0.0,0.46,5.91,Card
+120703,202,2025-05-12 10:41:41,2025-05-12,Morning,Drive-Thru,Coffee,Almond Milk,1,1.61,0.0,,,MobilePay
+120704,101,2025-04-29 06:55:47,2025-04-29,Breakfast,Drive-Thru,Sausage Biscuit,,1,2.65,0.0,0.19,2.84,Card
+120705,103,2025-07-14 07:25:40,2025-07-14,Breakfast,Takeout,Pancake Platter,,1,5.19,1.04,0.25,4.4,MobilePay
+120706,403,2025-07-28 05:22:57,2025-07-28,Breakfast,Dine-In,Egg Muffin,Cinnamon,3,2.92,,0.86,9.92,Card
+120707,202,2025-05-17 09:23:39,2025-05-17,Breakfast,Drive-Thru,Breakfast Burrito,No Cheese,1,4.18,0.0,0.29,4.47,Card
+120708,102,2025-07-08 10:46:42,2025-07-08,Morning,Takeout,Soft Drink (Small),Oat Milk,1,1.37,0.0,0.14,2.21,Cash
+120709,401,2025-04-30 15:11:00,2025-04-30,Afternoon,Dine-In,Side Salad,,1,3.21,0.0,0.29,3.5,Card
+120710,201,2025-07-07 14:07:47,2025-07-07,Lunch,Dine-In,Chicken Nuggets (10pc),,2,5.06,0.0,0.91,11.03,MobilePay
+120711,202,2025-06-24 08:41:01,2025-06-24,Breakfast,Drive-Thru,Hash Browns,Extra Egg,1,1.87,0.0,0.2,3.07,Card
+120712,403,2025-04-27 10:09:53,2025-04-27,Morning,Delivery,Coffee,Oat Milk,1,1.78,0.0,0.24,2.72,MobilePay
+120713,403,2025-07-20 05:43:10,2025-07-20,Breakfast,Drive-Thru,Hash Browns,No Cheese,1,1.97,0.0,0.17,2.14,MobilePay
+120714,403,2025-04-17 01:29:20,2025-04-17,Late Night,Takeout,Cheeseburger,,1,4.48,0.0,0.29,4.77,MobilePay
+120715,201,2025-07-20 14:25:37,2025-07-20,Lunch,Dine-In,Cheeseburger,,1,4.86,0.0,0.32,5.18,MobilePay
+120716,202,2025-08-08 18:33:19,2025-08-08,Dinner,Takeout,Chicken Sandwich Combo,,1,9.05,0.0,0.86,9.91,Cash
+120717,301,2025-08-04 21:53:57,2025-08-04,Dinner,Dine-In,Cheeseburger Combo,,1,8.57,0.0,0.77,9.34,Cash
+120718,501,2025-07-10 21:53:44,2025-07-10,Dinner,Drive-Thru,Chicken Sandwich Combo,Gluten-Free Bun,2,8.81,0.0,1.47,21.09,Card
+120719,101,2025-04-28 08:15:37,2025-04-28,Breakfast,Takeout,Pancake Platter,,1,4.97,0.0,0.47,5.44,Cash
+120720,101,2025-05-26 17:06:36,2025-05-26,Afternoon,Dine-In,French Fries,Extra Sauce,2,2.73,0.0,0.36,6.32,GiftCard
+120721,401,2025-05-21 21:42:58,2025-05-21,Dinner,Dine-In,Cheeseburger,,1,3.92,0.0,0.24,4.16,Cash
+120722,201,2025-05-01 10:20:29,2025-05-01,Morning,Delivery,Egg Muffin,,1,2.9,0.0,0.23,3.13,Card
+120723,102,2025-05-23 12:20:53,2025-05-23,Lunch,Dine-In,Cheeseburger,,1,4.74,0.0,0.4,5.14,MobilePay
+120724,301,2025-07-19 20:01:07,2025-07-19,Dinner,Dine-In,Cheeseburger Combo,,1,8.58,0.0,0.6,9.18,Card
+120725,401,2025-07-22 20:34:22,2025-07-22,Dinner,Takeout,Double Cheeseburger,,1,5.66,0.0,0.42,6.08,MobilePay
+120726,201,2025-05-16 13:01:31,2025-05-16,Lunch,Dine-In,Chicken Sandwich,Extra Patty,1,5.4,0.0,0.44,7.84,Cash
+120727,403,2025-05-29 12:26:11,2025-05-29,Lunch,Drive-Thru,Chicken Sandwich Combo,Extra Sauce,1,9.16,0.0,0.75,10.16,Card
+120728,301,2025-07-31 12:20:55,2025-07-31,Lunch,Drive-Thru,Double Cheeseburger Combo,,1,9.72,0.0,0.92,10.64,Cash
+120729,301,2025-05-19 19:29:17,2025-05-19,Dinner,Delivery,Chicken Sandwich Combo,Extra Sauce,1,8.6,0.0,0.53,9.38,Card
+120730,103,2025-06-25 05:46:17,2025-06-25,Breakfast,Drive-Thru,Coffee,Sugar-Free Syrup,1,1.93,0.0,0.16,2.39,MobilePay
+120731,301,2025-04-29 11:09:49,2025-04-29,Morning,Takeout,Latte,,1,3.0,0.0,0.24,3.24,Cash
+120732,103,2025-07-09 19:53:11,2025-07-09,Dinner,Dine-In,Spicy Chicken Combo,,1,9.49,0.0,0.81,10.3,MobilePay
+120733,202,2025-05-11 14:56:16,2025-05-11,Lunch,Takeout,Veggie Burger,,3,4.64,0.0,1.11,15.03,Card
+120734,403,2025-06-23 05:10:00,2025-06-23,Breakfast,Drive-Thru,Egg Muffin,Extra Egg,1,3.5,0.0,0.36,4.86,Card
+120735,201,2025-07-28 23:38:23,2025-07-28,Late Night,Drive-Thru,Onion Rings,,1,3.27,0.0,0.27,3.24,MobilePay
+120736,202,2025-07-27 20:43:11,2025-07-27,Dinner,Delivery,Double Cheeseburger,,1,5.85,0.0,0.47,6.32,Card
+120737,102,2025-08-01 16:15:23,2025-08-01,Afternoon,Dine-In,Soft Drink (Medium),No Ice,1,1.82,0.0,0.16,1.98,GiftCard
+120738,403,2025-05-18 07:58:33,2025-05-18,Breakfast,Drive-Thru,Breakfast Burrito,No Cheese,1,4.16,0.0,0.3,4.46,Cash
+120739,402,2025-05-30 08:39:24,2025-05-30,Breakfast,Takeout,Coffee,Almond Milk,1,2.09,0.0,0.2,2.99,GiftCard
+120740,301,2025-06-02 18:03:19,2025-06-02,Dinner,Takeout,Chicken Sandwich Combo,Extra Sauce,1,8.07,0.0,0.58,8.9,Card
+120741,103,2025-05-10 20:04:45,2025-05-10,Dinner,Dine-In,Chicken Sandwich Combo,,2,8.35,0.0,1.09,17.79,
+120742,103,2025-04-26 23:23:58,2025-04-26,Late Night,Drive-Thru,Double Cheeseburger,,1,5.48,0.0,0.47,5.95,Card
+120743,202,2025-08-08 14:52:26,2025-08-08,Lunch,Takeout,Chicken Sandwich,,1,5.4,0.0,0.54,6.94,MobilePay
+120744,102,2025-04-16 08:04:11,2025-04-16,Breakfast,Delivery,Coffee,Almond Milk,2,1.99,0.0,0.51,5.89,Card
+120745,201,2025-05-30 01:12:08,2025-05-30,Late Night,Drive-Thru,French Fries,,1,2.43,0.0,0.16,2.59,Card
+120746,103,2025-05-03 11:42:59,2025-05-03,Lunch,Takeout,Double Cheeseburger Combo,,1,10.08,1.01,0.73,9.8,GiftCard
+120747,101,2025-07-21 13:32:04,2025-07-21,Lunch,Dine-In,Spicy Chicken Sandwich,No Pickles,2,5.35,1.07,0.91,10.54,Cash
+120748,102,2025-06-02 11:39:46,2025-06-02,Lunch,Dine-In,Veggie Burger,,1,5.03,0.0,0.43,5.46,MobilePay
+120749,101,2025-07-31 15:41:52,2025-07-31,Afternoon,Drive-Thru,Milkshake,,1,3.52,0.0,0.26,3.78,MobilePay
+120750,103,2025-04-19 13:14:09,2025-04-19,Lunch,Dine-In,Soft Drink (Medium),Extra Ice,2,1.66,0.0,0.2,3.52,Cash
+120751,201,2025-07-24 00:13:25,2025-07-24,Late Night,Delivery,Onion Rings,,1,2.76,0.0,0.26,3.27,Card
+120752,501,2025-06-11 14:23:41,2025-06-11,Lunch,Dine-In,Cheeseburger Combo,,1,8.0,0.0,0.68,8.68,Card
+120753,403,2025-04-11 14:01:44,2025-04-11,Lunch,Dine-In,Chicken Sandwich,,1,5.78,0.0,0.42,6.2,Cash
+120754,402,2025-04-12 11:43:06,2025-04-12,Lunch,Drive-Thru,Cheeseburger,,1,4.17,0.0,0.33,4.5,Card
+120755,102,2025-04-15 13:37:57,2025-04-15,Lunch,Drive-Thru,Spicy Chicken Combo,,1,10.61,0.0,0.74,11.35,Card
+120756,402,2025-07-05 17:54:57,2025-07-05,Afternoon,Dine-In,Ice Cream Cone,Caramel Topping,1,1.7,0.0,0.19,2.39,Card
+120757,301,2025-05-27 19:28:57,2025-05-27,Dinner,Dine-In,Spicy Chicken Combo,,1,9.38,1.41,0.52,8.49,Card
+120758,201,2025-06-29 00:45:50,2025-06-29,Late Night,Drive-Thru,French Fries,Large Size,1,2.4,0.0,0.21,3.21,Card
+120759,101,2025-04-16 12:03:41,2025-04-16,Lunch,Dine-In,Cheeseburger Combo,,1,8.84,0.0,0.8,9.64,Card
+120760,101,2025-08-07 20:24:12,2025-08-07,Dinner,Drive-Thru,Cheeseburger,,1,4.3,0.0,0.41,4.71,Card
+120761,202,2025-06-08 13:17:05,2025-06-08,Lunch,Drive-Thru,Cheeseburger,,1,4.53,0.0,0.29,4.82,MobilePay
+120762,102,2025-04-29 06:49:05,2025-04-29,Breakfast,Drive-Thru,Egg Muffin,Extra Egg,1,3.88,0.0,0.44,5.32,Card
+120763,103,2025-05-06 10:11:05,2025-05-06,Morning,Delivery,Bottled Water,Light Ice,1,1.43,0.21,0.12,1.34,Card
+120764,402,2025-05-15 11:28:11,2025-05-15,Lunch,Takeout,Soft Drink (Medium),,2,1.84,0.0,0.27,3.95,Card
+120765,201,2025-05-20 09:18:38,2025-05-20,Breakfast,Takeout,Hash Browns,,1,1.75,0.0,0.1,1.85,Cash
+120766,102,2025-04-16 11:39:48,2025-04-16,Lunch,Drive-Thru,Double Cheeseburger Combo,,1,9.97,0.0,0.65,10.62,Card
+120767,102,2025-05-08 16:28:22,2025-05-08,Afternoon,Delivery,Soft Drink (Medium),Extra Ice,1,1.89,0.0,0.14,2.03,Card
+120768,401,2025-04-16 14:28:09,2025-04-16,Lunch,Dine-In,Cheeseburger Combo,,1,8.18,0.0,0.57,8.75,
+120769,501,2025-07-13 22:01:25,2025-07-13,Late Night,Delivery,Double Cheeseburger,,1,6.5,0.0,0.62,7.12,Card
+120770,103,2025-05-16 11:22:06,2025-05-16,Lunch,Dine-In,Cheeseburger Combo,,1,8.84,0.0,0.64,9.48,
+120771,501,2025-07-25 12:33:18,2025-07-25,Lunch,Dine-In,Spicy Chicken Combo,,1,9.01,0.0,0.54,9.55,Card
+120772,301,2025-04-16 16:50:17,2025-04-16,Afternoon,Takeout,French Fries,,1,2.82,0.0,0.2,3.02,Cash
+120773,101,2025-04-19 11:24:48,2025-04-19,Lunch,Dine-In,Cheeseburger Combo,,2,8.98,0.0,1.35,19.31,Card
+120774,301,2025-08-02 21:15:14,2025-08-02,Dinner,Delivery,Double Cheeseburger Combo,,1,10.3,0.0,0.82,11.12,Card
+120775,201,2025-05-25 22:18:46,2025-05-25,Late Night,Dine-In,French Fries,Small Size,2,2.2,0.0,0.23,4.03,MobilePay
+120776,401,2025-06-11 06:28:40,2025-06-11,Breakfast,Takeout,Breakfast Burrito,,2,3.56,0.0,0.52,7.64,Card
+120777,102,2025-06-29 09:30:23,2025-06-29,Breakfast,Dine-In,Sausage Biscuit,,1,2.98,0.0,0.21,3.19,MobilePay
+120778,501,2025-06-05 05:46:45,2025-06-05,Breakfast,Drive-Thru,Soft Drink (Small),,1,1.53,0.0,0.11,1.64,Card
+120779,102,2025-06-01 11:33:26,2025-06-01,Lunch,Delivery,Double Cheeseburger,,1,6.0,0.0,0.39,6.39,Card
+120780,101,2025-04-24 10:14:30,2025-04-24,Breakfast,Dine-In,Hash Browns,,2,1.93,0.0,0.31,4.17,Card
+120781,101,2025-05-12 16:35:04,2025-05-12,Afternoon,Dine-In,French Fries,Large Size,1,2.26,0.43,0.23,2.66,Cash
+120782,501,2025-05-30 13:32:24,2025-05-30,Lunch,Dine-In,Chicken Sandwich Combo,,1,9.18,0.0,0.6,9.78,Card
+120783,401,2025-07-26 10:24:51,2025-07-26,Morning,Dine-In,Coffee,Almond Milk,1,2.01,0.0,0.2,2.91,MobilePay
+120784,501,2025-04-24 20:13:32,2025-04-24,Dinner,Dine-In,Double Cheeseburger Combo,,1,10.27,0.0,0.87,11.14,Card
+120785,402,2025-07-04 17:54:15,2025-07-04,Afternoon,Dine-In,Chicken Nuggets (6pc),,1,4.01,0.6,0.2,3.61,Card
+120786,201,2025-06-16 17:56:23,2025-06-16,Afternoon,Dine-In,Chicken Nuggets (6pc),,2,3.95,0.0,0.59,8.49,Card
+120787,101,2025-04-12 21:11:00,2025-04-12,Dinner,Dine-In,Cheeseburger Combo,,1,8.72,0.0,0.52,9.24,Cash
+120788,401,2025-06-07 08:53:29,2025-06-07,Breakfast,Takeout,Breakfast Burrito,,1,3.72,0.0,0.28,4.0,GiftCard
+120789,201,2025-06-13 10:41:02,2025-06-13,Morning,Drive-Thru,Bottled Water,Sugar-Free Syrup,1,1.3,0.0,0.1,1.7,Cash
+120790,301,2025-06-23 17:35:34,2025-06-23,Afternoon,Dine-In,Onion Rings,,1,3.26,0.0,0.26,3.52,Cash
+120791,401,2025-06-15 11:38:16,2025-06-15,Lunch,Drive-Thru,Spicy Chicken Sandwich,Add Jalapenos,2,5.72,0.0,0.73,12.97,Card
+120792,103,2025-05-28 19:52:50,2025-05-28,Dinner,Dine-In,Double Cheeseburger,,1,5.85,0.0,0.35,6.2,Cash
+120793,201,2025-05-01 16:31:07,2025-05-01,Afternoon,Takeout,Onion Rings,Extra Sauce,1,2.78,0.0,0.26,3.29,MobilePay
+120794,201,2025-04-17 18:31:09,2025-04-17,Dinner,Drive-Thru,Spicy Chicken Sandwich,Gluten-Free Bun,2,5.23,0.0,0.81,13.27,Cash
+120795,102,2025-06-13 05:27:22,2025-06-13,Breakfast,Drive-Thru,Breakfast Burrito,,1,4.0,0.0,0.36,4.36,Card
+120796,301,2025-05-12 08:55:51,2025-05-12,Breakfast,Takeout,Egg Muffin,Sausage Patty,2,3.23,0.0,0.53,9.39,Cash
+120797,102,2025-05-09 10:40:59,2025-05-09,Breakfast,Dine-In,Sausage Biscuit,Cinnamon,1,3.21,0.0,0.3,3.61,Card
+120798,101,2025-06-14 18:32:11,2025-06-14,Dinner,Takeout,Cheeseburger Combo,,1,8.5,0.43,0.77,8.84,Cash
+120799,301,2025-05-14 12:53:04,2025-05-14,Lunch,Dine-In,Cheeseburger,,1,4.5,0.0,0.38,4.88,Card
+120800,201,2025-04-28 18:06:10,2025-04-28,Dinner,Dine-In,Onion Rings,,1,3.41,0.0,0.31,3.97,Cash
+120801,402,2025-06-15 09:44:27,2025-06-15,Breakfast,Dine-In,Latte,,1,3.11,0.0,0.24,3.65,Card
+120802,403,2025-07-07 14:04:50,2025-07-07,Lunch,Delivery,Double Cheeseburger,,1,5.78,0.0,0.49,6.27,Card
+120803,501,2025-07-02 12:20:58,2025-07-02,Lunch,Dine-In,Chicken Sandwich,Extra Patty,1,5.22,1.44,0.55,6.33,Card
+120804,403,2025-05-04 05:30:32,2025-05-04,Breakfast,Drive-Thru,Egg Muffin,Cinnamon,2,3.13,0.0,0.47,6.93,Card
+120805,401,2025-05-16 10:59:23,2025-05-16,Breakfast,Takeout,Latte,Light Ice,1,3.16,0.0,0.3,3.46,Cash
+120806,202,2025-07-31 14:38:01,2025-07-31,Lunch,Takeout,Spicy Chicken Combo,,1,9.4,1.41,0.68,8.67,Cash
+120807,501,2025-07-01 14:32:31,2025-07-01,Lunch,Takeout,Spicy Chicken Combo,,2,9.05,0.0,1.27,19.37,MobilePay
+120808,102,2025-07-06 11:55:18,2025-07-06,Morning,Takeout,Chicken Nuggets (6pc),,1,4.05,0.0,0.3,4.35,Card
+120809,201,2025-04-18 19:51:49,2025-04-18,Dinner,Delivery,Spicy Chicken Combo,,1,8.84,0.0,0.8,9.64,Card
+120810,201,2025-05-20 16:11:56,2025-05-20,Afternoon,Takeout,French Fries,,3,2.59,0.0,0.62,8.39,Card
+120811,401,2025-07-16 07:59:31,2025-07-16,Breakfast,Takeout,Breakfast Burrito,,1,3.63,0.0,0.22,3.85,GiftCard
+120812,301,2025-07-17 05:23:48,2025-07-17,Breakfast,Drive-Thru,Latte,,1,3.6,0.0,0.23,3.83,Card
+120813,101,2025-05-22 10:17:18,2025-05-22,Breakfast,Takeout,Pancake Platter,,2,5.06,0.0,0.91,13.43,Card
+120814,401,2025-05-23 10:10:05,2025-05-23,Morning,Takeout,Chicken Nuggets (6pc),,1,4.0,0.0,0.34,4.34,Cash
+120815,102,2025-05-16 07:27:37,2025-05-16,Breakfast,Drive-Thru,Breakfast Burrito,,2,3.37,0.0,0.61,7.35,Cash
+120816,403,2025-07-14 21:27:50,2025-07-14,Dinner,Drive-Thru,Cheeseburger,,1,4.58,0.0,0.33,4.91,Card
+120817,401,2025-06-30 11:25:17,2025-06-30,Morning,Dine-In,Coffee,Sugar-Free Syrup,2,2.07,0.0,0.34,5.08,Card
+120818,301,2025-06-08 14:46:28,2025-06-08,Lunch,Drive-Thru,Chicken Sandwich,,1,5.42,0.0,0.49,5.91,Card
+120819,201,2025-06-22 20:03:48,2025-06-22,Dinner,Dine-In,Chicken Sandwich,,1,5.78,0.93,0.47,5.72,Cash
+120820,401,2025-06-04 11:14:55,2025-06-04,Lunch,Dine-In,Spicy Chicken Combo,,2,9.03,0.0,1.26,19.32,Card
+120821,201,2025-07-31 15:49:06,2025-07-31,Afternoon,Dine-In,Soft Drink (Medium),Oat Milk,2,1.86,0.0,0.36,5.48,MobilePay
+120822,202,2025-08-07 11:25:08,2025-08-07,Lunch,Dine-In,French Fries,,1,3.29,0.0,0.25,3.54,Card
+120823,501,2025-08-01 21:08:00,2025-08-01,Dinner,Dine-In,Cheeseburger Combo,,1,8.31,0.0,0.79,9.1,Card
+120824,401,2025-06-03 21:10:32,2025-06-03,Dinner,Drive-Thru,Cheeseburger,,3,4.34,0.0,0.85,13.87,Card
+120825,201,2025-07-13 21:49:40,2025-07-13,Dinner,Drive-Thru,Chicken Sandwich Combo,,1,9.72,0.0,0.7,10.42,Card
+120826,402,2025-07-14 14:08:26,2025-07-14,Lunch,Drive-Thru,Double Cheeseburger,,1,6.4,0.0,0.51,6.91,Card
+120827,301,2025-05-31 21:02:59,2025-05-31,Dinner,Drive-Thru,Cheeseburger,,1,4.32,0.0,0.26,4.58,Cash
+120828,201,2025-06-23 15:28:25,2025-06-23,Afternoon,Takeout,Onion Rings,,1,3.02,0.0,0.2,3.22,Cash
+120829,403,2025-05-29 18:09:59,2025-05-29,Dinner,Drive-Thru,Spicy Chicken Combo,,1,9.15,0.0,0.66,9.81,Card
+120830,103,2025-05-29 10:26:51,2025-05-29,Morning,Drive-Thru,Soft Drink (Medium),,3,1.63,0.24,0.33,4.98,Card
+120831,103,2025-06-07 18:05:42,2025-06-07,Dinner,Takeout,Chicken Sandwich Combo,Extra Patty,2,8.53,0.0,2.0,23.06,MobilePay
+120832,103,2025-04-25 17:37:33,2025-04-25,Afternoon,Delivery,Bottled Water,,1,1.36,0.0,0.1,1.46,MobilePay
+120833,501,2025-04-21 13:06:52,2025-04-21,Lunch,Dine-In,Double Cheeseburger Combo,,1,9.61,0.0,0.62,10.23,Card
+120834,202,2025-07-20 09:30:59,2025-07-20,Breakfast,Drive-Thru,Soft Drink (Small),,1,1.54,0.0,0.13,1.67,Cash
+120835,402,2025-06-20 19:25:27,2025-06-20,Dinner,Drive-Thru,Chicken Sandwich Combo,,1,9.11,0.0,0.77,9.88,Card
+120836,401,2025-07-29 12:03:00,2025-07-29,Lunch,Takeout,Spicy Chicken Sandwich,No Sauce,1,6.23,0.62,0.42,6.03,Card
+120837,201,2025-04-17 21:52:31,2025-04-17,Dinner,Dine-In,Chicken Sandwich Combo,Spicy,1,8.49,1.27,0.51,7.73,Cash
+120838,101,2025-06-27 12:44:30,2025-06-27,Lunch,Drive-Thru,Cheeseburger Combo,,1,8.98,0.0,0.65,9.63,Card
+120839,103,2025-08-02 09:56:07,2025-08-02,Breakfast,Dine-In,Egg Muffin,Sausage Patty,1,3.19,0.0,0.32,4.71,GiftCard
+120840,403,2025-07-02 19:57:30,2025-07-02,Dinner,Delivery,Cheeseburger Combo,,1,8.47,0.0,0.64,9.11,Card
+120841,301,2025-04-27 13:47:45,2025-04-27,Lunch,Takeout,Chicken Nuggets (10pc),,2,5.21,1.04,0.7,10.08,Card
+120842,201,2025-06-07 13:58:12,2025-06-07,Lunch,Drive-Thru,Double Cheeseburger Combo,,1,9.43,0.0,0.75,10.18,Card
+120843,103,2025-05-17 13:33:25,2025-05-17,Lunch,Drive-Thru,Chicken Sandwich Combo,Extra Sauce,1,9.18,0.0,0.57,10.0,GiftCard
+120844,101,2025-08-07 14:37:40,2025-08-07,Lunch,Drive-Thru,French Fries,Extra Sauce,3,2.69,0.0,0.64,9.46,Card
+120845,101,2025-05-16 20:25:16,2025-05-16,Dinner,Dine-In,Chicken Sandwich,Add Bacon,1,5.57,0.0,0.43,7.0,Card
+120846,403,2025-05-08 20:49:38,2025-05-08,Dinner,Delivery,Chicken Sandwich Combo,Add Jalapenos,1,9.13,0.0,0.69,10.22,Card
+120847,101,2025-07-30 16:41:15,2025-07-30,Afternoon,Drive-Thru,Chicken Nuggets (10pc),,1,5.81,0.0,0.44,6.25,Card
+120848,202,2025-06-01 11:04:09,2025-06-01,Lunch,Drive-Thru,Cheeseburger,,1,4.28,0.0,0.32,4.6,MobilePay
+120849,403,2025-07-25 14:42:39,2025-07-25,Lunch,Dine-In,Double Cheeseburger Combo,,1,9.72,0.0,0.73,10.45,Card
+120850,102,2025-06-27 06:33:52,2025-06-27,Breakfast,Drive-Thru,Apple Pie,,1,1.51,0.0,0.17,2.18,Card
+120851,402,2025-05-06 18:47:14,2025-05-06,Dinner,Drive-Thru,Double Cheeseburger Combo,,1,9.71,,0.78,10.49,MobilePay
+120852,301,2025-06-17 17:53:00,2025-06-17,Afternoon,Drive-Thru,Chicken Nuggets (6pc),,1,3.58,0.0,0.23,3.81,MobilePay
+120853,102,2025-08-05 17:20:15,2025-08-05,Afternoon,Takeout,French Fries,Large Size,3,2.98,0.0,0.75,11.49,MobilePay
+120854,102,2025-06-24 22:31:19,2025-06-24,Late Night,Drive-Thru,Cheeseburger,,1,4.96,0.5,0.42,4.88,Card
+120855,301,2025-07-25 12:36:13,2025-07-25,Lunch,Takeout,Cheeseburger,,1,4.3,0.0,0.28,4.58,Card
+120856,403,2025-07-28 16:48:59,2025-07-28,Afternoon,Dine-In,Onion Rings,No Sauce,2,2.9,0.0,0.38,6.18,MobilePay
+120857,301,2025-07-27 13:10:37,2025-07-27,Lunch,Drive-Thru,Chicken Sandwich,,1,5.56,0.0,0.36,5.92,
+120858,403,2025-06-18 10:43:33,2025-06-18,Morning,Drive-Thru,Egg Muffin,Cinnamon,1,3.1,0.32,0.24,3.12,Card
+120859,501,2025-07-09 11:45:26,2025-07-09,Lunch,Dine-In,Cheeseburger,,1,4.7,0.0,0.33,5.03,Cash
+120860,101,2025-07-09 10:46:04,2025-07-09,Morning,Delivery,Coffee,Oat Milk,1,1.93,0.0,0.17,2.8,
+120861,102,2025-06-29 21:24:42,2025-06-29,Dinner,Takeout,Spicy Chicken Combo,,1,8.53,0.0,0.62,9.15,Card
+120862,401,2025-08-09 08:29:10,2025-08-09,Breakfast,Dine-In,Egg Muffin,,1,3.63,,0.36,5.19,MobilePay
+120863,403,2025-06-12 07:19:41,2025-06-12,Breakfast,Dine-In,Latte,Sugar-Free Syrup,1,3.69,0.0,0.36,4.35,
+120864,403,2025-04-12 12:07:17,2025-04-12,Lunch,Drive-Thru,Spicy Chicken Combo,,1,8.98,0.0,0.76,9.74,Card
+120865,201,2025-05-16 19:40:31,2025-05-16,Dinner,Drive-Thru,Iced Tea,,1,1.84,0.0,0.15,1.99,Card
+120866,202,2025-07-06 17:12:40,2025-07-06,Afternoon,Takeout,Iced Tea,No Ice,1,1.93,0.0,0.14,2.07,MobilePay
+120867,402,2025-05-30 10:44:04,2025-05-30,Morning,Dine-In,Coffee,,1,1.96,0.0,0.13,2.09,MobilePay
+120868,201,2025-07-28 10:16:00,2025-07-28,Morning,Drive-Thru,Chicken Nuggets (6pc),,2,3.9,0.0,0.51,8.31,Card
+120869,403,2025-04-11 19:02:30,2025-04-11,Dinner,Delivery,Spicy Chicken Combo,,1,10.3,0.0,0.75,11.05,Card
+120870,501,2025-06-16 11:59:22,2025-06-16,Morning,Drive-Thru,Coffee,,1,1.85,0.0,0.18,2.73,Card
+120871,201,2025-07-03 11:03:42,2025-07-03,Morning,Takeout,Coffee,Almond Milk,1,1.73,0.0,0.18,2.61,Cash
+120872,401,2025-06-23 05:34:11,2025-06-23,Breakfast,Drive-Thru,Egg Muffin,No Cheese,1,2.9,0.0,0.25,3.15,MobilePay
+120873,403,2025-04-12 00:56:28,2025-04-12,Late Night,Takeout,French Fries,Extra Sauce,1,2.43,0.0,0.24,2.92,GiftCard
+120874,101,2025-07-03 11:49:34,2025-07-03,Morning,Takeout,Soft Drink (Medium),Light Ice,3,1.74,0.0,0.5,5.72,Card
+120875,103,2025-07-17 09:56:14,2025-07-17,Breakfast,Drive-Thru,Egg Muffin,Extra Egg,1,3.69,0.0,0.38,5.07,Card
+120876,101,2025-04-23 12:08:51,2025-04-23,Lunch,Drive-Thru,Cheeseburger,,1,4.32,0.0,0.41,4.73,Cash
+120877,301,2025-05-04 05:49:01,2025-05-04,Breakfast,Drive-Thru,Latte,,1,3.3,0.0,0.21,3.51,Cash
+120878,403,2025-08-02 17:47:38,2025-08-02,Afternoon,Dine-In,Onion Rings,Large Size,2,3.14,0.0,0.56,8.04,Card
+120879,501,2025-07-04 14:33:58,2025-07-04,Lunch,,French Fries,,1,2.98,0.6,0.21,2.59,Card
+120880,202,2025-06-22 20:40:21,2025-06-22,Dinner,Dine-In,Spicy Chicken Sandwich,,1,6.61,0.0,0.56,7.17,Cash
+120881,301,2025-07-19 14:46:02,2025-07-19,Lunch,Takeout,Cheeseburger Combo,,1,8.22,0.0,0.78,9.0,Card
+120882,403,2025-08-01 10:17:51,2025-08-01,Morning,Dine-In,Bottled Water,No Ice,2,1.4,0.0,0.17,2.97,Card
+120883,402,2025-04-12 12:33:12,2025-04-12,Lunch,Takeout,Cheeseburger Combo,,1,9.01,0.0,0.59,9.6,Cash
+120884,202,2025-07-20 11:15:56,2025-07-20,Lunch,Takeout,Veggie Burger,,1,5.48,0.0,0.44,6.32,Cash
+120885,401,2025-05-05 07:48:18,2025-05-05,Breakfast,Drive-Thru,Sausage Biscuit,,1,3.5,0.0,0.25,3.75,Card
+120886,401,2025-04-30 13:55:18,2025-04-30,Lunch,Takeout,Chicken Sandwich Combo,No Pickles,1,9.28,0.0,0.74,10.02,GiftCard
+120887,103,2025-04-25 11:43:44,2025-04-25,Lunch,Dine-In,Chicken Sandwich Combo,Gluten-Free Bun,1,8.81,0.0,0.71,10.52,Card
+120888,102,2025-07-12 12:51:06,2025-07-12,Lunch,Dine-In,Cheeseburger Combo,,2,8.79,0.0,1.05,18.63,Cash
+120889,201,2025-05-19 07:14:02,2025-05-19,Breakfast,Drive-Thru,Coffee,Oat Milk,1,2.11,0.0,0.22,3.03,MobilePay
+120890,403,2025-08-08 19:13:52,2025-08-08,Dinner,Dine-In,Chicken Sandwich Combo,,1,9.4,0.0,0.89,10.29,MobilePay
+120891,202,2025-04-26 18:46:58,2025-04-26,Dinner,Takeout,Chicken Sandwich Combo,,1,9.24,0.0,0.65,9.89,Card
+120892,501,2025-06-01 13:14:14,2025-06-01,Lunch,Takeout,French Fries,Extra Sauce,1,2.94,0.0,0.22,3.41,Card
+120893,301,2025-07-31 11:16:59,2025-07-31,Lunch,Dine-In,Double Cheeseburger Combo,,1,10.57,0.0,0.63,11.2,Cash
+120894,401,2025-04-30 11:33:44,2025-04-30,Lunch,Dine-In,Cheeseburger Combo,,2,9.18,0.0,1.1,19.46,Cash
+120895,101,2025-05-14 14:04:20,2025-05-14,Lunch,Drive-Thru,Soft Drink (Medium),Extra Ice,2,1.79,0.0,0.3,3.88,Card
+120896,401,2025-05-19 19:39:13,2025-05-19,Dinner,Drive-Thru,Spicy Chicken Sandwich,Extra Cheese,1,5.58,0.0,0.36,6.44,Cash
+120897,403,2025-06-03 19:26:02,2025-06-03,Dinner,Dine-In,Chicken Sandwich Combo,,1,9.06,0.0,0.54,9.6,Cash
+120898,202,2025-07-17 11:45:28,2025-07-17,Lunch,Drive-Thru,Chicken Sandwich,Spicy,1,5.83,0.0,0.5,6.33,Card
+120899,402,2025-06-04 07:09:34,2025-06-04,Breakfast,Drive-Thru,Pancake Platter,No Cheese,1,4.72,0.0,0.28,5.0,Card
+120900,103,2025-07-27 19:53:49,2025-07-27,Dinner,Drive-Thru,Double Cheeseburger Combo,,1,10.17,0.0,0.61,10.78,Card
+120901,102,2025-06-17 11:41:28,2025-06-17,Lunch,Dine-In,Chicken Sandwich Combo,Add Bacon,1,8.79,0.0,0.78,10.57,Card
+120902,101,2025-07-04 18:57:22,2025-07-04,Dinner,Drive-Thru,Double Cheeseburger,,1,5.75,0.0,0.46,6.21,MobilePay
+120903,403,2025-06-15 17:17:05,2025-06-15,Afternoon,Delivery,Onion Rings,Large Size,3,3.5,0.0,1.17,13.47,Card
+120904,201,2025-06-30 20:59:48,2025-06-30,Dinner,Dine-In,Double Cheeseburger Combo,,1,10.09,0.0,0.76,10.85,MobilePay
+120905,103,2025-07-12 11:00:42,2025-07-12,Lunch,Drive-Thru,Veggie Burger,Extra Cheese,3,5.26,0.0,1.47,18.75,Card
+120906,101,2025-08-01 08:33:03,2025-08-01,Breakfast,Drive-Thru,Hash Browns,Sausage Patty,1,1.62,0.0,0.2,3.02,Card
+120907,103,2025-06-23 06:40:17,2025-06-23,Breakfast,Takeout,Breakfast Burrito,Cinnamon,1,3.93,0.0,0.36,4.39,MobilePay
+120908,103,2025-05-30 11:47:55,2025-05-30,Lunch,Takeout,Cheeseburger Combo,,1,8.81,0.0,0.57,9.38,Cash
+120909,102,2025-07-15 23:29:14,2025-07-15,Late Night,Dine-In,Milkshake,,1,4.71,,0.4,5.11,Card
+120910,103,2025-07-30 17:10:00,2025-07-30,Afternoon,Takeout,Onion Rings,No Sauce,1,3.05,0.0,0.24,3.29,Card
+120911,202,2025-08-03 10:55:37,2025-08-03,Morning,Takeout,Bottled Water,No Ice,1,1.46,0.0,0.09,1.55,Card
+120912,102,2025-04-16 21:47:50,2025-04-16,Dinner,Takeout,Onion Rings,,2,3.21,0.0,0.58,7.0,Cash
+120913,403,2025-06-17 19:36:34,2025-06-17,Dinner,Takeout,Double Cheeseburger Combo,,1,10.78,0.0,0.78,11.56,MobilePay
+120914,301,2025-06-27 12:36:48,2025-06-27,Lunch,Takeout,Cheeseburger Combo,,1,8.44,0.0,0.72,9.16,Cash
+120915,402,2025-06-19 10:55:50,2025-06-19,Morning,Dine-In,Latte,,1,3.31,0.0,0.24,3.55,MobilePay
+120916,301,2025-06-28 09:28:59,2025-06-28,Breakfast,Dine-In,Breakfast Burrito,No Cheese,1,3.89,0.0,0.31,4.2,Card
+120917,403,2025-07-06 19:27:39,2025-07-06,Dinner,Delivery,Chicken Sandwich Combo,,1,9.08,0.0,0.54,9.62,Card
+120918,403,2025-05-09 13:32:18,2025-05-09,Lunch,Delivery,Chicken Sandwich Combo,Spicy,1,8.77,0.0,0.57,9.34,Card
+120919,101,2025-06-14 15:22:59,2025-06-14,Afternoon,Dine-In,Onion Rings,,1,3.19,0.0,0.2,3.09,MobilePay
+120920,102,2025-05-17 21:31:39,2025-05-17,Dinner,Takeout,Chicken Sandwich,Extra Sauce,1,5.78,0.0,0.42,6.45,Card
+120921,101,2025-06-02 20:43:33,2025-06-02,Dinner,Dine-In,Spicy Chicken Combo,,1,8.78,0.0,0.53,9.31,Cash
+120922,301,2025-05-29 15:01:43,2025-05-29,Afternoon,Dine-In,Soft Drink (Medium),Extra Ice,2,1.75,0.0,0.25,3.75,Card
+120923,501,2025-05-20 12:40:08,2025-05-20,Lunch,Delivery,French Fries,Small Size,2,2.44,0.0,0.28,4.56,Cash
+120924,403,2025-05-09 21:11:58,2025-05-09,Dinner,Drive-Thru,Iced Tea,,2,2.05,0.0,0.3,4.4,Card
+120925,403,2025-05-11 08:23:23,2025-05-11,Breakfast,Dine-In,Breakfast Burrito,Sausage Patty,1,3.36,,0.41,4.97,Cash
+120926,501,2025-05-15 09:52:36,2025-05-15,Breakfast,Dine-In,Soft Drink (Small),Light Ice,1,1.49,0.0,0.12,1.61,MobilePay
+120927,202,2025-07-03 08:06:20,2025-07-03,Breakfast,Drive-Thru,Hash Browns,,1,1.97,0.0,0.17,2.14,Card
+120928,301,2025-05-22 07:54:09,2025-05-22,Breakfast,Drive-Thru,Egg Muffin,Extra Egg,1,3.63,0.0,0.42,5.05,Cash
+120929,403,2025-05-08 06:48:30,2025-05-08,Breakfast,Dine-In,Hash Browns,Sausage Patty,1,1.88,0.0,0.25,3.33,Card
+120930,501,2025-04-30 14:34:28,2025-04-30,Lunch,Dine-In,Double Cheeseburger,,1,5.51,0.0,0.41,5.92,MobilePay
+120931,301,2025-04-24 20:11:32,2025-04-24,Dinner,Dine-In,Onion Rings,,4,3.67,0.78,0.89,15.79,GiftCard
+120932,201,2025-07-10 06:41:56,2025-07-10,Breakfast,Drive-Thru,Egg Muffin,,1,2.88,0.0,0.23,3.11,GiftCard
+120933,103,2025-07-04 16:18:54,2025-07-04,Afternoon,Takeout,Onion Rings,Extra Sauce,1,2.52,0.0,0.2,2.97,Cash
+120934,401,2025-08-09 06:23:54,2025-08-09,Breakfast,Delivery,Egg Muffin,No Cheese,2,3.35,0.67,0.42,6.45,Cash
+120935,103,2025-07-22 10:40:19,2025-07-22,Morning,Takeout,Egg Muffin,No Cheese,1,3.11,0.0,0.23,3.34,Card
+120936,403,2025-05-16 21:11:50,2025-05-16,Dinner,Dine-In,Cheeseburger Combo,,3,7.98,0.0,1.8,25.74,Card
+120937,501,2025-04-27 10:47:29,2025-04-27,Breakfast,Takeout,Hash Browns,,1,2.03,0.0,0.18,2.21,Cash
+120938,402,2025-05-08 19:59:36,2025-05-08,Dinner,Delivery,Iced Tea,Extra Ice,1,1.92,0.0,0.14,2.06,GiftCard
+120939,501,2025-07-02 06:35:35,2025-07-02,Breakfast,Dine-In,Sausage Biscuit,No Cheese,1,2.9,0.0,0.28,3.18,MobilePay
+120940,402,2025-04-19 21:14:10,2025-04-19,Dinner,Drive-Thru,Onion Rings,No Sauce,2,2.78,0.0,0.5,6.06,Card
+120941,501,2025-07-17 12:28:04,2025-07-17,Lunch,Dine-In,Spicy Chicken Combo,,1,9.73,0.0,0.63,10.36,Card
+120942,403,2025-07-21 10:51:43,2025-07-21,Morning,Drive-Thru,Egg Muffin,Extra Egg,1,3.4,0.0,0.26,4.66,Card
+120943,403,2025-04-21 14:22:43,2025-04-21,Lunch,Dine-In,Spicy Chicken Combo,,1,9.24,0.0,0.88,10.12,Cash
+120944,101,2025-07-05 11:15:59,2025-07-05,Morning,Takeout,Soft Drink (Medium),Extra Ice,1,1.89,0.19,0.12,1.82,Card
+120945,501,2025-04-13 10:37:47,2025-04-13,Breakfast,Takeout,Sausage Biscuit,No Cheese,1,2.77,0.0,0.17,2.94,Card
+120946,501,2025-07-22 01:03:40,2025-07-22,Late Night,Takeout,Double Cheeseburger,,1,5.1,0.0,0.46,5.56,Card
+120947,102,2025-06-22 08:06:08,2025-06-22,Breakfast,Drive-Thru,Pancake Platter,,1,4.76,0.0,0.45,5.21,Card
+120948,101,2025-07-16 14:24:21,2025-07-16,Lunch,Dine-In,Chicken Sandwich,,1,5.37,0.0,0.48,6.85,Card
+120949,403,2025-06-27 05:36:42,2025-06-27,Breakfast,Takeout,Breakfast Burrito,Extra Egg,2,3.8,0.0,0.77,10.37,Card
+120950,101,2025-07-13 20:08:49,2025-07-13,Dinner,Delivery,Cheeseburger,,2,4.41,0.0,0.66,9.48,Card
+120951,103,2025-08-06 11:04:56,2025-08-06,Morning,Delivery,Coffee,No Ice,1,1.96,0.0,0.14,2.1,Card
+120952,402,2025-07-30 21:27:55,2025-07-30,Dinner,Delivery,Double Cheeseburger,,1,5.22,0.0,0.34,5.56,Card
+120953,101,2025-05-11 11:02:15,2025-05-11,Morning,Dine-In,Latte,Sugar-Free Syrup,1,3.6,0.0,0.35,4.25,Card
+120954,301,2025-06-16 12:15:16,2025-06-16,Lunch,Takeout,French Fries,,1,2.62,0.0,0.25,2.87,Card
+120955,401,2025-07-28 14:25:17,2025-07-28,Lunch,Drive-Thru,Chicken Sandwich,,1,5.8,0.93,0.47,5.74,Card
+120956,101,2025-07-15 11:26:28,2025-07-15,Lunch,Dine-In,Spicy Chicken Combo,,2,9.46,0.0,1.42,20.34,Card
+120957,103,2025-07-15 05:01:36,2025-07-15,Breakfast,Takeout,Latte,Sugar-Free Syrup,1,3.35,0.0,0.27,3.92,Card
+120958,201,2025-07-20 16:59:16,2025-07-20,Afternoon,Drive-Thru,Onion Rings,,1,3.3,0.33,0.21,3.18,MobilePay
+120959,401,2025-06-28 10:37:01,2025-06-28,Breakfast,Drive-Thru,Egg Muffin,Cinnamon,1,3.35,0.0,0.21,3.66,Cash
+120960,501,2025-04-22 20:36:00,2025-04-22,Dinner,Dine-In,Spicy Chicken Combo,,1,9.61,0.0,0.91,10.52,Cash
+120961,401,2025-06-03 21:40:14,2025-06-03,Dinner,Delivery,Chicken Sandwich Combo,,1,9.65,0.0,0.74,10.64,Card
+120962,101,2025-05-28 13:15:14,2025-05-28,Lunch,Drive-Thru,Cheeseburger Combo,,1,8.59,0.0,0.64,9.23,Cash
+120963,202,2025-06-15 10:08:01,2025-06-15,Breakfast,Dine-In,Breakfast Burrito,No Cheese,1,3.92,0.0,0.27,4.19,Card
+120964,403,2025-04-29 22:15:23,2025-04-29,Late Night,Drive-Thru,French Fries,Extra Sauce,3,2.61,0.0,0.56,9.14,Cash
+120965,202,2025-06-05 18:52:52,2025-06-05,Dinner,Drive-Thru,Onion Rings,No Sauce,1,3.55,0.0,0.23,3.78,GiftCard
+120966,501,2025-06-06 00:28:59,2025-06-06,Late Night,Dine-In,Soft Drink (Large),,1,1.92,0.0,0.17,2.09,Card
+120967,202,2025-07-29 17:42:05,2025-07-29,Afternoon,Drive-Thru,Soft Drink (Medium),Extra Ice,2,1.89,0.0,0.32,4.1,Card
+120968,402,2025-08-03 16:02:37,2025-08-03,Afternoon,Takeout,French Fries,Extra Sauce,1,2.63,0.0,0.26,3.14,Cash
+120969,403,2025-06-28 14:22:06,2025-06-28,Lunch,Drive-Thru,Double Cheeseburger Combo,,1,9.27,0.0,0.7,9.97,Card
+120970,501,2025-06-01 12:46:16,2025-06-01,Lunch,Drive-Thru,Chicken Sandwich,No Onions,1,5.44,0.82,0.3,4.92,Card
+120971,401,2025-06-01 10:00:32,2025-06-01,Morning,Drive-Thru,Egg Muffin,,1,3.07,0.0,0.22,3.29,GiftCard
+120972,403,2025-05-28 11:27:01,2025-05-28,Lunch,Delivery,Spicy Chicken Sandwich,,2,5.96,0.0,0.86,12.78,Card
+120973,201,2025-07-27 19:13:30,2025-07-27,Dinner,Delivery,Veggie Burger,,2,5.01,0.0,0.95,10.97,MobilePay
+120974,202,2025-06-07 19:16:07,2025-06-07,Dinner,Delivery,Spicy Chicken Combo,,1,9.07,0.0,0.77,9.84,Card
+120975,102,2025-07-24 20:38:34,2025-07-24,Dinner,Delivery,Cheeseburger,,2,3.86,1.54,0.56,6.74,Card
+120976,102,2025-04-24 20:39:11,2025-04-24,Dinner,Drive-Thru,Onion Rings,Small Size,2,3.01,0.0,0.51,5.93,Cash
+120977,102,2025-05-26 13:20:51,2025-05-26,Lunch,Delivery,Chicken Sandwich Combo,No Onions,1,7.78,0.0,0.7,8.48,Card
+120978,102,2025-07-30 08:43:46,2025-07-30,Breakfast,Dine-In,Breakfast Burrito,Cinnamon,1,3.34,0.0,0.29,3.73,MobilePay
+120979,501,2025-06-08 05:03:01,2025-06-08,Breakfast,Drive-Thru,Sausage Biscuit,,1,3.23,0.0,0.23,3.46,Cash
+120980,403,2025-06-15 16:26:03,2025-06-15,Afternoon,Takeout,Chicken Nuggets (10pc),,3,5.25,0.0,1.26,17.01,Card
+120981,202,2025-07-12 19:50:32,2025-07-12,Dinner,Drive-Thru,Double Cheeseburger,,1,5.92,0.0,0.5,6.42,Card
+120982,101,2025-05-21 07:38:38,2025-05-21,Breakfast,Takeout,Egg Muffin,,1,3.0,0.0,0.22,3.32,MobilePay
+120983,402,2025-06-10 16:25:08,2025-06-10,Afternoon,Delivery,Onion Rings,,1,3.13,0.0,0.2,3.33,Card
+120984,403,2025-08-02 15:48:57,2025-08-02,Afternoon,Drive-Thru,Soft Drink (Medium),,1,1.74,0.0,0.19,2.23,Card
+120985,402,2025-04-17 18:59:51,2025-04-17,Dinner,Dine-In,Spicy Chicken Combo,,2,8.71,0.0,1.48,18.9,Card
+120986,201,2025-04-18 21:21:14,2025-04-18,Dinner,Takeout,Spicy Chicken Combo,,1,10.04,0.0,0.8,10.84,Cash
+120987,202,2025-05-16 09:44:48,2025-05-16,Breakfast,Dine-In,Hash Browns,Sausage Patty,1,2.07,0.0,0.28,3.55,Card
+120988,201,2025-07-31 18:08:12,2025-07-31,Dinner,Dine-In,Cheeseburger Combo,,1,8.38,0.0,0.75,9.13,Cash
+120989,401,2025-07-09 20:41:41,2025-07-09,Dinner,Delivery,Chicken Sandwich,,2,5.4,,0.76,11.56,Card
+120990,102,2025-06-21 15:52:02,2025-06-21,Afternoon,Dine-In,Chicken Nuggets (10pc),,4,5.06,0.0,1.62,21.86,Cash
+120991,201,2025-08-08 18:54:58,2025-08-08,Dinner,Drive-Thru,Spicy Chicken Combo,,1,8.27,0.0,0.74,9.01,Cash
+120992,202,2025-04-14 11:16:16,2025-04-14,Morning,Takeout,Coffee,Extra Ice,1,1.84,0.0,0.13,1.97,MobilePay
+120993,301,2025-05-25 10:09:34,2025-05-25,Morning,Takeout,Hash Browns,Cinnamon,1,1.75,0.0,0.16,2.01,Cash
+120994,501,2025-06-30 08:37:44,2025-06-30,Breakfast,Dine-In,Hash Browns,No Cheese,1,1.69,0.0,0.11,1.8,Card
+120995,103,2025-04-16 10:53:35,2025-04-16,Morning,Takeout,Coffee,,1,1.83,0.0,0.12,1.95,Cash
+120996,501,2025-07-18 10:45:36,2025-07-18,Morning,Takeout,Coffee,,1,2.25,0.0,0.16,2.41,
+120997,102,2025-08-06 09:53:40,2025-08-06,Breakfast,Drive-Thru,Soft Drink (Small),Almond Milk,1,1.59,0.11,0.16,2.34,MobilePay
+120998,403,2025-06-30 12:41:05,2025-06-30,Lunch,Takeout,Double Cheeseburger Combo,,1,9.7,0.0,0.92,10.62,Cash
+120999,102,2025-07-15 10:49:01,2025-07-15,Breakfast,Takeout,Soft Drink (Small),,2,1.59,0.0,0.25,3.43,Cash
+121000,101,2025-04-17 14:27:17,2025-04-17,Lunch,Dine-In,Chicken Sandwich Combo,Gluten-Free Bun,2,9.69,0.0,1.55,22.93,
+121001,501,2025-05-22 11:02:33,2025-05-22,Morning,Takeout,Soft Drink (Medium),,1,1.82,0.0,0.17,1.99,Card
+121002,501,2025-08-08 12:34:27,2025-08-08,Lunch,Takeout,Chicken Sandwich Combo,,1,9.02,0.0,0.81,9.83,Cash
+121003,301,2025-07-31 14:57:24,2025-07-31,Lunch,Dine-In,Double Cheeseburger,,1,5.47,0.0,0.44,5.91,Cash
+121004,401,2025-07-30 09:54:00,2025-07-30,Breakfast,Drive-Thru,Breakfast Burrito,Extra Egg,1,3.91,0.0,0.47,5.38,GiftCard
+121005,103,2025-06-21 12:50:04,2025-06-21,Lunch,Dine-In,French Fries,No Sauce,1,2.75,0.0,0.23,2.98,Cash
+121006,301,2025-07-31 14:03:51,2025-07-31,Lunch,Drive-Thru,Onion Rings,No Sauce,1,3.39,0.0,0.32,3.71,GiftCard
+121007,403,2025-04-23 09:09:08,2025-04-23,Breakfast,Drive-Thru,Latte,No Ice,2,3.4,1.36,0.39,5.83,Card
+121008,201,2025-07-05 21:11:32,2025-07-05,Dinner,Dine-In,Veggie Burger,Gluten-Free Bun,1,5.61,0.66,0.42,6.37,Cash
+121009,401,2025-06-01 00:00:30,2025-06-01,Late Night,Dine-In,Milkshake,No Ice,1,3.81,0.0,0.23,4.04,MobilePay
+121010,102,2025-06-16 11:47:56,2025-06-16,Lunch,Dine-In,Chicken Nuggets (10pc),,1,5.43,0.0,0.38,5.81,Card
+121011,101,2025-06-09 07:57:44,2025-06-09,Breakfast,Drive-Thru,Latte,Extra Ice,1,3.29,0.0,0.25,3.54,Cash
+121012,403,2025-04-21 16:22:08,2025-04-21,Afternoon,Takeout,Soft Drink (Medium),,2,1.91,0.38,0.31,3.75,Card
+121013,102,2025-06-28 05:09:22,2025-06-28,Breakfast,Drive-Thru,Sausage Biscuit,Extra Egg,1,2.87,0.0,0.31,4.18,Cash
+121014,103,2025-08-02 14:55:17,2025-08-02,Lunch,Drive-Thru,Double Cheeseburger Combo,,1,10.86,0.0,0.81,11.67,Card
+121015,301,2025-06-22 20:25:58,2025-06-22,Dinner,Dine-In,Veggie Burger,Extra Patty,2,5.31,0.0,1.24,15.86,Card
+121016,201,2025-05-08 15:38:02,2025-05-08,Afternoon,Takeout,Bottled Water,,1,1.39,0.0,0.08,1.47,Card
+121017,102,2025-06-06 14:06:38,2025-06-06,Lunch,Drive-Thru,Spicy Chicken Sandwich,,2,5.45,0.0,0.65,11.55,Card
+121018,201,2025-04-14 13:44:05,2025-04-14,Lunch,Delivery,Onion Rings,Small Size,1,3.05,0.0,0.22,2.97,GiftCard
+121019,101,2025-07-26 07:13:55,2025-07-26,Breakfast,Drive-Thru,Latte,Almond Milk,1,3.35,0.0,0.36,4.41,Card
+121020,402,2025-06-14 10:12:54,2025-06-14,Breakfast,Dine-In,Egg Muffin,,1,3.37,0.0,0.3,4.87,Cash
+121021,202,2025-08-08 19:44:57,2025-08-08,Dinner,Delivery,Veggie Burger,,1,5.04,0.0,0.45,6.49,Card
+121022,301,2025-05-23 19:34:22,2025-05-23,Dinner,Takeout,French Fries,,1,2.63,0.0,0.17,2.8,Cash
+121023,101,2025-06-16 11:04:34,2025-06-16,Lunch,Takeout,Chicken Sandwich,Add Bacon,3,6.18,0.0,1.51,23.05,Card
+121024,501,2025-06-23 15:01:00,2025-06-23,Afternoon,Takeout,Bottled Water,Extra Ice,1,1.58,0.0,0.13,1.71,Card
+121025,401,2025-07-27 11:34:16,2025-07-27,Morning,Dine-In,Coffee,Almond Milk,1,1.98,0.0,0.19,2.87,Card
+121026,101,2025-04-17 16:53:43,2025-04-17,Afternoon,Dine-In,Iced Tea,,2,1.9,0.0,0.38,5.58,Card
+121027,103,2025-08-09 16:57:43,2025-08-09,Afternoon,Takeout,Ice Cream Cone,,2,1.65,0.0,0.31,3.61,GiftCard
+121028,501,2025-07-01 19:25:02,2025-07-01,Dinner,Dine-In,Cheeseburger Combo,,1,8.8,0.88,0.71,8.63,MobilePay
+121029,101,2025-07-24 15:58:28,2025-07-24,Afternoon,Dine-In,Brownie,,1,1.75,0.18,0.13,1.7,MobilePay
+121030,102,2025-04-15 11:33:36,2025-04-15,Lunch,Drive-Thru,Spicy Chicken Combo,,1,9.16,0.0,0.87,10.03,Cash
+121031,301,2025-06-11 17:30:10,2025-06-11,Afternoon,Delivery,Soft Drink (Medium),,1,1.6,0.0,0.13,1.73,Card
+121032,102,2025-06-22 12:32:58,2025-06-22,Lunch,Takeout,French Fries,,3,2.75,0.0,0.5,8.75,MobilePay
+121033,101,2025-05-31 06:39:18,2025-05-31,Breakfast,Delivery,Latte,,1,3.4,0.0,0.26,3.66,Card
+121034,403,2025-08-01 21:23:36,2025-08-01,Dinner,Delivery,Cheeseburger,,1,4.33,0.22,0.3,4.41,Card
+121035,103,2025-06-07 20:54:59,2025-06-07,Dinner,Dine-In,Spicy Chicken Sandwich,,2,6.24,0.0,1.19,13.67,MobilePay
+121036,101,2025-04-30 12:59:53,2025-04-30,Lunch,Takeout,Veggie Burger,Spicy,1,4.81,0.0,0.31,5.12,Card
+121037,102,2025-06-22 11:55:10,2025-06-22,Lunch,Takeout,Chicken Sandwich,No Pickles,1,4.85,0.0,0.46,5.31,GiftCard
+121038,201,2025-06-17 21:00:32,2025-06-17,Dinner,Dine-In,French Fries,Extra Sauce,2,2.7,0.0,0.53,6.43,Card
+121039,103,2025-06-05 08:23:23,2025-06-05,Breakfast,Dine-In,Coffee,Extra Ice,1,2.1,0.0,0.18,2.28,Cash
+121040,501,2025-08-08 13:41:38,2025-08-08,Lunch,Takeout,Double Cheeseburger,,1,6.44,0.0,0.42,6.86,Card
+121041,301,2025-05-30 00:17:43,2025-05-30,Late Night,Takeout,Soft Drink (Large),No Ice,1,1.94,0.0,0.13,2.07,Cash
+121042,102,2025-05-28 17:24:16,2025-05-28,Afternoon,Dine-In,Side Salad,,1,3.07,0.0,0.23,3.3,Cash
+121043,403,2025-07-09 11:12:52,2025-07-09,Morning,Dine-In,Coffee,,2,1.88,0.0,0.32,4.08,Cash
+121044,401,2025-05-29 20:31:21,2025-05-29,Dinner,Drive-Thru,Spicy Chicken Combo,,3,9.2,0.0,2.21,29.81,Card
+121045,202,2025-04-12 14:51:04,2025-04-12,Lunch,Takeout,Double Cheeseburger,,1,6.11,0.31,0.46,6.26,MobilePay
+121046,301,2025-06-19 10:20:50,2025-06-19,Morning,Drive-Thru,Bottled Water,Light Ice,1,1.49,0.0,0.09,1.58,Card
+121047,102,2025-06-21 10:59:52,2025-06-21,Morning,Dine-In,Chicken Nuggets (6pc),,1,3.35,0.0,0.23,3.58,GiftCard
+121048,101,2025-06-18 12:42:49,2025-06-18,Lunch,Takeout,Chicken Nuggets (10pc),,1,5.48,0.0,0.36,5.84,Card
+121049,102,2025-05-31 14:05:58,2025-05-31,Lunch,Drive-Thru,Double Cheeseburger,,2,6.32,0.0,0.88,13.52,Card
+121050,402,2025-06-07 06:41:10,2025-06-07,Breakfast,Drive-Thru,Pancake Platter,Cinnamon,1,4.78,0.0,0.34,5.22,MobilePay
+121051,301,2025-07-16 14:00:07,2025-07-16,Lunch,Dine-In,French Fries,,2,2.75,0.0,0.52,6.02,Card
+121052,101,2025-04-14 06:30:54,2025-04-14,Breakfast,Drive-Thru,Egg Muffin,,1,3.36,0.0,0.24,3.6,Cash
+121053,102,2025-07-13 21:33:51,2025-07-13,Dinner,Delivery,Soft Drink (Large),Light Ice,1,2.02,0.0,0.16,2.18,Card
+121054,501,2025-05-28 17:40:54,2025-05-28,Afternoon,Takeout,Chicken Nuggets (10pc),,1,4.81,0.0,0.35,5.16,Card
+121055,201,2025-07-16 17:38:38,2025-07-16,Afternoon,Dine-In,Brownie,Caramel Topping,1,1.8,0.0,0.17,2.47,Card
+121056,101,2025-06-12 11:32:11,2025-06-12,Lunch,Takeout,Soft Drink (Medium),,2,1.74,0.0,0.21,3.69,Card
+121057,403,2025-05-30 10:45:05,2025-05-30,Morning,Drive-Thru,Egg Muffin,Sausage Patty,1,3.53,0.0,0.4,5.13,Card
+121058,201,2025-07-21 23:10:58,2025-07-21,Late Night,Drive-Thru,Cheeseburger,,1,4.67,0.0,0.44,5.11,Card
+121059,103,2025-06-25 08:03:24,2025-06-25,Breakfast,Dine-In,Apple Pie,,1,1.54,0.31,0.09,1.32,MobilePay
+121060,102,2025-07-06 14:43:50,2025-07-06,Lunch,Takeout,Chicken Sandwich,No Sauce,1,5.67,,0.43,6.1,Card
+121061,201,2025-07-18 21:42:03,2025-07-18,Dinner,Takeout,Cheeseburger Combo,,1,7.07,0.0,0.6,7.67,Card
+121062,501,2025-07-18 10:42:04,2025-07-18,Breakfast,Takeout,Coffee,,1,2.12,0.0,0.17,2.29,Card
+121063,401,2025-07-13 17:20:28,2025-07-13,Afternoon,Takeout,Chicken Nuggets (10pc),,1,4.41,0.0,0.33,4.74,Card
+121064,402,2025-05-08 10:05:09,2025-05-08,Breakfast,Takeout,Breakfast Burrito,Cinnamon,2,3.65,0.0,0.68,8.18,MobilePay
+121065,201,2025-06-16 08:57:30,2025-06-16,Breakfast,Dine-In,Apple Pie,,1,1.44,0.0,0.09,1.53,MobilePay
+121066,403,2025-07-10 12:40:43,2025-07-10,Lunch,Takeout,Spicy Chicken Combo,,1,8.64,0.0,0.73,9.37,MobilePay
+121067,301,2025-07-25 10:02:10,2025-07-25,Morning,Dine-In,Brownie,Chocolate Topping,1,2.04,0.0,0.19,2.73,Card
+121068,101,2025-05-30 08:25:19,2025-05-30,Breakfast,Takeout,Sausage Biscuit,Cinnamon,1,2.92,0.0,0.2,3.22,Cash
+121069,202,2025-08-05 18:26:15,2025-08-05,Dinner,Takeout,Cheeseburger Combo,,1,8.66,0.0,0.74,9.4,Cash
+121070,301,2025-05-12 08:14:20,2025-05-12,Breakfast,Dine-In,Breakfast Burrito,,1,3.73,0.0,0.35,4.08,Cash
+121071,301,2025-04-14 17:39:54,2025-04-14,Afternoon,Takeout,French Fries,No Sauce,1,2.78,0.0,0.21,2.99,Cash
+121072,201,2025-07-08 11:50:57,2025-07-08,Lunch,Dine-In,Chicken Sandwich Combo,Add Bacon,1,9.03,0.0,0.75,10.78,Card
+121073,202,2025-05-04 10:53:42,2025-05-04,Breakfast,Drive-Thru,Hash Browns,Cinnamon,1,1.63,0.0,0.13,1.86,Card
+121074,202,2025-07-20 05:00:57,2025-07-20,Breakfast,Drive-Thru,Egg Muffin,,2,3.49,0.0,0.63,7.61,Card
+121075,401,2025-06-10 12:54:49,2025-06-10,Lunch,Dine-In,Cheeseburger,,1,4.33,0.0,0.28,4.61,Card
+121076,301,2025-05-02 05:13:46,2025-05-02,Breakfast,Drive-Thru,Sausage Biscuit,Cinnamon,1,2.65,0.0,0.25,3.0,Card
+121077,501,2025-08-01 11:45:23,2025-08-01,Morning,Takeout,Egg Muffin,No Cheese,1,3.13,0.0,0.3,3.43,Card
+121078,401,2025-05-16 10:08:02,2025-05-16,Breakfast,Drive-Thru,Breakfast Burrito,,1,4.12,0.0,0.25,4.37,Card
+121079,401,2025-06-01 18:02:35,2025-06-01,Dinner,Drive-Thru,Spicy Chicken Combo,,2,9.72,0.0,1.46,20.9,GiftCard
+121080,402,2025-07-04 11:29:16,2025-07-04,Lunch,Dine-In,Chicken Sandwich,,1,5.26,0.0,0.42,5.68,Card
+121081,401,2025-06-13 13:46:55,2025-06-13,Lunch,Drive-Thru,Chicken Sandwich,,3,5.26,0.0,1.14,16.92,
+121082,201,2025-07-11 18:14:12,2025-07-11,Dinner,Dine-In,Cheeseburger,,1,4.38,0.0,0.39,4.77,Card
+121083,501,2025-05-05 16:15:57,2025-05-05,Afternoon,Delivery,Milkshake,,1,4.68,0.0,0.34,5.02,Card
+121084,201,2025-04-14 10:02:08,2025-04-14,Morning,Takeout,Chicken Nuggets (6pc),,2,3.84,0.0,0.46,8.14,Card
+121085,101,2025-08-02 21:52:56,2025-08-02,Dinner,Drive-Thru,Spicy Chicken Sandwich,Extra Patty,1,5.8,0.0,0.7,8.5,MobilePay
+121086,501,2025-07-17 20:03:24,2025-07-17,Dinner,Takeout,Chicken Sandwich Combo,No Onions,1,9.51,0.0,0.67,10.18,Cash
+121087,501,2025-06-27 21:25:48,2025-06-27,Dinner,Takeout,Onion Rings,Small Size,3,3.21,0.0,0.63,9.36,Cash
+121088,102,2025-07-25 01:32:02,2025-07-25,Late Night,Takeout,Onion Rings,Large Size,2,3.07,0.0,0.48,7.82,Card
+121089,201,2025-06-25 15:37:39,2025-06-25,Afternoon,Takeout,Chicken Nuggets (10pc),,2,4.92,0.0,0.89,10.73,Cash
+121090,201,2025-06-12 10:10:01,2025-06-12,Morning,Takeout,Coffee,Sugar-Free Syrup,1,1.88,0.0,0.16,2.34,Card
+121091,101,2025-04-27 15:12:18,2025-04-27,Afternoon,Dine-In,Ice Cream Cone,,1,1.64,0.0,0.16,1.8,Card
+121092,101,2025-05-23 21:49:32,2025-05-23,Dinner,Delivery,Double Cheeseburger Combo,,1,10.35,0.0,0.78,11.13,Card
+121093,501,2025-06-17 19:17:11,2025-06-17,Dinner,Takeout,Spicy Chicken Sandwich,,2,5.66,0.0,0.68,12.0,Card
+121094,103,2025-06-23 09:46:59,2025-06-23,Breakfast,Dine-In,Egg Muffin,,2,3.42,0.0,0.58,7.42,Cash
+121095,401,2025-07-09 11:42:46,2025-07-09,Morning,Drive-Thru,Coffee,Extra Ice,1,1.87,0.0,0.11,1.98,Cash
+121096,403,2025-07-16 12:46:06,2025-07-16,Lunch,Dine-In,French Fries,,1,2.66,0.0,0.19,2.85,Card
+121097,102,2025-07-18 22:23:47,2025-07-18,Late Night,Takeout,Bottled Water,Oat Milk,1,1.27,,0.17,2.14,Cash
+121098,102,2025-07-07 11:24:19,2025-07-07,Lunch,Drive-Thru,French Fries,Large Size,2,2.9,0.0,0.66,7.66,Cash
+121099,403,2025-05-07 14:40:25,2025-05-07,Lunch,Dine-In,Double Cheeseburger Combo,,1,10.16,0.0,0.71,10.87,MobilePay
+121100,103,2025-07-16 06:01:19,2025-07-16,Breakfast,Drive-Thru,Egg Muffin,,1,3.49,0.0,0.26,3.75,Card
+121101,102,2025-04-21 09:28:09,2025-04-21,Breakfast,Drive-Thru,Pancake Platter,Sausage Patty,1,4.02,,0.37,5.59,Card
+121102,401,2025-08-07 12:45:00,2025-08-07,Lunch,Dine-In,Chicken Sandwich,,1,6.16,0.0,0.45,6.61,
+121103,201,2025-04-16 19:35:45,2025-04-16,Dinner,Dine-In,Spicy Chicken Combo,,2,9.22,0.0,1.11,19.55,Card
+121104,401,2025-04-22 19:11:54,2025-04-22,Dinner,Delivery,French Fries,Extra Sauce,2,2.95,0.0,0.46,6.86,MobilePay
+121105,102,2025-06-01 21:11:25,2025-06-01,Dinner,Takeout,Chicken Sandwich Combo,Extra Cheese,1,8.47,0.9,0.77,8.84,Card
+121106,403,2025-05-08 19:22:57,2025-05-08,Dinner,Dine-In,Spicy Chicken Combo,,1,9.6,0.0,0.58,10.18,Cash
+121107,301,2025-07-19 18:40:57,2025-07-19,Dinner,Drive-Thru,French Fries,Small Size,2,2.34,0.0,0.37,4.45,Card
+121108,301,2025-06-17 23:34:44,2025-06-17,Late Night,Takeout,Double Cheeseburger,,3,5.48,0.0,1.15,17.59,Cash
+121109,103,2025-06-25 17:53:06,2025-06-25,Afternoon,Dine-In,French Fries,Small Size,1,3.18,0.0,,,Card
+121110,501,2025-07-06 10:30:09,2025-07-06,Breakfast,Drive-Thru,Breakfast Burrito,Extra Egg,1,3.69,0.0,0.4,5.09,Card
+121111,402,2025-06-25 11:25:17,2025-06-25,Morning,Dine-In,Side Salad,,2,2.89,0.0,0.52,6.3,Card
+121112,501,2025-06-02 11:24:18,2025-06-02,Lunch,Drive-Thru,Chicken Sandwich,,1,5.71,0.0,0.54,6.25,Card
+121113,101,2025-07-23 08:02:25,2025-07-23,Breakfast,Takeout,Bottled Water,,1,1.48,0.0,0.11,1.59,Cash
+121114,403,2025-05-16 10:21:30,2025-05-16,Morning,Takeout,Soft Drink (Medium),Almond Milk,1,1.75,,0.16,2.61,MobilePay
+121115,402,2025-04-14 18:03:00,2025-04-14,Dinner,Dine-In,Spicy Chicken Combo,,1,9.47,0.0,0.76,10.23,
+121116,403,2025-05-29 10:52:28,2025-05-29,Morning,Drive-Thru,Apple Pie,,1,1.91,0.38,0.09,1.62,Cash
+121117,101,2025-05-05 06:27:23,2025-05-05,Breakfast,Drive-Thru,Hash Browns,Sausage Patty,2,1.88,0.0,0.37,6.53,Card
+121118,401,2025-06-23 19:19:02,2025-06-23,Dinner,Takeout,Double Cheeseburger,,1,5.82,0.0,0.52,6.34,Cash
+121119,102,2025-06-28 15:13:59,2025-06-28,Afternoon,Takeout,Onion Rings,,1,3.44,0.0,0.29,3.73,Cash
+121120,401,2025-07-28 12:34:14,2025-07-28,Lunch,Dine-In,Cheeseburger,,1,4.86,0.0,0.32,5.18,Card
+121121,401,2025-07-17 05:59:55,2025-07-17,Breakfast,Dine-In,Breakfast Burrito,No Cheese,1,4.04,0.0,0.28,4.32,Cash
+121122,403,2025-05-15 13:35:20,2025-05-15,Lunch,Dine-In,Spicy Chicken Sandwich,No Sauce,1,5.88,0.0,0.38,6.26,Cash
+121123,102,2025-04-14 05:33:54,2025-04-14,Breakfast,Drive-Thru,Breakfast Burrito,,1,3.45,0.0,0.25,3.7,Card
+121124,403,2025-04-22 20:07:53,2025-04-22,Dinner,Drive-Thru,Veggie Burger,,1,5.81,0.0,0.42,6.23,Card
+121125,403,2025-07-12 12:07:33,2025-07-12,Lunch,Dine-In,Double Cheeseburger Combo,,1,9.42,0.0,0.66,10.08,Card
+121126,403,2025-04-30 06:30:34,2025-04-30,Breakfast,Takeout,Latte,Extra Ice,1,3.32,0.0,0.22,3.54,Card
+121127,201,2025-04-28 11:06:32,2025-04-28,Lunch,Takeout,Cheeseburger Combo,,1,8.11,0.0,0.73,8.84,Card
+121128,401,2025-08-01 16:14:13,2025-08-01,Afternoon,Drive-Thru,Iced Tea,,1,1.88,0.0,0.14,2.02,Card
+121129,101,2025-06-02 09:35:21,2025-06-02,Breakfast,Takeout,Breakfast Burrito,,2,3.82,0.0,0.53,8.17,Cash
+121130,202,2025-07-03 08:17:47,2025-07-03,Breakfast,Drive-Thru,Hash Browns,Cinnamon,1,1.95,0.0,0.19,2.24,Cash
+121131,501,2025-06-04 12:33:47,2025-06-04,Lunch,Dine-In,Chicken Sandwich,,1,5.54,0.0,0.53,6.07,Cash
+121132,202,2025-07-16 14:57:05,2025-07-16,Lunch,Takeout,Double Cheeseburger Combo,,2,10.8,0.0,1.73,23.33,MobilePay
+121133,103,2025-06-20 11:05:11,2025-06-20,Lunch,Drive-Thru,Chicken Sandwich,Extra Sauce,2,5.56,0.0,0.76,12.38,Cash
+121134,301,2025-04-18 15:47:50,2025-04-18,Afternoon,Takeout,Ice Cream Cone,Cinnamon,2,1.61,0.0,0.31,3.73,MobilePay
+121135,401,2025-07-12 16:05:40,2025-07-12,Afternoon,Drive-Thru,Soft Drink (Medium),Almond Milk,1,1.82,0.0,0.2,2.72,Card
+121136,201,2025-07-30 18:15:54,2025-07-30,Dinner,Takeout,Soft Drink (Large),,1,2.11,0.0,0.14,2.25,MobilePay
+121137,403,2025-04-22 18:02:18,2025-04-22,Dinner,Takeout,Spicy Chicken Sandwich,Add Bacon,1,5.17,0.0,0.59,6.76,MobilePay
+121138,301,2025-05-25 14:36:15,2025-05-25,Lunch,Dine-In,Chicken Sandwich Combo,,1,9.29,0.0,0.79,10.08,Card
+121139,301,2025-04-26 21:15:37,2025-04-26,Dinner,Takeout,Veggie Burger,Extra Cheese,1,5.49,0.0,0.36,6.35,Card
+121140,101,2025-06-01 21:49:41,2025-06-01,Dinner,Takeout,Onion Rings,,1,3.06,0.0,0.23,3.29,Card
+121141,501,2025-06-11 00:40:57,2025-06-11,Late Night,Takeout,Soft Drink (Large),,2,2.13,0.73,0.27,4.4,Cash
+121142,101,2025-06-08 11:13:27,2025-06-08,Morning,Dine-In,Apple Pie,,1,1.57,0.0,0.1,1.67,MobilePay
+121143,501,2025-04-29 11:26:31,2025-04-29,Lunch,Takeout,Onion Rings,Large Size,1,3.18,0.0,0.36,4.14,Cash
+121144,301,2025-06-26 18:54:45,2025-06-26,Dinner,Dine-In,Veggie Burger,Extra Patty,1,5.18,0.0,0.65,7.83,MobilePay
+121145,403,2025-05-01 22:48:24,2025-05-01,Late Night,Drive-Thru,Soft Drink (Large),No Ice,1,1.99,0.0,0.19,2.18,Cash
+121146,301,2025-07-12 23:13:25,2025-07-12,Late Night,Takeout,Cheeseburger,,1,4.12,0.21,0.25,4.16,Card
+121147,101,2025-07-24 11:08:22,2025-07-24,Morning,Dine-In,Coffee,,1,1.6,0.0,0.12,1.72,Card
+121148,101,2025-07-05 10:01:03,2025-07-05,Morning,Delivery,Soft Drink (Medium),No Ice,1,1.87,0.0,0.15,2.02,Card
+121149,501,2025-05-20 12:09:48,2025-05-20,Lunch,Dine-In,Cheeseburger,,1,4.21,0.0,0.36,4.57,GiftCard
+121150,102,2025-04-24 00:50:09,2025-04-24,Late Night,Takeout,Soft Drink (Large),Almond Milk,1,1.89,0.0,0.17,2.76,Card
+121151,102,2025-07-13 15:30:00,2025-07-13,Afternoon,Dine-In,Milkshake,,2,3.27,0.0,0.39,6.93,Card
+121152,103,2025-06-24 06:26:34,2025-06-24,Breakfast,Drive-Thru,Breakfast Burrito,Extra Egg,1,3.58,0.0,0.32,4.9,Card
+121153,501,2025-07-16 11:41:28,2025-07-16,Lunch,Dine-In,Chicken Sandwich,Spicy,1,4.9,0.0,0.32,5.22,Card
+121154,301,2025-05-11 20:47:26,2025-05-11,Dinner,Drive-Thru,Double Cheeseburger,,1,6.42,0.0,0.58,7.0,GiftCard
+121155,103,2025-05-04 20:18:54,2025-05-04,Dinner,Drive-Thru,Chicken Sandwich,,1,5.76,0.86,0.34,5.24,MobilePay
+121156,101,2025-07-01 17:52:28,2025-07-01,Afternoon,Delivery,Chicken Nuggets (10pc),,1,4.76,0.0,0.38,5.14,Card
+121157,501,2025-05-09 18:43:08,2025-05-09,Dinner,Dine-In,Spicy Chicken Combo,,1,10.42,0.0,0.73,11.15,Card
+121158,102,2025-06-15 09:56:25,2025-06-15,Breakfast,Drive-Thru,Coffee,Sugar-Free Syrup,1,2.09,0.0,0.23,2.62,Cash
+121159,403,2025-07-01 14:16:01,2025-07-01,Lunch,Takeout,French Fries,Large Size,3,2.55,0.0,0.57,10.02,Card
+121160,101,2025-05-07 12:25:38,2025-05-07,Lunch,Drive-Thru,French Fries,Small Size,1,1.93,0.0,0.14,1.77,Cash
+121161,403,2025-07-05 14:11:09,2025-07-05,Lunch,Drive-Thru,Cheeseburger,,1,5.25,0.0,0.37,5.62,Card
+121162,101,2025-08-07 09:33:24,2025-08-07,Breakfast,Dine-In,Coffee,Light Ice,1,1.61,0.0,0.1,1.71,Card
+121163,102,2025-08-09 11:37:54,2025-08-09,Lunch,Drive-Thru,Double Cheeseburger Combo,,2,9.17,0.0,1.65,19.99,Card
+121164,501,2025-05-07 18:24:00,2025-05-07,Dinner,Delivery,Spicy Chicken Sandwich,Extra Cheese,2,6.03,0.0,1.24,14.3,Cash
+121165,501,2025-05-26 20:43:14,2025-05-26,Dinner,Dine-In,Double Cheeseburger,,2,6.76,0.68,1.22,14.06,Card
+121166,202,2025-07-22 13:09:01,2025-07-22,Lunch,Dine-In,French Fries,,1,3.03,0.0,0.22,3.25,Card
+121167,501,2025-05-27 11:55:25,2025-05-27,Morning,Takeout,Coffee,,1,2.0,0.0,0.12,2.12,Card
+121168,103,2025-06-05 16:38:59,2025-06-05,Afternoon,Delivery,Chicken Nuggets (10pc),,1,5.19,0.0,0.49,5.68,GiftCard
+121169,301,2025-07-16 16:19:10,2025-07-16,Afternoon,Drive-Thru,Ice Cream Cone,,1,1.74,0.0,0.11,1.85,Card
+121170,102,2025-04-11 15:40:11,2025-04-11,Afternoon,Delivery,Onion Rings,,2,3.36,0.0,0.44,7.16,GiftCard
+121171,401,2025-07-30 06:35:15,2025-07-30,Breakfast,Delivery,Egg Muffin,,1,3.31,0.0,0.28,3.59,Card
+121172,301,2025-05-07 08:27:48,2025-05-07,Breakfast,Takeout,Coffee,Extra Ice,1,1.91,0.0,0.14,2.05,GiftCard
+121173,202,2025-08-06 11:39:05,2025-08-06,Lunch,Dine-In,Cheeseburger Combo,,1,8.46,0.0,0.63,9.09,Card
+121174,402,2025-06-02 23:10:20,2025-06-02,Late Night,Drive-Thru,Double Cheeseburger,,2,5.43,0.0,0.65,11.51,Cash
+121175,401,2025-04-22 23:17:04,2025-04-22,Late Night,Drive-Thru,French Fries,Extra Sauce,1,2.56,0.0,0.21,3.02,Cash
+121176,301,2025-06-18 05:51:32,2025-06-18,Breakfast,Takeout,Apple Pie,Caramel Topping,1,1.36,0.0,0.13,1.99,Cash
+121177,103,2025-07-21 22:21:50,2025-07-21,Late Night,Drive-Thru,French Fries,,1,2.61,0.0,0.16,2.47,Cash
+121178,102,2025-07-28 21:49:12,2025-07-28,Dinner,Delivery,Chicken Sandwich,,2,5.03,0.0,0.75,10.81,Card
+121179,103,2025-06-03 20:37:51,2025-06-03,Dinner,Takeout,Cheeseburger Combo,,1,7.94,0.0,0.52,8.46,Card
+121180,202,2025-05-06 11:05:51,2025-05-06,Morning,Delivery,Coffee,No Ice,1,1.93,0.0,0.18,2.11,Card
+121181,403,2025-08-02 12:10:03,2025-08-02,Lunch,Drive-Thru,Chicken Sandwich Combo,,1,9.69,,0.58,10.27,Card
+121182,402,2025-07-10 18:48:44,2025-07-10,Dinner,Takeout,Double Cheeseburger Combo,,1,10.45,0.52,0.84,10.77,Card
+121183,101,2025-07-07 18:37:41,2025-07-07,Dinner,Dine-In,Cheeseburger Combo,,2,7.7,0.0,1.0,16.4,GiftCard
+121184,102,2025-04-13 06:35:33,2025-04-13,Breakfast,Drive-Thru,Breakfast Burrito,,1,3.49,0.0,0.21,3.7,Cash
+121185,403,2025-05-23 08:53:09,2025-05-23,Breakfast,Dine-In,Breakfast Burrito,Cinnamon,1,3.98,0.0,0.27,4.35,Card
+121186,403,2025-04-16 18:11:51,2025-04-16,Dinner,Dine-In,Spicy Chicken Combo,,1,8.8,0.0,0.84,9.64,Card
+121187,103,2025-06-20 10:10:52,2025-06-20,Morning,Dine-In,Egg Muffin,Cinnamon,1,3.18,0.0,0.25,3.53,Cash
+121188,102,2025-05-13 11:15:36,2025-05-13,Lunch,Drive-Thru,Veggie Burger,No Onions,1,5.43,,0.44,5.6,MobilePay
+121189,201,2025-08-04 11:57:50,2025-08-04,Morning,Dine-In,Egg Muffin,No Cheese,1,3.0,0.0,0.22,3.22,MobilePay
+121190,501,2025-07-31 18:20:54,2025-07-31,Dinner,Dine-In,Veggie Burger,,1,5.28,0.0,0.5,5.78,Card
+121191,501,2025-07-11 20:35:05,2025-07-11,Dinner,Dine-In,Double Cheeseburger Combo,,1,9.32,0.0,0.7,10.02,Card
+121192,102,2025-07-09 13:20:47,2025-07-09,Lunch,Drive-Thru,Double Cheeseburger,,2,5.49,0.0,0.88,11.86,MobilePay
+121193,102,2025-07-07 12:24:54,2025-07-07,Lunch,Drive-Thru,Spicy Chicken Combo,,1,9.45,0.0,0.57,10.02,Card
+121194,202,2025-06-11 14:09:02,2025-06-11,Lunch,Takeout,Cheeseburger,,2,3.96,0.0,0.63,8.55,Card
+121195,201,2025-05-09 11:13:06,2025-05-09,Lunch,Takeout,Chicken Sandwich,,1,5.55,0.0,0.36,5.91,Card
+121196,101,2025-07-18 07:16:49,2025-07-18,Breakfast,Drive-Thru,Sausage Biscuit,,1,3.04,0.0,0.23,3.27,Cash
+121197,401,2025-07-22 16:04:55,2025-07-22,Afternoon,Drive-Thru,French Fries,Extra Sauce,1,2.8,0.0,0.24,3.29,Card
+121198,501,2025-04-17 10:44:01,2025-04-17,Breakfast,Drive-Thru,Soft Drink (Small),Oat Milk,2,1.56,0.0,0.36,4.88,Card
+121199,403,2025-05-24 23:30:12,2025-05-24,Late Night,Drive-Thru,Milkshake,,2,4.44,0.0,0.67,9.55,Cash
+121200,101,2025-06-06 21:31:45,2025-06-06,Dinner,Takeout,Cheeseburger Combo,,1,8.55,1.28,0.51,7.78,Card
+121201,201,2025-05-11 10:11:41,2025-05-11,Morning,Dine-In,Egg Muffin,Sausage Patty,1,3.13,0.0,0.28,4.61,Card
+121202,403,2025-07-04 13:53:35,2025-07-04,Lunch,Takeout,Cheeseburger,,1,4.53,0.0,0.27,4.8,Cash
+121203,401,2025-05-29 22:06:56,2025-05-29,Late Night,Takeout,Chicken Sandwich,No Pickles,1,5.59,0.28,0.48,5.79,Cash
+121204,401,2025-06-13 18:56:21,2025-06-13,Dinner,Delivery,Spicy Chicken Sandwich,,1,5.66,0.0,0.4,6.06,MobilePay
+121205,402,2025-07-05 08:27:15,2025-07-05,Breakfast,Drive-Thru,Hash Browns,,1,1.9,0.0,0.12,2.12,Card
+121206,102,2025-07-12 17:38:14,2025-07-12,Afternoon,Dine-In,Ice Cream Cone,Cinnamon,2,1.56,0.0,0.22,3.54,Cash
+121207,401,2025-04-25 08:45:26,2025-04-25,Breakfast,Takeout,Latte,Light Ice,1,3.07,0.0,0.22,3.29,Cash
+121208,101,2025-06-01 14:19:52,2025-06-01,Lunch,Dine-In,Iced Tea,No Ice,1,1.7,0.0,0.11,1.81,Cash
+121209,102,2025-05-02 20:56:52,2025-05-02,Dinner,Dine-In,Spicy Chicken Sandwich,No Pickles,1,6.31,,0.44,6.75,Card
+121210,301,2025-07-21 07:57:41,2025-07-21,Breakfast,Drive-Thru,French Fries,,2,2.29,0.0,0.37,4.95,Card
+121211,501,2025-05-31 13:44:50,2025-05-31,Lunch,Dine-In,Double Cheeseburger Combo,,1,9.64,0.0,0.82,10.46,Card
+121212,501,2025-06-02 19:07:08,2025-06-02,Dinner,Drive-Thru,Double Cheeseburger Combo,,2,9.63,2.89,1.39,17.76,Cash
+121213,103,2025-06-07 11:12:04,2025-06-07,Morning,Takeout,Latte,,2,3.46,0.0,0.52,7.44,Card
+121214,102,2025-07-17 16:28:04,2025-07-17,Afternoon,Delivery,Onion Rings,Small Size,3,3.06,0.0,0.62,8.9,Card
+121215,401,2025-04-16 06:44:01,2025-04-16,Breakfast,Drive-Thru,Breakfast Burrito,Extra Egg,1,4.05,0.0,0.48,5.53,Card
+121216,102,2025-05-13 06:55:21,2025-05-13,Breakfast,Takeout,Hash Browns,No Cheese,1,1.76,0.0,0.13,1.89,Card
+121217,402,2025-07-07 16:38:08,2025-07-07,Afternoon,Takeout,Brownie,,1,1.93,0.0,0.14,2.07,Cash
+121218,103,2025-08-09 20:49:34,2025-08-09,Dinner,Takeout,Cheeseburger Combo,,1,8.07,0.0,0.59,8.66,Card
+121219,501,2025-07-19 00:29:45,2025-07-19,Late Night,Drive-Thru,Spicy Chicken Sandwich,,1,6.46,0.0,0.52,6.98,Card
+121220,301,2025-05-11 16:08:25,2025-05-11,Afternoon,Delivery,Soft Drink (Medium),Light Ice,2,1.64,0.0,0.26,3.54,Card
+121221,102,2025-06-20 19:35:10,2025-06-20,Dinner,Dine-In,Cheeseburger,,1,4.59,0.0,0.39,4.98,MobilePay
+121222,501,2025-04-19 19:41:00,2025-04-19,Dinner,Dine-In,Double Cheeseburger Combo,,1,10.31,0.0,0.72,11.03,MobilePay
+121223,402,2025-06-18 08:00:16,2025-06-18,Breakfast,Drive-Thru,Latte,,1,3.34,,0.23,3.57,MobilePay
+121224,102,2025-05-04 05:36:14,2025-05-04,Breakfast,Dine-In,Breakfast Burrito,,1,3.69,,0.24,3.93,MobilePay
+121225,101,2025-07-22 21:31:42,2025-07-22,Dinner,Dine-In,Cheeseburger Combo,,1,8.43,0.0,0.51,8.94,Card
+121226,301,2025-05-28 07:14:29,2025-05-28,Breakfast,Dine-In,Egg Muffin,No Cheese,2,3.25,0.0,0.47,6.97,Card
+121227,501,2025-05-10 10:27:19,2025-05-10,Morning,Dine-In,Coffee,,2,1.86,0.0,0.27,3.99,Card
+121228,401,2025-05-05 18:27:54,2025-05-05,Dinner,Delivery,Chicken Sandwich Combo,,3,9.47,0.0,2.41,30.82,MobilePay
+121229,101,2025-04-25 01:39:39,2025-04-25,Late Night,Drive-Thru,Onion Rings,,1,3.77,0.0,0.34,4.11,Card
+121230,301,2025-06-28 12:32:52,2025-06-28,Lunch,Takeout,Chicken Sandwich Combo,No Onions,1,8.71,0.0,0.83,9.54,Card
+121231,101,2025-06-11 12:12:33,2025-06-11,Lunch,Takeout,Cheeseburger,,2,4.03,0.0,0.58,8.64,Cash
+121232,103,2025-05-09 07:15:20,2025-05-09,Breakfast,Drive-Thru,Latte,,1,3.22,0.0,0.21,3.43,Cash
+121233,102,2025-06-12 13:17:13,2025-06-12,Lunch,Takeout,Veggie Burger,Extra Patty,2,6.14,0.0,1.3,17.58,Card
+121234,401,2025-06-19 18:23:42,2025-06-19,Dinner,Dine-In,Chicken Sandwich Combo,Spicy,1,8.59,0.0,0.6,9.19,Cash
+121235,403,2025-08-04 14:41:53,2025-08-04,Lunch,Drive-Thru,Spicy Chicken Sandwich,,1,6.27,0.0,0.38,6.65,Card
+121236,501,2025-07-13 11:25:30,2025-07-13,Lunch,Delivery,Cheeseburger,,1,5.05,0.0,0.33,5.38,Card
+121237,402,2025-05-19 20:49:05,2025-05-19,Dinner,Delivery,Cheeseburger Combo,,1,8.21,0.0,0.66,8.87,MobilePay
+121238,401,2025-05-14 10:44:32,2025-05-14,Morning,Delivery,Soft Drink (Small),Sugar-Free Syrup,1,1.59,0.0,0.15,2.04,MobilePay
+121239,102,2025-08-02 16:41:54,2025-08-02,Afternoon,Takeout,Bottled Water,Sugar-Free Syrup,1,1.58,0.0,0.16,2.04,Cash
+121240,501,2025-05-15 18:30:12,2025-05-15,Dinner,Drive-Thru,Chicken Sandwich,Spicy,1,5.25,0.0,0.5,5.75,Card
+121241,201,2025-07-11 21:05:29,2025-07-11,Dinner,Drive-Thru,Chicken Sandwich Combo,,1,8.89,0.0,0.74,10.63,MobilePay
+121242,201,2025-07-29 23:20:19,2025-07-29,Late Night,Drive-Thru,Onion Rings,,1,2.98,0.0,0.25,3.23,Cash
+121243,403,2025-08-09 13:16:38,2025-08-09,Lunch,Takeout,Chicken Sandwich,Add Jalapenos,1,5.02,0.0,0.39,5.81,GiftCard
+121244,102,2025-06-02 11:26:30,2025-06-02,Lunch,Takeout,Veggie Burger,Gluten-Free Bun,1,5.01,0.0,0.48,6.49,MobilePay
+121245,102,2025-04-23 13:56:49,2025-04-23,Lunch,Takeout,Double Cheeseburger,,1,5.23,0.0,0.38,5.61,Cash
+121246,103,2025-07-02 11:28:56,2025-07-02,Lunch,Dine-In,Chicken Sandwich Combo,,1,9.01,0.0,0.59,9.6,Card
+121247,103,2025-05-03 16:53:19,2025-05-03,Afternoon,Drive-Thru,Ice Cream Cone,Caramel Topping,1,1.55,0.0,0.16,2.21,Card
+121248,401,2025-06-16 11:46:38,2025-06-16,Lunch,Drive-Thru,Double Cheeseburger,,1,5.84,0.0,0.55,6.39,Card
+121249,103,2025-06-17 23:43:57,2025-06-17,Late Night,,Double Cheeseburger,,1,5.09,0.0,0.38,5.47,Card
+121250,103,2025-05-06 07:51:42,2025-05-06,Breakfast,Drive-Thru,Egg Muffin,No Cheese,1,3.32,0.17,0.22,3.37,Card
+121251,501,2025-04-26 11:15:39,2025-04-26,Lunch,Takeout,Cheeseburger,,1,4.77,0.0,0.33,5.1,Cash
+121252,401,2025-05-05 10:44:34,2025-05-05,Morning,Drive-Thru,Egg Muffin,,1,2.74,0.0,0.23,2.97,Cash
+121253,301,2025-05-29 21:31:15,2025-05-29,Dinner,Takeout,Spicy Chicken Combo,,3,9.48,0.0,2.06,30.5,Card
+121254,403,2025-05-27 11:08:23,2025-05-27,Lunch,Takeout,Cheeseburger Combo,,2,9.1,0.0,1.27,19.47,Cash
+121255,401,2025-07-24 15:24:26,2025-07-24,Afternoon,Takeout,Ice Cream Cone,Chocolate Topping,1,1.5,0.0,0.17,2.17,GiftCard
+121256,501,2025-05-24 19:13:20,2025-05-24,Dinner,Drive-Thru,French Fries,Extra Sauce,2,3.11,0.0,0.47,7.19,Cash
+121257,103,2025-04-21 07:57:38,2025-04-21,Breakfast,Drive-Thru,Hash Browns,No Cheese,3,1.97,0.0,0.41,6.32,Card
+121258,101,2025-05-17 17:29:59,2025-05-17,Afternoon,Takeout,Bottled Water,Extra Ice,1,1.38,0.0,0.08,1.46,MobilePay
+121259,201,2025-05-28 14:20:09,2025-05-28,Lunch,Drive-Thru,Cheeseburger Combo,,1,8.46,0.0,0.68,9.14,Cash
+121260,103,2025-08-08 13:39:45,2025-08-08,Lunch,Delivery,Chicken Sandwich,,1,5.59,0.0,0.5,6.09,Card
+121261,403,2025-06-19 19:58:36,2025-06-19,Dinner,Drive-Thru,Chicken Sandwich Combo,No Pickles,1,9.03,0.0,0.77,9.8,Cash
+121262,101,2025-06-18 14:06:59,2025-06-18,Lunch,Takeout,Soft Drink (Medium),,2,1.78,0.0,0.27,3.83,
+121263,102,2025-06-30 19:04:42,2025-06-30,Dinner,Dine-In,Spicy Chicken Sandwich,No Pickles,1,5.29,0.0,0.38,5.67,Cash
+121264,102,2025-05-04 19:02:09,2025-05-04,Dinner,Delivery,Spicy Chicken Combo,,1,9.37,0.0,0.89,10.26,MobilePay
+121265,202,2025-07-01 20:54:28,2025-07-01,Dinner,Dine-In,Double Cheeseburger Combo,,1,9.28,0.0,0.88,10.16,Cash
+121266,101,2025-06-10 16:20:04,2025-06-10,Afternoon,Delivery,Side Salad,,3,2.82,0.0,0.68,9.14,Card
+121267,301,2025-06-25 08:12:16,2025-06-25,Breakfast,Dine-In,Breakfast Burrito,Extra Egg,1,3.51,0.0,0.29,4.8,MobilePay
+121268,501,2025-06-24 12:38:42,2025-06-24,Lunch,Dine-In,Chicken Sandwich Combo,No Pickles,1,8.62,0.86,0.47,8.23,Card
+121269,201,2025-05-01 17:34:09,2025-05-01,Afternoon,Dine-In,Chicken Nuggets (6pc),,1,4.05,0.0,0.24,4.29,MobilePay
+121270,202,2025-05-13 17:01:42,2025-05-13,Afternoon,Takeout,Chicken Nuggets (10pc),,1,5.35,0.0,0.45,5.8,Cash
+121271,301,2025-07-24 19:03:59,2025-07-24,Dinner,Dine-In,Spicy Chicken Sandwich,Add Jalapenos,2,5.87,0.0,1.07,13.61,GiftCard
+121272,101,2025-08-04 17:45:07,2025-08-04,Afternoon,Takeout,Soft Drink (Medium),,1,1.65,0.0,0.17,2.52,Cash
+121273,102,2025-06-02 07:35:21,2025-06-02,Breakfast,Drive-Thru,Coffee,,1,1.83,0.0,0.16,1.99,Card
+121274,101,2025-05-25 14:43:00,2025-05-25,Lunch,Takeout,Veggie Burger,,1,5.66,0.0,0.34,6.0,GiftCard
+121275,201,2025-05-05 05:18:24,2025-05-05,Breakfast,Drive-Thru,Breakfast Burrito,Sausage Patty,1,3.78,0.0,0.42,5.4,Cash
+121276,501,2025-08-09 13:14:00,2025-08-09,Lunch,Dine-In,Double Cheeseburger Combo,,1,11.15,0.0,1.06,12.21,
+121277,101,2025-08-04 14:25:15,2025-08-04,Lunch,Takeout,Cheeseburger,,2,4.62,,0.55,7.94,Card
+121278,101,2025-07-19 15:51:47,2025-07-19,Afternoon,Dine-In,Onion Rings,,1,3.19,0.0,0.23,3.42,Card
+121279,201,2025-05-28 19:25:02,2025-05-28,Dinner,Dine-In,Cheeseburger Combo,,2,8.34,0.0,1.5,18.18,Cash
+121280,103,2025-07-04 10:35:38,2025-07-04,Breakfast,Takeout,Sausage Biscuit,Extra Egg,1,3.07,0.0,0.26,4.33,Card
+121281,202,2025-06-20 21:10:55,2025-06-20,Dinner,Dine-In,Cheeseburger Combo,,1,8.41,1.68,0.57,7.3,MobilePay
+121282,202,2025-08-06 14:00:18,2025-08-06,Lunch,Takeout,Double Cheeseburger Combo,,1,10.34,0.0,0.83,11.17,Cash
+121283,201,2025-08-01 16:14:43,2025-08-01,Afternoon,Delivery,Onion Rings,No Sauce,1,3.41,0.0,0.31,3.72,GiftCard
+121284,501,2025-06-14 13:03:45,2025-06-14,Lunch,Takeout,Double Cheeseburger Combo,,1,9.6,0.0,0.86,10.46,Card
+121285,403,2025-06-02 16:27:47,2025-06-02,Afternoon,Drive-Thru,Onion Rings,,1,2.76,0.0,0.26,3.02,Cash
+121286,403,2025-05-31 11:23:43,2025-05-31,Lunch,Takeout,Soft Drink (Medium),Almond Milk,1,1.59,0.0,,,Cash
+121287,501,2025-06-08 12:13:12,2025-06-08,Lunch,Drive-Thru,Spicy Chicken Combo,,1,9.54,0.0,0.69,10.23,Card
+121288,103,2025-05-04 12:52:25,2025-05-04,Lunch,Drive-Thru,Cheeseburger Combo,,1,7.94,0.0,0.56,8.5,MobilePay
+121289,403,2025-05-18 19:02:08,2025-05-18,Dinner,Dine-In,Chicken Sandwich Combo,,3,7.91,2.37,1.55,22.91,Card
+121290,402,2025-05-24 17:33:09,2025-05-24,Afternoon,Drive-Thru,Milkshake,,1,4.12,0.62,0.28,3.78,Card
+121291,501,2025-07-15 17:14:07,2025-07-15,Afternoon,Dine-In,Onion Rings,,1,3.85,0.0,0.27,4.12,Cash
+121292,402,2025-06-11 12:13:04,2025-06-11,Lunch,Takeout,Spicy Chicken Combo,,1,9.29,0.0,,,Cash
+121293,101,2025-06-30 12:39:32,2025-06-30,Lunch,Drive-Thru,Spicy Chicken Sandwich,No Pickles,1,5.96,,0.45,6.41,Card
+121294,401,2025-05-04 13:32:10,2025-05-04,Lunch,Takeout,Veggie Burger,Extra Sauce,2,5.27,0.55,0.76,11.25,Card
+121295,401,2025-04-30 20:26:46,2025-04-30,Dinner,Dine-In,Spicy Chicken Sandwich,Spicy,1,5.6,0.0,0.41,6.01,Cash
+121296,403,2025-04-24 18:16:38,2025-04-24,Dinner,Drive-Thru,Cheeseburger,,2,4.8,0.0,0.58,10.18,Card
+121297,401,2025-07-24 12:47:14,2025-07-24,Lunch,Drive-Thru,Veggie Burger,,1,5.14,0.0,0.49,5.63,Card
+121298,403,2025-07-11 20:01:00,2025-07-11,Dinner,Delivery,Cheeseburger Combo,,3,8.62,0.0,1.81,27.67,Card
+121299,402,2025-04-26 12:21:25,2025-04-26,Lunch,Drive-Thru,Spicy Chicken Combo,,1,9.45,0.0,0.66,10.11,Cash
+121300,101,2025-06-01 13:04:24,2025-06-01,Lunch,Takeout,Cheeseburger,,1,4.27,0.0,0.34,4.61,Card
+121301,202,2025-05-05 13:32:27,2025-05-05,Lunch,Delivery,Chicken Sandwich Combo,Add Bacon,2,9.49,0.0,1.26,22.24,Card
+121302,101,2025-08-02 19:26:05,2025-08-02,Dinner,Takeout,Double Cheeseburger,,2,5.67,0.0,1.08,12.42,Card
+121303,301,2025-05-04 13:56:31,2025-05-04,Lunch,Takeout,Chicken Sandwich,Gluten-Free Bun,1,5.11,1.22,0.39,5.28,GiftCard
+121304,101,2025-06-17 14:22:16,2025-06-17,Lunch,Dine-In,Onion Rings,No Sauce,1,3.29,0.0,0.3,3.59,
+121305,401,2025-06-16 18:32:49,2025-06-16,Dinner,Dine-In,Cheeseburger Combo,,1,8.04,0.8,0.62,7.86,Card
+121306,201,2025-06-18 11:11:02,2025-06-18,Lunch,Drive-Thru,Cheeseburger,,1,4.5,0.68,0.25,4.07,Card
+121307,501,2025-06-08 14:08:53,2025-06-08,Lunch,Dine-In,Chicken Sandwich Combo,,1,8.99,0.0,0.85,9.84,GiftCard
+121308,401,2025-06-08 20:32:00,2025-06-08,Dinner,Delivery,Chicken Sandwich Combo,,1,9.53,1.43,0.77,8.87,Card
+121309,202,2025-04-20 05:51:14,2025-04-20,Breakfast,Drive-Thru,Breakfast Burrito,No Cheese,1,3.86,0.0,0.23,4.09,Card
+121310,402,2025-06-10 16:34:27,2025-06-10,Afternoon,Takeout,Ice Cream Cone,,1,1.64,0.0,0.14,1.78,Cash
+121311,403,2025-05-09 12:53:38,2025-05-09,Lunch,Dine-In,Onion Rings,No Sauce,1,3.37,0.0,0.24,3.61,Cash
+121312,301,2025-06-22 20:10:29,2025-06-22,Dinner,Takeout,Onion Rings,,2,3.53,0.0,0.42,7.48,Card
+121313,102,2025-04-28 11:29:34,2025-04-28,Lunch,Takeout,Double Cheeseburger,,1,5.97,0.0,0.45,6.42,Card
+121314,201,2025-05-09 06:14:41,2025-05-09,Breakfast,Takeout,Breakfast Burrito,,2,3.74,0.0,0.45,7.93,Card
+121315,403,2025-06-13 15:42:56,2025-06-13,Afternoon,Takeout,Ice Cream Cone,Cinnamon,1,1.49,0.0,0.14,1.73,MobilePay
+121316,403,2025-05-14 11:53:28,2025-05-14,Lunch,Drive-Thru,Cheeseburger,,1,4.13,0.0,0.39,4.52,Card
+121317,103,2025-05-31 12:32:16,2025-05-31,Lunch,Takeout,Chicken Sandwich,,1,5.28,1.06,0.36,4.58,Card
+121318,501,2025-04-23 07:47:05,2025-04-23,Breakfast,Delivery,Egg Muffin,Cinnamon,2,3.09,0.0,0.41,6.79,MobilePay
+121319,401,2025-05-04 11:55:07,2025-05-04,Lunch,Dine-In,Chicken Sandwich,Spicy,1,5.32,0.0,0.39,5.71,Cash
+121320,202,2025-06-12 15:15:45,2025-06-12,Afternoon,Takeout,French Fries,Extra Sauce,2,2.66,0.0,0.42,6.24,Card
+121321,402,2025-07-28 10:53:51,2025-07-28,Morning,Delivery,Coffee,,1,2.0,0.0,0.16,2.16,MobilePay
+121322,501,2025-04-19 17:14:33,2025-04-19,Afternoon,Dine-In,French Fries,,4,2.62,0.0,0.68,11.16,MobilePay
+121323,102,2025-04-12 19:41:50,2025-04-12,Dinner,Takeout,Cheeseburger Combo,,1,8.73,0.0,0.74,9.47,Card
+121324,402,2025-06-13 21:34:03,2025-06-13,Dinner,Drive-Thru,Chicken Sandwich Combo,,1,9.02,0.0,0.77,9.79,Card
+121325,201,2025-06-16 21:19:52,2025-06-16,Dinner,Dine-In,Onion Rings,Extra Sauce,1,2.58,0.0,0.21,3.04,Card
+121326,103,2025-05-11 17:09:42,2025-05-11,Afternoon,Takeout,Onion Rings,Small Size,2,2.87,0.0,0.33,5.47,Card
+121327,201,2025-07-02 10:24:54,2025-07-02,Morning,Drive-Thru,Soft Drink (Medium),,1,1.73,0.0,0.15,1.88,Card
+121328,402,2025-06-21 19:46:07,2025-06-21,Dinner,Takeout,Veggie Burger,,1,4.82,0.0,0.36,5.18,Cash
+121329,301,2025-07-20 06:04:32,2025-07-20,Breakfast,Drive-Thru,Breakfast Burrito,Sausage Patty,2,3.89,1.53,0.65,9.3,Card
+121330,403,2025-06-08 11:18:01,2025-06-08,Morning,Delivery,Side Salad,,1,3.17,0.0,0.23,3.4,Card
+121331,301,2025-05-06 22:36:46,2025-05-06,Late Night,Drive-Thru,Soft Drink (Large),,2,2.11,0.0,0.38,4.6,Card
+121332,102,2025-06-30 10:25:58,2025-06-30,Breakfast,Dine-In,Milkshake,,1,3.92,0.0,0.27,4.19,Card
+121333,201,2025-06-16 19:57:26,2025-06-16,Dinner,Takeout,Cheeseburger,,1,4.99,0.5,0.34,4.83,Cash
+121334,201,2025-06-26 18:29:19,2025-06-26,Dinner,Drive-Thru,Cheeseburger Combo,,2,8.56,0.0,1.03,18.15,MobilePay
+121335,501,2025-05-05 16:47:57,2025-05-05,Afternoon,Takeout,Iced Tea,Light Ice,1,1.85,0.0,0.17,2.02,MobilePay
+121336,201,2025-04-30 20:00:11,2025-04-30,Dinner,Drive-Thru,Cheeseburger,,1,4.29,0.0,0.32,4.61,Card
+121337,103,2025-06-02 12:36:00,2025-06-02,Lunch,Dine-In,Soft Drink (Medium),,3,1.71,0.0,0.33,5.46,MobilePay
+121338,102,2025-05-01 11:33:33,2025-05-01,Morning,Takeout,Coffee,,1,1.81,0.0,0.14,1.95,MobilePay
+121339,101,2025-04-29 16:32:03,2025-04-29,Afternoon,Dine-In,Soft Drink (Medium),,1,1.75,0.0,0.14,1.89,Cash
+121340,102,2025-08-08 01:51:35,2025-08-08,Late Night,Dine-In,Cheeseburger,,1,4.54,0.0,0.34,4.88,Card
+121341,101,2025-06-16 09:42:12,2025-06-16,Breakfast,Dine-In,Egg Muffin,,1,3.24,0.0,0.28,3.52,MobilePay
+121342,301,2025-05-13 00:58:44,2025-05-13,Late Night,Dine-In,Soft Drink (Large),,2,2.03,0.41,0.22,3.87,Card
+121343,501,2025-08-07 15:55:25,2025-08-07,Afternoon,Takeout,Brownie,,1,2.05,0.0,0.15,2.7,Card
+121344,103,2025-06-22 06:41:01,2025-06-22,Breakfast,Dine-In,Pancake Platter,,1,5.31,0.0,0.4,5.71,Cash
+121345,301,2025-06-22 10:50:13,2025-06-22,Morning,Dine-In,Latte,Sugar-Free Syrup,1,2.87,0.0,0.23,3.4,Cash
+121346,401,2025-07-18 20:37:32,2025-07-18,Dinner,Takeout,Chicken Sandwich,,1,4.45,0.0,0.32,4.77,Card
+121347,201,2025-05-28 11:11:39,2025-05-28,Morning,Takeout,Bottled Water,Extra Ice,1,1.52,0.0,0.13,1.65,Card
+121348,401,2025-06-23 23:55:40,2025-06-23,Late Night,Drive-Thru,Spicy Chicken Sandwich,,1,5.12,0.0,0.41,5.53,Cash
+121349,402,2025-07-06 21:27:46,2025-07-06,Dinner,Dine-In,Chicken Sandwich,Extra Sauce,1,5.31,0.0,0.53,6.09,Card
+121350,401,2025-05-26 12:19:06,2025-05-26,Lunch,Dine-In,Chicken Sandwich Combo,Extra Sauce,2,8.4,0.0,1.64,18.94,Card
+121351,301,2025-06-16 12:42:36,2025-06-16,Lunch,Dine-In,Veggie Burger,Gluten-Free Bun,1,4.61,0.0,0.41,6.02,MobilePay
+121352,102,2025-07-12 11:06:25,2025-07-12,Lunch,Drive-Thru,Chicken Sandwich,No Pickles,1,5.59,0.0,0.41,6.0,Card
+121353,101,2025-07-05 01:52:30,2025-07-05,Late Night,Drive-Thru,Cheeseburger,,1,4.74,0.0,0.34,5.08,MobilePay
+121354,202,2025-06-14 21:11:20,2025-06-14,Dinner,Delivery,Spicy Chicken Combo,,1,9.0,0.0,0.68,9.68,MobilePay
+121355,103,2025-05-27 20:00:13,2025-05-27,Dinner,Takeout,Cheeseburger Combo,,3,7.19,0.0,1.83,23.4,Cash
+121356,402,2025-08-06 01:43:56,2025-08-06,Late Night,Drive-Thru,Chicken Sandwich,,1,5.19,0.0,0.36,5.55,Card
+121357,501,2025-05-08 17:02:48,2025-05-08,Afternoon,Delivery,French Fries,Small Size,1,2.75,0.0,0.22,2.67,Card
+121358,101,2025-06-01 20:05:46,2025-06-01,Dinner,Dine-In,Cheeseburger Combo,,1,7.75,0.0,0.74,8.49,Card
+121359,102,2025-08-03 20:41:57,2025-08-03,Dinner,Drive-Thru,Cheeseburger,,2,4.55,0.0,0.77,9.87,MobilePay
+121360,501,2025-07-09 16:09:07,2025-07-09,Afternoon,Drive-Thru,French Fries,No Sauce,1,2.64,0.0,0.18,2.82,Cash
+121361,501,2025-07-28 01:53:59,2025-07-28,Late Night,Drive-Thru,French Fries,,1,2.8,0.0,0.18,2.98,Card
+121362,202,2025-04-27 18:08:19,2025-04-27,Dinner,Drive-Thru,Cheeseburger,,1,4.53,0.0,0.29,4.82,Cash
+121363,301,2025-06-08 10:04:49,2025-06-08,Breakfast,Drive-Thru,Sausage Biscuit,Sausage Patty,1,2.8,0.0,0.34,4.34,Card
+121364,402,2025-07-26 14:07:50,2025-07-26,Lunch,Takeout,Chicken Sandwich,,1,5.83,0.0,0.38,6.21,Card
+121365,401,2025-07-17 01:04:26,2025-07-17,Late Night,Drive-Thru,Chicken Sandwich,No Onions,1,5.33,0.0,0.4,5.73,
+121366,102,2025-06-11 20:33:33,2025-06-11,Dinner,Drive-Thru,Cheeseburger Combo,,1,8.48,0.0,0.61,9.09,Card
+121367,301,2025-06-26 14:13:23,2025-06-26,Lunch,Takeout,Onion Rings,,1,2.88,0.0,0.23,2.81,Cash
+121368,202,2025-08-08 14:01:42,2025-08-08,Lunch,Dine-In,Iced Tea,No Ice,2,1.83,0.73,0.28,3.21,Card
+121369,403,2025-04-28 11:56:00,2025-04-28,Lunch,Dine-In,French Fries,Large Size,2,2.39,0.0,,6.37,Cash
+121370,102,2025-04-30 12:08:14,2025-04-30,Lunch,Dine-In,Chicken Sandwich,,1,5.33,0.0,0.43,5.76,Card
+121371,101,2025-07-29 05:46:48,2025-07-29,Breakfast,Drive-Thru,Coffee,,2,2.23,0.0,0.29,4.75,Card
+121372,201,2025-05-02 14:59:09,2025-05-02,Lunch,Dine-In,Chicken Sandwich Combo,No Pickles,1,8.3,0.0,0.54,8.84,Cash
+121373,501,2025-06-03 19:01:08,2025-06-03,Dinner,Drive-Thru,Cheeseburger,,1,3.95,0.0,0.32,4.27,Card
+121374,403,2025-07-28 20:18:30,2025-07-28,Dinner,Delivery,Spicy Chicken Sandwich,No Onions,1,6.2,0.0,0.59,6.79,MobilePay
+121375,402,2025-05-30 22:43:14,2025-05-30,Late Night,Delivery,Cheeseburger,,1,4.42,0.0,0.4,4.82,Card
+121376,101,2025-06-28 13:22:58,2025-06-28,Lunch,Takeout,Chicken Sandwich Combo,No Pickles,1,8.66,0.0,0.52,9.18,Card
+121377,301,2025-06-04 21:00:24,2025-06-04,Dinner,Dine-In,Veggie Burger,Add Bacon,1,5.6,0.0,0.59,7.19,Card
+121378,201,2025-05-30 11:19:37,2025-05-30,Lunch,Drive-Thru,Spicy Chicken Sandwich,Add Jalapenos,1,5.41,0.0,0.49,6.3,Card
+121379,402,2025-06-07 19:20:51,2025-06-07,Dinner,Drive-Thru,Spicy Chicken Sandwich,,1,6.34,0.0,0.44,6.78,Card
+121380,103,2025-05-09 13:21:15,2025-05-09,Lunch,Drive-Thru,Double Cheeseburger,,1,6.02,0.0,0.36,6.38,Card
+121381,103,2025-08-02 12:48:13,2025-08-02,Lunch,Dine-In,Double Cheeseburger Combo,,1,9.75,0.0,0.71,10.46,Card
+121382,201,2025-08-07 06:38:27,2025-08-07,Breakfast,Takeout,Coffee,Sugar-Free Syrup,1,2.32,0.0,0.18,2.8,MobilePay
+121383,103,2025-06-25 19:37:11,2025-06-25,Dinner,Drive-Thru,Chicken Sandwich,No Pickles,1,5.17,0.0,0.41,5.58,Card
+121384,101,2025-05-02 13:00:11,2025-05-02,Lunch,Dine-In,Spicy Chicken Combo,,1,9.66,0.0,0.7,10.36,Card
+121385,101,2025-07-17 17:37:41,2025-07-17,Afternoon,Takeout,Chicken Nuggets (10pc),,1,5.09,0.0,0.38,5.47,Card
+121386,101,2025-05-27 19:14:00,2025-05-27,Dinner,Dine-In,Spicy Chicken Combo,,1,9.94,0.0,0.84,10.78,MobilePay
+121387,301,2025-06-14 13:53:15,2025-06-14,Lunch,Takeout,Double Cheeseburger,,1,6.39,0.0,0.42,6.81,Cash
+121388,401,2025-06-26 12:42:30,2025-06-26,Lunch,Delivery,Cheeseburger,,1,4.5,0.0,0.36,4.86,MobilePay
+121389,103,2025-08-01 10:07:25,2025-08-01,Breakfast,Takeout,Soft Drink (Small),,1,1.48,0.0,0.13,1.61,Cash
+121390,301,2025-07-31 15:24:52,2025-07-31,Afternoon,Takeout,Milkshake,Sugar-Free Syrup,2,4.14,1.33,0.53,8.08,Cash
+121391,301,2025-07-09 19:55:15,2025-07-09,Dinner,Delivery,Chicken Sandwich,Spicy,1,5.14,0.0,0.44,5.58,Card
+121392,202,2025-05-17 09:12:51,2025-05-17,Breakfast,Drive-Thru,Breakfast Burrito,,2,4.24,0.0,0.76,11.64,Card
+121393,301,2025-06-16 08:18:11,2025-06-16,Breakfast,Takeout,Latte,Extra Ice,1,3.27,0.0,0.23,3.5,MobilePay
+121394,402,2025-06-24 01:20:59,2025-06-24,Late Night,Drive-Thru,Milkshake,,1,3.87,0.0,0.33,4.2,Cash
+121395,102,2025-06-18 10:08:20,2025-06-18,Breakfast,Dine-In,Egg Muffin,,1,3.29,0.0,0.29,4.78,Card
+121396,401,2025-07-18 19:47:20,2025-07-18,Dinner,Delivery,Chicken Sandwich Combo,,1,8.32,0.0,0.58,8.9,Card
+121397,101,2025-05-01 10:18:57,2025-05-01,Morning,Takeout,Brownie,Cinnamon,1,1.76,0.0,0.14,2.0,Cash
+121398,301,2025-06-04 07:44:41,2025-06-04,Breakfast,Dine-In,Hash Browns,No Cheese,1,2.13,0.0,0.15,2.28,Card
+121399,501,2025-07-06 16:04:45,2025-07-06,Afternoon,,Bottled Water,Sugar-Free Syrup,1,1.39,0.0,0.12,1.81,Card
+121400,102,2025-04-18 23:01:52,2025-04-18,Late Night,Drive-Thru,Bottled Water,Extra Ice,1,1.35,0.0,0.11,1.46,Card
+121401,201,2025-06-13 14:01:50,2025-06-13,Lunch,Takeout,Spicy Chicken Combo,,1,9.56,0.0,0.62,10.18,MobilePay
+121402,202,2025-04-19 19:01:35,2025-04-19,Dinner,Drive-Thru,Spicy Chicken Sandwich,No Pickles,1,6.09,0.0,0.46,6.55,MobilePay
+121403,101,2025-04-18 18:04:06,2025-04-18,Dinner,Drive-Thru,Double Cheeseburger,,2,6.04,0.0,0.72,12.8,Card
+121404,101,2025-05-20 11:03:18,2025-05-20,Lunch,Dine-In,Spicy Chicken Sandwich,Add Jalapenos,1,6.02,0.0,0.51,6.93,Card
+121405,202,2025-06-25 11:12:02,2025-06-25,Lunch,Delivery,Chicken Nuggets (10pc),,1,4.74,0.0,0.31,5.05,Card
+121406,501,2025-04-18 08:50:58,2025-04-18,Breakfast,Drive-Thru,Pancake Platter,,1,4.52,0.0,0.29,4.81,Card
+121407,401,2025-05-29 09:30:52,2025-05-29,Breakfast,Drive-Thru,Breakfast Burrito,No Cheese,1,4.12,0.0,0.27,4.39,Card
+121408,403,2025-07-16 11:22:41,2025-07-16,Morning,Takeout,Bottled Water,Light Ice,1,1.41,0.0,0.1,1.51,Cash
+121409,103,2025-05-17 12:06:29,2025-05-17,Lunch,,Spicy Chicken Sandwich,,1,5.54,0.0,0.42,5.96,Cash
+121410,201,2025-05-01 09:21:13,2025-05-01,Breakfast,Dine-In,Egg Muffin,Cinnamon,1,3.57,0.0,0.27,3.94,MobilePay
+121411,301,2025-06-04 07:19:27,2025-06-04,Breakfast,Dine-In,Coffee,Light Ice,2,2.0,0.8,0.22,3.42,Card
+121412,103,2025-04-30 01:30:29,2025-04-30,Late Night,,Cheeseburger,,1,4.64,0.0,0.32,4.96,GiftCard
+121413,501,2025-06-14 05:09:04,2025-06-14,Breakfast,Dine-In,Latte,,1,3.78,0.0,0.27,4.05,Card
+121414,402,2025-07-28 01:59:07,2025-07-28,Late Night,Drive-Thru,French Fries,Extra Sauce,1,2.46,0.0,0.24,2.95,Card
+121415,201,2025-05-02 11:01:01,2025-05-02,Morning,Takeout,Coffee,Extra Ice,2,2.08,0.0,0.35,4.51,Card
+121416,103,2025-07-29 09:04:48,2025-07-29,Breakfast,Takeout,Coffee,Extra Ice,1,1.9,0.0,0.14,2.04,GiftCard
+121417,102,2025-06-28 18:47:44,2025-06-28,Dinner,Dine-In,Spicy Chicken Combo,,1,9.42,0.47,0.63,9.58,Card
+121418,301,2025-04-21 17:58:54,2025-04-21,Afternoon,Dine-In,Soft Drink (Medium),Extra Ice,1,1.87,0.19,0.11,1.79,Card
+121419,403,2025-05-20 21:54:18,2025-05-20,Dinner,Delivery,Chicken Sandwich,Extra Cheese,2,5.58,0.0,0.85,13.01,Card
+121420,401,2025-07-07 12:46:31,2025-07-07,Lunch,Delivery,Cheeseburger,,2,4.67,0.0,0.65,9.99,Card
+121421,101,2025-05-26 11:35:49,2025-05-26,Lunch,Dine-In,Double Cheeseburger,,1,6.19,0.0,0.37,6.56,Card
+121422,201,2025-05-10 12:51:00,2025-05-10,Lunch,Dine-In,Spicy Chicken Combo,,1,9.11,,0.66,9.77,Card
+121423,403,2025-07-18 23:21:44,2025-07-18,Late Night,Drive-Thru,French Fries,Small Size,1,2.4,0.21,0.11,2.0,Card
+121424,401,2025-06-02 11:32:50,2025-06-02,Lunch,Drive-Thru,Double Cheeseburger,,1,5.3,0.0,0.4,5.7,Card
+121425,301,2025-07-12 18:53:55,2025-07-12,Dinner,Drive-Thru,Veggie Burger,Add Bacon,1,4.55,0.0,0.33,5.88,Card
+121426,202,2025-07-28 22:47:19,2025-07-28,Late Night,Takeout,Chicken Sandwich,No Sauce,1,6.14,0.0,0.4,6.54,Card
+121427,402,2025-04-17 12:42:33,2025-04-17,Lunch,Takeout,Veggie Burger,,1,4.85,0.0,0.39,5.24,GiftCard
+121428,402,2025-07-18 19:11:27,2025-07-18,Dinner,Takeout,Double Cheeseburger Combo,,1,9.88,0.0,0.89,10.77,Card
+121429,403,2025-05-24 18:29:18,2025-05-24,Dinner,Delivery,Spicy Chicken Sandwich,No Onions,1,5.53,0.0,0.5,6.03,Card
+121430,101,2025-07-16 13:47:34,2025-07-16,Lunch,Dine-In,Cheeseburger,,2,4.59,0.0,0.83,10.01,Card
+121431,501,2025-04-26 06:37:55,2025-04-26,Breakfast,Takeout,Coffee,Sugar-Free Syrup,1,2.05,0.0,0.18,2.53,Card
+121432,501,2025-07-06 10:33:28,2025-07-06,Morning,Takeout,Latte,No Ice,1,3.46,0.0,0.24,3.7,
+121433,101,2025-06-06 08:53:40,2025-06-06,Breakfast,Dine-In,Breakfast Burrito,Cinnamon,1,3.59,0.0,0.26,3.95,Card
+121434,102,2025-08-07 16:10:56,2025-08-07,Afternoon,Dine-In,Soft Drink (Medium),,3,1.73,0.0,0.36,5.55,MobilePay
+121435,402,2025-06-10 13:01:44,2025-06-10,Lunch,Drive-Thru,Double Cheeseburger Combo,,1,10.13,0.0,0.86,10.99,Card
+121436,402,2025-05-09 11:34:57,2025-05-09,Morning,Takeout,Hash Browns,,1,1.84,0.0,0.12,1.96,Card
+121437,401,2025-04-20 12:42:47,2025-04-20,Lunch,Drive-Thru,Double Cheeseburger Combo,,2,10.79,0.0,1.73,23.31,Card
+121438,201,2025-06-20 13:33:20,2025-06-20,Lunch,Dine-In,Spicy Chicken Combo,,1,9.54,0.0,0.91,10.45,Card
+121439,501,2025-05-17 17:16:19,2025-05-17,Afternoon,Dine-In,Onion Rings,No Sauce,2,3.35,0.34,0.48,6.84,GiftCard
+121440,202,2025-07-19 11:03:29,2025-07-19,Lunch,Dine-In,Iced Tea,Light Ice,1,1.98,0.0,0.18,2.16,Card
+121441,202,2025-04-13 16:42:40,2025-04-13,Afternoon,,Iced Tea,,1,2.05,0.0,0.16,2.21,Card
+121442,301,2025-07-17 09:06:19,2025-07-17,Breakfast,Dine-In,Egg Muffin,Sausage Patty,1,3.29,0.0,0.33,4.82,Card
+121443,102,2025-05-09 18:07:09,2025-05-09,Dinner,Dine-In,Cheeseburger,,1,4.06,0.0,0.37,4.43,Card
+121444,301,2025-08-03 09:23:31,2025-08-03,Breakfast,Dine-In,Coffee,Extra Ice,1,1.97,0.39,0.09,1.67,Card
+121445,102,2025-04-16 13:22:53,2025-04-16,Lunch,Takeout,Chicken Sandwich,No Pickles,2,5.15,0.0,0.93,11.23,Cash
+121446,401,2025-04-24 06:54:05,2025-04-24,Breakfast,Drive-Thru,Sausage Biscuit,,1,2.91,0.0,0.19,3.1,Cash
+121447,402,2025-08-08 11:27:36,2025-08-08,Lunch,Dine-In,Cheeseburger Combo,,2,8.78,0.0,1.4,18.96,Cash
+121448,301,2025-04-26 19:58:52,2025-04-26,Dinner,Dine-In,Spicy Chicken Combo,,1,9.91,0.99,0.65,9.57,Cash
+121449,101,2025-06-26 11:42:18,2025-06-26,Lunch,Delivery,Veggie Burger,,1,5.25,0.55,0.47,5.42,Card
+121450,301,2025-06-11 12:38:39,2025-06-11,Lunch,Dine-In,Spicy Chicken Sandwich,,1,5.76,0.0,0.37,6.13,Cash
+121451,301,2025-04-30 10:56:02,2025-04-30,Morning,Delivery,Hash Browns,,1,2.23,0.0,0.19,2.52,MobilePay
+121452,501,2025-04-16 07:51:04,2025-04-16,Breakfast,Drive-Thru,Egg Muffin,,1,3.3,0.0,0.21,3.51,Card
+121453,102,2025-07-09 16:36:57,2025-07-09,Afternoon,Dine-In,French Fries,Extra Sauce,1,3.38,0.36,0.31,3.58,Card
+121454,501,2025-07-30 20:55:12,2025-07-30,Dinner,Dine-In,Cheeseburger,,1,4.68,0.0,0.4,5.08,Card
+121455,201,2025-07-01 20:56:03,2025-07-01,Dinner,Dine-In,Cheeseburger Combo,,1,7.61,0.0,0.46,8.07,Card
+121456,402,2025-07-02 17:04:34,2025-07-02,Afternoon,Delivery,Side Salad,,1,3.0,0.3,0.26,2.96,Card
+121457,201,2025-06-22 10:06:34,2025-06-22,Morning,Takeout,Coffee,,1,1.97,0.0,0.19,2.86,Card
+121458,401,2025-05-09 14:14:26,2025-05-09,Lunch,Drive-Thru,Chicken Sandwich Combo,Extra Cheese,1,9.63,0.0,0.73,10.86,Card
+121459,402,2025-07-17 11:02:01,2025-07-17,Lunch,Takeout,Spicy Chicken Combo,,1,9.63,0.0,0.58,10.21,Card
+121460,403,2025-06-29 18:11:13,2025-06-29,Dinner,Takeout,Double Cheeseburger,,1,5.68,0.0,0.43,6.11,Cash
+121461,103,2025-06-26 16:24:52,2025-06-26,Afternoon,Dine-In,Onion Rings,,1,2.79,0.0,0.18,2.97,Card
+121462,201,2025-06-19 15:08:47,2025-06-19,Afternoon,Takeout,Ice Cream Cone,Caramel Topping,2,1.62,0.0,0.38,4.62,MobilePay
+121463,202,2025-08-04 19:46:08,2025-08-04,Dinner,Dine-In,Spicy Chicken Combo,,1,8.86,0.0,0.66,9.52,Cash
+121464,201,2025-05-14 05:04:51,2025-05-14,Breakfast,Takeout,Coffee,,1,1.77,0.0,0.13,1.9,Cash
+121465,401,2025-08-06 11:24:20,2025-08-06,Morning,Takeout,Bottled Water,Sugar-Free Syrup,2,1.49,0.0,,3.92,GiftCard
+121466,201,2025-07-11 11:48:22,2025-07-11,Lunch,Takeout,Soft Drink (Medium),Almond Milk,4,1.88,0.0,0.72,11.04,Card
+121467,202,2025-05-06 10:09:37,2025-05-06,Breakfast,Dine-In,Egg Muffin,,1,3.34,0.0,0.27,4.81,Card
+121468,101,2025-06-09 20:43:28,2025-06-09,Dinner,Takeout,Double Cheeseburger Combo,,1,9.39,0.0,0.7,10.09,Cash
+121469,103,2025-07-25 05:17:34,2025-07-25,Breakfast,Drive-Thru,Apple Pie,Cinnamon,1,1.65,0.0,,1.86,Cash
+121470,301,2025-07-09 11:26:12,2025-07-09,Lunch,Drive-Thru,Cheeseburger Combo,,2,9.09,0.0,1.27,19.45,Card
+121471,201,2025-05-30 11:05:36,2025-05-30,Lunch,Drive-Thru,French Fries,Large Size,1,2.47,0.0,0.21,3.28,Card
+121472,401,2025-06-26 23:50:43,2025-06-26,Late Night,Drive-Thru,Chicken Sandwich,,1,5.34,0.0,0.46,6.8,Card
+121473,101,2025-05-24 11:15:30,2025-05-24,Lunch,Delivery,Double Cheeseburger Combo,,1,10.0,0.0,0.8,10.8,Card
+121474,501,2025-04-25 11:09:30,2025-04-25,Lunch,Drive-Thru,Chicken Sandwich,,2,5.1,0.0,0.82,11.02,GiftCard
+121475,301,2025-04-19 11:40:47,2025-04-19,Lunch,Drive-Thru,French Fries,Extra Sauce,2,2.82,0.0,0.4,6.54,MobilePay
+121476,403,2025-05-28 13:22:16,2025-05-28,Lunch,Dine-In,Double Cheeseburger Combo,,1,9.93,0.0,,,Card
+121477,301,2025-05-22 18:41:37,2025-05-22,Dinner,Takeout,Veggie Burger,Add Jalapenos,1,5.39,0.0,0.35,6.14,Cash
+121478,402,2025-04-17 15:21:41,2025-04-17,Afternoon,Drive-Thru,Onion Rings,Large Size,2,2.89,0.0,0.63,7.61,MobilePay
+121479,201,2025-08-08 19:19:08,2025-08-08,Dinner,Delivery,Spicy Chicken Combo,,1,9.07,0.0,0.66,9.73,Card
+121480,401,2025-04-16 11:06:57,2025-04-16,Lunch,Takeout,Spicy Chicken Sandwich,,1,5.92,0.0,0.44,6.36,Cash
+121481,301,2025-05-25 07:28:26,2025-05-25,Breakfast,Takeout,Egg Muffin,Cinnamon,1,3.15,0.0,0.28,3.53,
+121482,301,2025-06-01 10:57:12,2025-06-01,Morning,Takeout,Side Salad,,2,3.21,0.0,0.39,6.81,Card
+121483,102,2025-07-15 07:24:20,2025-07-15,Breakfast,Drive-Thru,Breakfast Burrito,Extra Egg,1,3.64,0.0,0.42,5.06,Card
+121484,103,2025-05-29 20:14:14,2025-05-29,Dinner,Takeout,Spicy Chicken Sandwich,Add Jalapenos,1,5.73,0.0,0.37,6.5,Card
+121485,103,2025-06-22 14:43:11,2025-06-22,Lunch,Takeout,Cheeseburger Combo,,1,8.96,0.0,0.65,9.61,Card
+121486,403,2025-04-16 13:46:02,2025-04-16,Lunch,Takeout,Veggie Burger,,1,4.74,0.0,0.33,5.07,Cash
+121487,202,2025-04-26 10:36:55,2025-04-26,Morning,Takeout,Brownie,Cinnamon,1,1.66,0.0,0.13,1.89,GiftCard
+121488,401,2025-05-24 21:18:20,2025-05-24,Dinner,Dine-In,Double Cheeseburger Combo,,1,9.23,0.0,,,Cash
+121489,103,2025-06-12 12:59:17,2025-06-12,Lunch,Drive-Thru,Chicken Sandwich Combo,Extra Sauce,1,9.62,,0.89,10.76,Cash
+121490,402,2025-04-22 18:55:55,2025-04-22,Dinner,Drive-Thru,Cheeseburger,,1,4.31,0.0,0.28,4.59,Card
+121491,402,2025-06-20 08:53:22,2025-06-20,Breakfast,Takeout,Egg Muffin,,1,3.88,0.0,0.23,4.11,Cash
+121492,103,2025-05-13 10:23:39,2025-05-13,Morning,Drive-Thru,Soft Drink (Medium),,2,1.69,0.0,0.25,3.63,GiftCard
+121493,501,2025-07-11 21:21:19,2025-07-11,Dinner,Dine-In,Spicy Chicken Combo,,1,9.38,0.0,0.61,9.99,MobilePay
+121494,102,2025-08-05 12:21:03,2025-08-05,Lunch,Drive-Thru,Chicken Sandwich,,1,5.96,0.0,0.42,6.38,Cash
+121495,401,2025-07-09 20:36:15,2025-07-09,Dinner,Drive-Thru,Chicken Sandwich Combo,,1,9.99,0.0,0.8,10.79,Card
+121496,103,2025-05-28 14:38:21,2025-05-28,Lunch,Dine-In,Chicken Sandwich Combo,,1,10.02,0.0,0.8,10.82,MobilePay
+121497,402,2025-07-13 08:20:26,2025-07-13,Breakfast,Dine-In,Coffee,,1,2.13,0.0,0.16,2.29,MobilePay
+121498,102,2025-05-15 12:12:14,2025-05-15,Lunch,Takeout,Cheeseburger,,1,4.83,0.48,0.28,4.63,Cash
+121499,103,2025-04-18 15:24:15,2025-04-18,Afternoon,Drive-Thru,French Fries,,1,2.81,0.0,0.25,3.06,Card
+121500,202,2025-05-18 15:18:53,2025-05-18,Afternoon,Takeout,Iced Tea,Sugar-Free Syrup,1,1.99,0.0,0.14,2.43,Card
+121501,202,2025-04-20 06:01:55,2025-04-20,Breakfast,Takeout,Egg Muffin,Sausage Patty,1,3.1,0.64,0.33,3.99,Card
+121502,101,2025-08-04 17:54:17,2025-08-04,Afternoon,Delivery,Onion Rings,Small Size,1,2.91,0.0,0.2,2.81,MobilePay
+121503,301,2025-07-17 10:55:43,2025-07-17,Morning,Dine-In,Chicken Nuggets (6pc),,3,3.74,0.0,0.67,11.89,Card
+121504,102,2025-05-07 06:52:19,2025-05-07,Breakfast,Drive-Thru,Sausage Biscuit,Extra Egg,1,3.0,0.0,0.38,4.38,Cash
+121505,102,2025-06-30 17:13:47,2025-06-30,Afternoon,Drive-Thru,French Fries,No Sauce,2,2.51,0.0,0.43,5.45,Cash
+121506,101,2025-06-11 14:25:42,2025-06-11,Lunch,Delivery,Veggie Burger,Spicy,1,5.48,0.0,0.38,5.86,MobilePay
+121507,501,2025-05-10 06:44:14,2025-05-10,Breakfast,Drive-Thru,Hash Browns,Cinnamon,1,2.08,0.0,0.13,2.31,Card
+121508,103,2025-08-02 07:04:13,2025-08-02,Breakfast,Drive-Thru,Sausage Biscuit,,1,3.06,0.0,0.22,3.28,Card
+121509,103,2025-07-02 11:52:08,2025-07-02,Morning,Dine-In,Latte,,2,3.61,0.0,0.51,7.73,Card
+121510,102,2025-05-06 14:26:19,2025-05-06,Lunch,Drive-Thru,Cheeseburger Combo,,1,7.92,0.0,,,MobilePay
+121511,401,2025-06-02 18:22:13,2025-06-02,Dinner,Drive-Thru,Double Cheeseburger Combo,,1,9.89,0.0,0.94,10.83,MobilePay
+121512,403,2025-04-18 11:58:10,2025-04-18,Lunch,Drive-Thru,Veggie Burger,Add Jalapenos,2,4.99,0.0,0.7,11.48,Card
+121513,102,2025-07-01 17:48:36,2025-07-01,Afternoon,Dine-In,Bottled Water,Light Ice,2,1.28,0.38,0.19,2.37,MobilePay
+121514,103,2025-05-24 07:36:29,2025-05-24,Breakfast,Drive-Thru,Coffee,,1,1.87,0.0,0.13,2.0,Card
+121515,102,2025-06-19 11:12:15,2025-06-19,Lunch,Dine-In,Spicy Chicken Sandwich,,1,5.59,0.56,0.3,5.33,MobilePay
+121516,102,2025-05-23 21:23:39,2025-05-23,Dinner,Delivery,Spicy Chicken Sandwich,Extra Sauce,1,6.22,0.0,0.52,6.99,Card
+121517,501,2025-06-18 09:54:57,2025-06-18,Breakfast,Drive-Thru,Egg Muffin,,1,3.4,0.0,0.22,3.62,Card
+121518,401,2025-07-29 15:03:57,2025-07-29,Afternoon,Delivery,Milkshake,Extra Ice,1,3.65,0.0,0.24,3.89,MobilePay
+121519,102,2025-06-07 16:59:40,2025-06-07,Afternoon,Takeout,Onion Rings,Extra Sauce,3,3.67,1.18,0.79,11.37,Cash
+121520,501,2025-05-17 11:31:08,2025-05-17,Morning,Drive-Thru,Bottled Water,Light Ice,1,1.54,0.31,0.09,1.32,Card
+121521,402,2025-07-22 20:05:18,2025-07-22,Dinner,Takeout,Double Cheeseburger Combo,,3,10.28,0.0,1.85,32.69,MobilePay
+121522,401,2025-05-31 05:11:50,2025-05-31,Breakfast,Drive-Thru,Egg Muffin,Sausage Patty,2,3.18,0.0,0.74,9.5,Card
+121523,102,2025-05-08 17:32:21,2025-05-08,Afternoon,Takeout,French Fries,,3,2.37,0.0,0.57,7.68,GiftCard
+121524,403,2025-04-19 14:22:27,2025-04-19,Lunch,Delivery,Chicken Sandwich Combo,Extra Cheese,1,8.8,0.0,0.56,9.86,MobilePay
+121525,102,2025-04-29 23:35:24,2025-04-29,Late Night,Dine-In,Soft Drink (Large),,2,2.1,,0.27,4.47,Card
+121526,202,2025-06-04 20:46:15,2025-06-04,Dinner,Delivery,Chicken Sandwich Combo,,1,9.93,0.0,0.74,10.67,GiftCard
+121527,103,2025-05-26 16:56:05,2025-05-26,Afternoon,Drive-Thru,French Fries,,1,3.08,0.0,,3.3,Card
+121528,401,2025-06-03 21:53:51,2025-06-03,Dinner,Takeout,Chicken Sandwich,No Sauce,1,5.21,0.0,0.49,5.7,Cash
+121529,101,2025-07-26 19:09:15,2025-07-26,Dinner,Takeout,French Fries,Extra Sauce,1,2.32,,0.22,2.79,Card
+121530,202,2025-05-31 12:30:17,2025-05-31,Lunch,Drive-Thru,French Fries,,1,2.68,0.0,0.17,2.55,Card
+121531,501,2025-04-13 17:44:39,2025-04-13,Afternoon,Takeout,Soft Drink (Medium),,3,1.59,0.72,0.38,4.43,Cash
+121532,102,2025-05-18 18:50:39,2025-05-18,Dinner,Delivery,Veggie Burger,,1,5.35,0.0,0.35,5.7,Card
+121533,402,2025-06-16 12:59:46,2025-06-16,Lunch,Dine-In,Chicken Sandwich Combo,,1,8.92,0.0,0.54,9.46,MobilePay
+121534,301,2025-05-18 17:09:11,2025-05-18,Afternoon,Drive-Thru,Soft Drink (Medium),Almond Milk,1,1.7,0.0,0.17,2.57,Card
+121535,401,2025-08-03 15:51:40,2025-08-03,Afternoon,Drive-Thru,French Fries,Small Size,3,2.19,0.0,0.37,6.04,GiftCard
+121536,403,2025-05-06 14:06:59,2025-05-06,Lunch,Dine-In,Cheeseburger Combo,,1,8.75,0.0,0.74,9.49,Card
+121537,401,2025-07-23 16:08:03,2025-07-23,Afternoon,Takeout,Onion Rings,No Sauce,1,2.99,0.3,0.26,2.95,Cash
+121538,403,2025-08-04 12:05:56,2025-08-04,Lunch,Drive-Thru,Spicy Chicken Sandwich,Add Bacon,1,5.19,0.0,0.56,6.75,Card
+121539,103,2025-07-13 13:25:30,2025-07-13,Lunch,Delivery,Double Cheeseburger Combo,,1,8.55,0.0,0.51,9.06,Card
+121540,501,2025-05-24 18:29:30,2025-05-24,Dinner,Takeout,Chicken Sandwich Combo,Gluten-Free Bun,1,8.98,0.0,0.7,10.68,Card
+121541,403,2025-05-04 19:33:49,2025-05-04,Dinner,Delivery,Cheeseburger Combo,,1,9.38,0.0,0.75,10.13,Card
+121542,202,2025-05-11 15:40:53,2025-05-11,Afternoon,Takeout,Onion Rings,Extra Sauce,1,3.61,0.0,0.27,4.13,GiftCard
+121543,101,2025-05-13 12:19:55,2025-05-13,Lunch,Dine-In,Chicken Sandwich Combo,No Pickles,1,8.76,0.0,0.7,9.46,Card
+121544,202,2025-07-31 11:44:34,2025-07-31,Morning,Takeout,Chicken Nuggets (6pc),,1,3.59,0.0,0.23,3.82,Card
+121545,401,2025-04-19 13:29:13,2025-04-19,Lunch,Delivery,Chicken Sandwich,,1,5.56,0.0,0.53,6.09,Card
+121546,402,2025-07-02 21:23:59,2025-07-02,Dinner,Takeout,Cheeseburger Combo,,2,7.99,0.0,1.2,17.18,Cash
+121547,202,2025-07-02 11:29:06,2025-07-02,Lunch,Dine-In,Iced Tea,Almond Milk,1,1.93,0.0,0.24,2.87,MobilePay
+121548,202,2025-06-26 10:20:36,2025-06-26,Breakfast,Takeout,Coffee,,1,2.04,0.0,0.12,2.16,Card
+121549,402,2025-05-15 11:42:54,2025-05-15,Lunch,Dine-In,Double Cheeseburger Combo,,1,10.6,0.0,0.8,11.4,Card
+121550,301,2025-07-28 14:57:45,2025-07-28,Lunch,Dine-In,Veggie Burger,Add Bacon,1,5.2,0.0,0.53,6.73,Cash
+121551,201,2025-05-15 13:45:33,2025-05-15,Lunch,Takeout,Cheeseburger,,1,4.42,0.0,0.29,4.71,Card
+121552,101,2025-07-16 05:38:29,2025-07-16,Breakfast,Drive-Thru,Breakfast Burrito,,1,3.52,0.0,0.26,3.78,Card
+121553,102,2025-07-06 22:12:45,2025-07-06,Late Night,Drive-Thru,Onion Rings,Extra Sauce,2,2.91,0.0,0.51,6.83,GiftCard
+121554,101,2025-04-23 13:11:42,2025-04-23,Lunch,Takeout,Cheeseburger Combo,,1,8.38,0.0,0.54,8.92,MobilePay
+121555,102,2025-07-24 10:08:12,2025-07-24,Breakfast,Drive-Thru,Hash Browns,Sausage Patty,2,1.96,0.0,0.41,6.73,Card
+121556,103,2025-04-28 20:25:48,2025-04-28,Dinner,Drive-Thru,Spicy Chicken Sandwich,Extra Sauce,2,5.99,0.0,0.87,13.35,Card
+121557,102,2025-05-13 20:05:13,2025-05-13,Dinner,Takeout,Chicken Sandwich Combo,,1,8.59,0.43,0.59,8.75,Card
+121558,202,2025-04-11 18:16:24,2025-04-11,Dinner,Delivery,Onion Rings,,1,3.56,0.0,0.28,3.84,Card
+121559,201,2025-08-08 19:00:32,2025-08-08,Dinner,Takeout,Onion Rings,Extra Sauce,1,3.06,0.0,0.28,3.59,Cash
+121560,401,2025-05-24 07:00:30,2025-05-24,Breakfast,Takeout,Latte,Light Ice,2,3.23,0.0,0.39,6.85,Card
+121561,102,2025-04-27 12:02:14,2025-04-27,Lunch,Drive-Thru,Veggie Burger,,1,4.98,0.0,0.42,5.4,Cash
+121562,201,2025-08-07 16:50:58,2025-08-07,Afternoon,Dine-In,Chicken Nuggets (6pc),,2,3.13,0.0,0.38,6.64,MobilePay
+121563,501,2025-08-03 11:35:04,2025-08-03,Lunch,Drive-Thru,Chicken Sandwich Combo,,3,9.43,0.0,2.4,30.69,
+121564,201,2025-07-09 10:57:25,2025-07-09,Breakfast,Drive-Thru,Sausage Biscuit,,1,3.22,0.0,0.21,3.43,Cash
+121565,301,2025-06-05 18:09:55,2025-06-05,Dinner,Drive-Thru,Chicken Sandwich,Add Jalapenos,1,5.29,,0.43,6.12,Cash
+121566,201,2025-06-29 18:30:19,2025-06-29,Dinner,Takeout,Chicken Sandwich Combo,No Sauce,1,9.02,0.0,0.59,9.61,Card
+121567,201,2025-06-28 07:32:40,2025-06-28,Breakfast,Drive-Thru,Breakfast Burrito,,1,3.87,0.0,0.46,5.53,Card
+121568,101,2025-06-06 14:58:03,2025-06-06,Lunch,Drive-Thru,Double Cheeseburger,,1,5.09,0.25,0.41,5.25,Card
+121569,201,2025-06-21 11:07:48,2025-06-21,Morning,Takeout,Bottled Water,Almond Milk,1,1.4,0.42,0.13,1.81,Cash
+121570,402,2025-05-16 15:53:05,2025-05-16,Afternoon,Takeout,French Fries,,1,2.87,0.0,0.24,3.11,Card
+121571,202,2025-06-27 22:49:00,2025-06-27,Late Night,Delivery,French Fries,,1,2.28,0.0,0.21,2.49,Card
+121572,101,2025-04-23 20:10:30,2025-04-23,Dinner,Dine-In,Double Cheeseburger Combo,,1,10.14,0.0,0.76,10.9,Cash
+121573,501,2025-07-01 14:23:18,2025-07-01,Lunch,Delivery,Spicy Chicken Sandwich,,1,5.12,0.0,0.36,5.48,Card
+121574,101,2025-05-27 18:38:32,2025-05-27,Dinner,Dine-In,Chicken Sandwich Combo,,1,9.22,0.0,0.78,10.0,Cash
+121575,401,2025-06-04 06:59:26,2025-06-04,Breakfast,Drive-Thru,Pancake Platter,Cinnamon,2,4.98,0.0,0.81,10.97,Card
+121576,103,2025-06-07 14:37:11,2025-06-07,Lunch,Drive-Thru,Chicken Nuggets (10pc),,2,4.45,1.78,0.52,7.64,Cash
+121577,101,2025-04-16 12:18:12,2025-04-16,Lunch,Dine-In,Chicken Nuggets (10pc),,2,5.38,0.0,0.78,11.54,Card
+121578,401,2025-07-07 17:14:43,2025-07-07,Afternoon,Drive-Thru,Onion Rings,,1,2.93,0.0,0.25,3.18,Card
+121579,402,2025-08-03 18:50:24,2025-08-03,Dinner,Drive-Thru,Chicken Sandwich Combo,No Sauce,1,8.58,0.0,0.69,9.27,Card
+121580,101,2025-06-24 11:19:57,2025-06-24,Morning,Dine-In,Latte,Sugar-Free Syrup,1,3.29,0.0,0.25,3.84,MobilePay
+121581,403,2025-06-13 14:01:43,2025-06-13,Lunch,Dine-In,Chicken Sandwich Combo,,1,9.56,0.0,0.86,10.42,Card
+121582,401,2025-04-13 23:37:49,2025-04-13,Late Night,Drive-Thru,Soft Drink (Large),Sugar-Free Syrup,1,1.89,0.0,0.2,2.39,Card
+121583,501,2025-06-18 12:36:52,2025-06-18,Lunch,Dine-In,Chicken Sandwich Combo,,1,9.02,,0.57,8.69,MobilePay
+121584,101,2025-06-08 07:21:43,2025-06-08,Breakfast,Dine-In,Egg Muffin,,1,3.35,0.0,0.22,3.57,MobilePay
+121585,202,2025-05-22 12:42:55,2025-05-22,Lunch,Delivery,Onion Rings,Small Size,2,3.34,0.0,0.36,6.44,Card
+121586,202,2025-08-03 06:55:46,2025-08-03,Breakfast,Takeout,Bottled Water,,1,1.45,0.0,0.11,1.56,Card
+121587,201,2025-07-13 16:34:45,2025-07-13,Afternoon,Takeout,Side Salad,,1,2.76,0.0,0.19,2.95,Card
+121588,403,2025-05-22 21:00:06,2025-05-22,Dinner,Takeout,Chicken Sandwich Combo,,1,8.58,1.06,0.76,10.28,Cash
+121589,301,2025-07-11 10:09:36,2025-07-11,Breakfast,Takeout,Hash Browns,,1,1.91,0.0,0.18,2.09,Card
+121590,301,2025-04-28 18:04:27,2025-04-28,Dinner,Drive-Thru,Chicken Sandwich Combo,,1,8.45,0.0,0.76,9.21,Cash
+121591,202,2025-07-02 21:52:15,2025-07-02,Dinner,Delivery,Double Cheeseburger,,1,4.52,0.0,0.29,4.81,Card
+121592,402,2025-04-13 11:45:50,2025-04-13,Morning,Takeout,Egg Muffin,,1,3.35,0.0,0.27,3.62,Card
+121593,401,2025-07-26 13:57:25,2025-07-26,Lunch,Drive-Thru,Chicken Sandwich,No Pickles,2,5.72,0.0,0.69,12.13,MobilePay
+121594,103,2025-05-27 14:03:40,2025-05-27,Lunch,Dine-In,Spicy Chicken Sandwich,Extra Sauce,1,4.73,0.0,0.45,5.43,Card
+121595,103,2025-07-07 09:09:59,2025-07-07,Breakfast,Dine-In,Breakfast Burrito,,1,3.49,0.0,0.26,3.75,Card
+121596,402,2025-04-11 10:48:29,2025-04-11,Morning,Dine-In,Latte,,1,3.39,0.0,0.29,3.68,Card
+121597,103,2025-04-29 19:13:21,2025-04-29,Dinner,Delivery,Spicy Chicken Sandwich,No Onions,1,6.43,0.0,0.47,6.9,GiftCard
+121598,401,2025-06-09 21:51:59,2025-06-09,Dinner,Dine-In,French Fries,,1,2.65,0.0,0.19,2.84,Card
+121599,201,2025-05-29 05:36:02,2025-05-29,Breakfast,Drive-Thru,Sausage Biscuit,Cinnamon,1,2.86,0.0,0.22,3.18,Cash
+121600,301,2025-04-11 10:45:58,2025-04-11,Morning,Dine-In,Coffee,Oat Milk,1,1.85,0.0,0.15,2.7,Cash
+121601,201,2025-07-01 15:43:36,2025-07-01,Afternoon,Takeout,French Fries,,2,3.03,0.0,0.42,6.48,Card
+121602,301,2025-07-09 11:57:14,2025-07-09,Lunch,Dine-In,Chicken Sandwich,,1,5.15,0.0,0.37,5.52,MobilePay
+121603,202,2025-04-12 20:01:40,2025-04-12,Dinner,Delivery,Spicy Chicken Combo,,1,8.89,0.0,0.53,9.42,Card
+121604,102,2025-06-08 18:23:22,2025-06-08,Dinner,Takeout,Cheeseburger,,2,4.33,0.0,0.52,9.18,MobilePay
+121605,301,2025-07-31 11:37:39,2025-07-31,Lunch,Dine-In,French Fries,,1,2.37,0.0,0.14,2.51,MobilePay
+121606,301,2025-06-26 19:46:44,2025-06-26,Dinner,Dine-In,Onion Rings,Extra Sauce,1,3.17,0.0,0.27,3.69,GiftCard
+121607,103,2025-05-21 23:17:26,2025-05-21,Late Night,Takeout,Spicy Chicken Sandwich,No Onions,2,6.26,,0.9,11.54,MobilePay
+121608,102,2025-07-03 12:03:20,2025-07-03,Lunch,Delivery,Cheeseburger Combo,,1,8.65,0.0,0.78,9.43,Card
+121609,403,2025-05-04 09:02:06,2025-05-04,Breakfast,Dine-In,Coffee,No Ice,2,1.84,0.0,0.26,3.94,MobilePay
+121610,101,2025-04-17 14:42:07,2025-04-17,Lunch,Takeout,Cheeseburger Combo,,1,8.34,0.0,0.67,9.01,Card
+121611,301,2025-05-17 17:24:21,2025-05-17,Afternoon,Drive-Thru,Soft Drink (Medium),,1,1.61,0.0,0.1,1.71,Cash
+121612,403,2025-05-16 07:28:09,2025-05-16,Breakfast,Drive-Thru,Sausage Biscuit,,1,3.26,0.0,0.2,3.46,Card
+121613,403,2025-05-27 20:06:41,2025-05-27,Dinner,Dine-In,Chicken Sandwich Combo,,1,8.95,1.79,0.64,7.8,GiftCard
+121614,402,2025-04-20 13:48:31,2025-04-20,Lunch,Drive-Thru,Spicy Chicken Sandwich,No Sauce,1,5.57,0.0,0.47,6.04,Card
+121615,402,2025-04-12 10:01:46,2025-04-12,Morning,Dine-In,Side Salad,,1,3.49,0.0,0.25,3.74,Card
+121616,102,2025-05-13 14:06:37,2025-05-13,Lunch,Drive-Thru,Double Cheeseburger,,1,5.86,0.0,0.38,6.24,Cash
+121617,301,2025-05-17 11:21:18,2025-05-17,Lunch,Takeout,Iced Tea,Almond Milk,1,1.79,0.0,0.18,2.67,Card
+121618,103,2025-07-28 14:13:00,2025-07-28,Lunch,Dine-In,Spicy Chicken Sandwich,No Pickles,1,5.48,0.0,0.41,5.89,MobilePay
+121619,402,2025-05-10 16:06:28,2025-05-10,Afternoon,Drive-Thru,Milkshake,,1,4.37,0.0,0.31,4.68,Card
+121620,401,2025-06-27 06:28:49,2025-06-27,Breakfast,Takeout,Egg Muffin,,1,3.27,0.0,0.25,3.52,Card
+121621,102,2025-07-30 11:33:36,2025-07-30,Morning,Delivery,Coffee,Almond Milk,1,1.6,0.0,0.14,2.44,MobilePay
+121622,103,2025-07-24 11:33:35,2025-07-24,Morning,Dine-In,Hash Browns,,1,2.07,0.0,0.18,2.25,Card
+121623,202,2025-07-21 11:09:10,2025-07-21,Lunch,Drive-Thru,Chicken Sandwich Combo,,1,8.66,0.0,0.56,9.22,Card
+121624,102,2025-04-20 18:58:34,2025-04-20,Dinner,Dine-In,Spicy Chicken Combo,,1,10.23,,0.66,10.89,Card
+121625,202,2025-05-01 11:55:32,2025-05-01,Lunch,Takeout,French Fries,Small Size,2,2.95,0.0,0.45,5.75,Cash
+121626,403,2025-05-02 12:18:04,2025-05-02,Lunch,,Cheeseburger,,1,4.34,0.0,0.28,4.62,Card
+121627,301,2025-05-12 19:10:20,2025-05-12,Dinner,Delivery,Chicken Sandwich Combo,,1,9.63,1.44,0.7,8.89,Card
+121628,402,2025-05-17 09:29:33,2025-05-17,Breakfast,Dine-In,Egg Muffin,Sausage Patty,1,3.26,0.0,0.36,4.82,Card
+121629,501,2025-08-03 11:46:17,2025-08-03,Morning,Dine-In,Chicken Nuggets (6pc),,1,3.95,0.0,0.38,4.33,Card
+121630,401,2025-05-23 20:05:11,2025-05-23,Dinner,Drive-Thru,Spicy Chicken Sandwich,,1,5.83,0.0,0.5,6.33,Card
+121631,101,2025-04-13 14:15:05,2025-04-13,Lunch,Delivery,Cheeseburger,,1,4.21,0.0,0.36,4.57,Card
+121632,101,2025-06-14 07:33:25,2025-06-14,Breakfast,Takeout,Breakfast Burrito,,1,3.58,0.0,0.43,5.21,Card
+121633,402,2025-08-09 18:28:31,2025-08-09,Dinner,Drive-Thru,Chicken Sandwich,Spicy,2,5.77,0.0,0.84,12.38,Cash
+121634,102,2025-05-28 14:53:03,2025-05-28,Lunch,Drive-Thru,Cheeseburger,,1,4.38,0.0,0.35,4.73,Card
+121635,403,2025-05-29 14:44:59,2025-05-29,Lunch,Dine-In,Chicken Sandwich,Extra Patty,1,5.24,0.72,0.47,6.99,MobilePay
+121636,501,2025-06-21 17:25:22,2025-06-21,Afternoon,Dine-In,Chicken Nuggets (10pc),,1,4.67,0.0,0.34,5.01,Card
+121637,103,2025-06-07 10:59:58,2025-06-07,Morning,Dine-In,Soft Drink (Medium),,1,1.78,0.0,0.13,1.91,Cash
+121638,102,2025-07-30 10:17:36,2025-07-30,Morning,Dine-In,Egg Muffin,Cinnamon,1,3.76,0.19,0.29,3.96,Card
+121639,501,2025-04-19 10:07:24,2025-04-19,Breakfast,Dine-In,Coffee,Oat Milk,1,1.68,0.0,0.18,2.56,Card
+121640,101,2025-07-03 10:40:41,2025-07-03,Breakfast,Takeout,Latte,,1,3.25,0.0,0.23,3.48,Card
+121641,501,2025-06-24 00:08:38,2025-06-24,Late Night,Drive-Thru,Chicken Sandwich,No Onions,1,5.91,0.3,0.36,5.97,Cash
+121642,301,2025-06-17 11:54:37,2025-06-17,Lunch,Takeout,Double Cheeseburger Combo,,1,9.95,0.0,0.65,10.6,Cash
+121643,403,2025-05-04 06:33:54,2025-05-04,Breakfast,Takeout,Latte,Almond Milk,1,3.35,0.0,0.38,4.43,GiftCard
+121644,202,2025-06-03 15:31:43,2025-06-03,Afternoon,Drive-Thru,Ice Cream Cone,,3,1.52,0.0,0.36,4.92,GiftCard
+121645,403,2025-04-19 12:01:26,2025-04-19,Lunch,Dine-In,Spicy Chicken Combo,,1,9.5,0.0,0.62,10.12,Card
+121646,401,2025-07-26 11:38:15,2025-07-26,Morning,Takeout,Ice Cream Cone,,1,1.62,0.0,0.16,2.28,Card
+121647,501,2025-05-17 19:21:08,2025-05-17,Dinner,Drive-Thru,French Fries,Extra Sauce,2,2.92,0.0,0.44,6.78,Card
+121648,501,2025-04-21 12:59:11,2025-04-21,Lunch,Dine-In,Cheeseburger Combo,,1,9.08,0.0,0.66,9.74,MobilePay
+121649,403,2025-04-18 05:04:19,2025-04-18,Breakfast,Drive-Thru,Egg Muffin,,1,3.89,0.0,0.31,4.2,Card
+121650,101,2025-04-15 21:44:56,2025-04-15,Dinner,Dine-In,Cheeseburger Combo,,1,8.78,0.0,0.57,9.35,
+121651,402,2025-06-18 06:56:46,2025-06-18,Breakfast,Drive-Thru,Egg Muffin,,1,3.32,0.0,0.32,3.64,Card
+121652,402,2025-07-11 14:58:50,2025-07-11,Lunch,Takeout,Spicy Chicken Sandwich,Spicy,1,5.71,0.0,0.4,6.11,Cash
+121653,201,2025-04-13 01:00:13,2025-04-13,Late Night,Drive-Thru,Milkshake,Chocolate Topping,2,3.87,0.0,0.61,9.35,Card
+121654,101,2025-06-24 14:15:02,2025-06-24,Lunch,Drive-Thru,Double Cheeseburger,,1,5.88,0.0,0.56,6.44,Card
+121655,102,2025-06-10 10:45:33,2025-06-10,Breakfast,Delivery,Pancake Platter,,1,4.89,0.0,,,Card
+121656,101,2025-07-23 14:16:53,2025-07-23,Lunch,Delivery,Spicy Chicken Combo,,1,9.37,0.0,0.68,10.05,Card
+121657,301,2025-05-11 05:01:23,2025-05-11,Breakfast,Drive-Thru,Egg Muffin,,1,3.57,0.0,0.25,3.82,Card
+121658,101,2025-07-23 23:15:20,2025-07-23,Late Night,Dine-In,French Fries,,3,2.35,0.0,0.49,7.54,Cash
+121659,501,2025-06-15 09:09:54,2025-06-15,Breakfast,,Pancake Platter,Cinnamon,1,5.37,0.0,0.46,5.93,Card
+121660,201,2025-07-08 20:17:58,2025-07-08,Dinner,Dine-In,Cheeseburger Combo,,1,9.15,0.0,0.55,9.7,MobilePay
+121661,301,2025-07-28 21:26:19,2025-07-28,Dinner,Dine-In,Double Cheeseburger Combo,,1,9.93,0.0,0.65,10.58,
+121662,401,2025-05-11 16:06:46,2025-05-11,Afternoon,Delivery,French Fries,,1,2.04,0.0,0.15,2.19,Card
+121663,403,2025-07-16 21:41:28,2025-07-16,Dinner,Delivery,Onion Rings,No Sauce,1,2.97,0.0,0.24,3.21,Card
+121664,102,2025-05-02 19:52:20,2025-05-02,Dinner,Dine-In,Double Cheeseburger Combo,,1,10.64,0.0,0.74,11.38,Cash
+121665,201,2025-04-15 07:51:57,2025-04-15,Breakfast,Delivery,Egg Muffin,Cinnamon,1,3.23,0.0,0.22,3.55,MobilePay
+121666,201,2025-05-12 13:44:49,2025-05-12,Lunch,Dine-In,Chicken Sandwich Combo,,1,8.49,0.0,0.72,9.21,Cash
+121667,201,2025-05-26 19:01:45,2025-05-26,Dinner,Dine-In,Cheeseburger Combo,,2,8.24,0.0,1.07,17.55,Card
+121668,403,2025-04-15 15:51:48,2025-04-15,Afternoon,Dine-In,Ice Cream Cone,,1,1.74,,0.15,1.89,Card
+121669,202,2025-05-14 11:08:42,2025-05-14,Lunch,Takeout,Cheeseburger Combo,,1,8.76,0.0,0.79,9.55,Cash
+121670,501,2025-05-20 16:36:56,2025-05-20,Afternoon,Drive-Thru,Soft Drink (Medium),Extra Ice,2,1.72,0.0,0.25,3.69,Card
+121671,103,2025-05-08 14:32:41,2025-05-08,Lunch,Dine-In,Chicken Sandwich,,1,5.26,0.0,0.38,5.64,MobilePay
+121672,402,2025-05-23 17:39:54,2025-05-23,Afternoon,Delivery,Side Salad,,1,2.76,0.0,0.21,2.97,Cash
+121673,501,2025-07-19 21:08:24,2025-07-19,Dinner,Delivery,Spicy Chicken Sandwich,,1,5.29,0.0,0.34,5.63,MobilePay
+121674,403,2025-05-23 11:40:40,2025-05-23,Morning,Delivery,Coffee,Almond Milk,1,2.21,0.0,0.23,3.14,Card
+121675,301,2025-04-29 11:24:30,2025-04-29,Lunch,Takeout,Chicken Sandwich,,1,5.27,0.0,0.38,5.65,GiftCard
+121676,402,2025-07-28 23:20:42,2025-07-28,Late Night,Dine-In,French Fries,Extra Sauce,1,2.98,0.0,0.23,3.46,Cash
+121677,501,2025-06-27 15:35:21,2025-06-27,Afternoon,Delivery,Chicken Nuggets (10pc),,4,5.5,0.0,1.87,23.87,Card
+121678,102,2025-06-13 12:16:38,2025-06-13,Lunch,Delivery,Soft Drink (Medium),,1,1.82,0.36,0.12,1.58,Card
+121679,402,2025-08-04 23:02:02,2025-08-04,Late Night,Delivery,Cheeseburger,,1,4.35,0.0,0.35,4.7,Card
+121680,403,2025-04-13 17:38:05,2025-04-13,Afternoon,Drive-Thru,Milkshake,No Ice,2,4.12,0.0,0.74,8.98,Card
+121681,403,2025-05-18 17:40:01,2025-05-18,Afternoon,Takeout,Onion Rings,Small Size,2,3.13,0.0,0.45,6.11,Card
+121682,401,2025-06-28 11:00:31,2025-06-28,Morning,Takeout,Hash Browns,No Cheese,1,1.71,0.0,0.15,1.86,Cash
+121683,401,2025-06-04 06:44:47,2025-06-04,Breakfast,Drive-Thru,Sausage Biscuit,No Cheese,2,3.12,0.0,0.37,6.61,Card
+121684,301,2025-06-19 15:29:49,2025-06-19,Afternoon,Takeout,Ice Cream Cone,,1,1.5,0.0,0.1,1.7,Card
+121685,101,2025-05-25 14:57:10,2025-05-25,Lunch,Drive-Thru,Spicy Chicken Combo,,1,9.88,0.0,0.72,10.6,Card
+121686,401,2025-05-23 19:07:00,2025-05-23,Dinner,Drive-Thru,Cheeseburger Combo,,2,8.26,0.83,1.49,17.18,Card
+121687,103,2025-08-03 13:18:39,2025-08-03,Lunch,Takeout,Chicken Sandwich Combo,No Onions,2,9.09,0.0,1.09,19.27,Card
+121688,101,2025-07-19 01:36:35,2025-07-19,Late Night,Dine-In,Spicy Chicken Sandwich,Add Jalapenos,1,5.75,0.0,0.46,6.61,
+121689,401,2025-07-07 21:09:44,2025-07-07,Dinner,Delivery,Soft Drink (Large),,1,1.96,0.0,0.18,2.14,MobilePay
+121690,101,2025-05-12 20:26:20,2025-05-12,Dinner,Takeout,French Fries,Large Size,1,2.81,0.0,0.32,3.73,Card
+121691,101,2025-07-23 19:57:25,2025-07-23,Dinner,Delivery,Chicken Sandwich Combo,,1,8.75,0.92,0.75,9.08,Card
+121692,401,2025-08-08 12:04:44,2025-08-08,Lunch,Drive-Thru,Veggie Burger,Spicy,2,5.54,0.0,0.78,11.86,Cash
+121693,202,2025-05-14 07:15:23,2025-05-14,Breakfast,,Latte,,1,2.9,0.44,0.23,2.69,Card
+121694,403,2025-05-14 21:31:55,2025-05-14,Dinner,Drive-Thru,Cheeseburger,,1,4.53,0.0,0.41,4.94,Card
+121695,301,2025-05-25 21:28:44,2025-05-25,Dinner,Dine-In,Cheeseburger Combo,,1,9.46,0.47,0.54,9.53,MobilePay
+121696,101,2025-08-08 20:03:09,2025-08-08,Dinner,Takeout,Cheeseburger Combo,,2,7.99,0.0,1.12,17.1,
+121697,301,2025-04-30 21:17:41,2025-04-30,Dinner,Takeout,Spicy Chicken Combo,,1,8.95,0.0,0.76,9.71,Cash
+121698,103,2025-06-21 13:42:41,2025-06-21,Lunch,Dine-In,Veggie Burger,,1,5.42,0.0,0.41,5.83,Card
+121699,201,2025-04-12 10:55:28,2025-04-12,Morning,Drive-Thru,Bottled Water,Almond Milk,1,1.45,,0.14,2.29,Cash
+121700,301,2025-07-29 14:19:38,2025-07-29,Lunch,Delivery,Cheeseburger Combo,,1,8.67,0.0,0.65,9.32,MobilePay
+121701,301,2025-07-19 13:47:02,2025-07-19,Lunch,Delivery,Chicken Sandwich,,1,5.57,0.0,0.4,5.97,Card
+121702,501,2025-04-16 05:05:44,2025-04-16,Breakfast,Drive-Thru,Breakfast Burrito,Extra Egg,2,3.9,0.0,0.83,10.63,MobilePay
+121703,103,2025-06-25 09:26:07,2025-06-25,Breakfast,Delivery,Coffee,,1,2.11,0.0,0.27,3.08,Card
+121704,202,2025-05-23 08:42:59,2025-05-23,Breakfast,Dine-In,Sausage Biscuit,No Cheese,2,3.14,0.0,0.57,6.85,Card
+121705,202,2025-05-14 13:38:46,2025-05-14,Lunch,Takeout,Veggie Burger,,1,5.16,0.0,0.34,5.5,Card
+121706,103,2025-06-15 05:29:11,2025-06-15,Breakfast,Takeout,Coffee,,1,2.02,0.0,0.14,2.16,Cash
+121707,501,2025-06-01 14:30:21,2025-06-01,Lunch,Dine-In,Chicken Sandwich,,2,6.09,0.0,0.85,15.03,Card
+121708,201,2025-04-18 11:44:21,2025-04-18,Lunch,Drive-Thru,Spicy Chicken Combo,,3,9.22,0.0,2.01,29.67,Card
+121709,202,2025-06-03 20:50:18,2025-06-03,Dinner,Takeout,Spicy Chicken Combo,,1,8.8,0.0,0.57,9.37,Card
+121710,201,2025-08-02 21:01:42,2025-08-02,Dinner,Takeout,Chicken Sandwich Combo,Add Bacon,1,9.54,1.05,0.85,10.34,Cash
+121711,103,2025-04-15 21:04:34,2025-04-15,Dinner,Takeout,Spicy Chicken Sandwich,,1,5.59,,0.36,5.95,Cash
+121712,103,2025-06-08 11:57:25,2025-06-08,Lunch,Takeout,Onion Rings,,2,2.52,0.0,0.43,5.47,Card
+121713,101,2025-04-22 09:43:33,2025-04-22,Breakfast,Dine-In,Soft Drink (Small),Oat Milk,2,1.61,0.0,0.28,4.9,Card
+121714,501,2025-07-01 12:34:32,2025-07-01,Lunch,Drive-Thru,French Fries,Extra Sauce,2,2.49,0.0,0.33,5.81,GiftCard
+121715,403,2025-06-12 18:50:46,2025-06-12,Dinner,Drive-Thru,Spicy Chicken Combo,,1,9.24,0.0,0.79,10.03,Card
+121716,402,2025-07-23 14:34:44,2025-07-23,Lunch,Delivery,Cheeseburger Combo,,1,8.66,0.0,0.63,9.29,Card
+121717,202,2025-07-30 11:26:11,2025-07-30,Lunch,Delivery,Chicken Sandwich,No Sauce,1,5.46,0.0,0.44,5.9,Card
+121718,402,2025-05-10 11:03:16,2025-05-10,Lunch,Dine-In,Spicy Chicken Sandwich,Add Bacon,1,5.91,0.0,0.62,7.53,Card
+121719,402,2025-08-07 20:45:10,2025-08-07,Dinner,Drive-Thru,Spicy Chicken Combo,,1,9.07,0.0,0.77,9.84,Card
+121720,402,2025-06-12 18:18:06,2025-06-12,Dinner,Dine-In,Chicken Sandwich Combo,Extra Cheese,1,9.25,0.0,0.73,10.48,Card
+121721,301,2025-08-08 13:17:32,2025-08-08,Lunch,Delivery,Double Cheeseburger Combo,,1,9.86,0.0,0.69,10.55,MobilePay
+121722,301,2025-04-14 14:01:00,2025-04-14,Lunch,Delivery,Chicken Sandwich,Gluten-Free Bun,2,5.66,0.0,1.0,14.32,Card
+121723,501,2025-08-02 11:08:45,2025-08-02,Lunch,Dine-In,Chicken Sandwich,,1,5.62,0.0,0.55,6.67,MobilePay
+121724,403,2025-06-29 17:49:04,2025-06-29,Afternoon,Dine-In,Ice Cream Cone,Caramel Topping,1,1.53,0.0,0.15,2.18,Cash
+121725,403,2025-07-31 20:59:24,2025-07-31,Dinner,Takeout,Chicken Sandwich Combo,Spicy,1,9.53,0.0,0.86,10.39,Card
+121726,301,2025-05-18 12:44:40,2025-05-18,Lunch,Takeout,Chicken Sandwich Combo,Gluten-Free Bun,1,8.72,0.0,0.73,10.45,Cash
+121727,103,2025-05-17 20:09:51,2025-05-17,Dinner,Drive-Thru,French Fries,Small Size,2,2.87,0.77,0.28,4.65,MobilePay
+121728,301,2025-05-11 13:20:09,2025-05-11,Lunch,Dine-In,Double Cheeseburger Combo,,1,10.17,0.0,0.76,10.93,Card
+121729,101,2025-05-08 11:43:54,2025-05-08,Morning,Dine-In,Coffee,,3,2.26,0.0,0.51,7.29,Cash
+121730,202,2025-04-30 15:36:16,2025-04-30,Afternoon,Dine-In,Chicken Nuggets (6pc),,1,3.68,0.0,0.26,3.94,MobilePay
+121731,402,2025-07-08 15:08:51,2025-07-08,Afternoon,Drive-Thru,Chicken Nuggets (10pc),,1,4.87,0.0,0.32,5.19,Card
+121732,201,2025-06-06 11:30:04,2025-06-06,Morning,Dine-In,Egg Muffin,,2,3.24,0.0,0.55,7.03,Cash
+121733,103,2025-07-19 09:05:56,2025-07-19,Breakfast,Drive-Thru,Egg Muffin,,1,3.16,0.0,0.24,3.4,Card
+121734,403,2025-05-27 21:43:26,2025-05-27,Dinner,Dine-In,Chicken Sandwich,Extra Cheese,1,5.68,0.0,0.37,6.55,Card
+121735,201,2025-07-21 06:48:27,2025-07-21,Breakfast,Drive-Thru,Breakfast Burrito,Extra Egg,2,3.34,0.87,0.74,8.55,Cash
+121736,202,2025-04-27 05:07:15,2025-04-27,Breakfast,Drive-Thru,Egg Muffin,No Cheese,1,2.98,0.0,0.24,3.22,Cash
+121737,401,2025-04-26 14:29:22,2025-04-26,Lunch,Drive-Thru,Spicy Chicken Combo,,1,8.76,1.75,0.51,7.52,Card
+121738,102,2025-04-22 10:47:49,2025-04-22,Breakfast,Dine-In,Coffee,No Ice,2,2.08,0.0,0.35,4.51,MobilePay
+121739,301,2025-07-05 16:58:38,2025-07-05,Afternoon,Drive-Thru,Onion Rings,,4,3.62,0.0,1.2,14.48,GiftCard
+121740,101,2025-04-21 15:17:41,2025-04-21,Afternoon,Dine-In,French Fries,,1,2.61,0.52,0.17,2.26,Card
+121741,403,2025-05-22 12:15:29,2025-05-22,Lunch,Dine-In,French Fries,Small Size,1,2.59,0.0,0.22,2.51,Cash
+121742,301,2025-04-20 11:13:39,2025-04-20,Lunch,Drive-Thru,Soft Drink (Medium),Light Ice,3,1.75,0.0,0.37,5.62,MobilePay
