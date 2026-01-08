@@ -649,20 +649,49 @@ WHERE f.menu_item = i.item_name;
 
 -- Assign discounts conditionally: loyalty members only get Member Discount
 
+WITH random_orders AS (
+    SELECT
+        f.ctid,
+        f.customer_id,
+        f.transaction_datetime::date AS tx_date,
+        random() AS r
+    FROM fact_pos_logs f
+),
+valid_discounts AS (
+    SELECT
+        discount_id,
+        valid_from,
+        valid_until
+    FROM discounts_table
+    WHERE discount_id >= 234
+)
 UPDATE fact_pos_logs f
 SET discount_id = CASE
-    WHEN t.r < 0.70 THEN 0
-    WHEN t.r < 0.80 AND c.loyalty_member = TRUE THEN 1
-    WHEN t.r < 0.80 AND c.loyalty_member = FALSE THEN 0
-    ELSE (234 + floor(random() * 8))::INT
+    WHEN r < 0.70 THEN 0
+    WHEN r < 0.80 AND c.loyalty_member = TRUE THEN 1
+    WHEN r < 0.80 AND c.loyalty_member = FALSE THEN 0
+    ELSE COALESCE(d.discount_id, 0)
 END
-FROM (
-    SELECT ctid, random() AS r
-    FROM fact_pos_logs
-) t,
-customers_table c
-WHERE f.ctid = t.ctid
-  AND f.customer_id = c.customer_id;
+FROM random_orders ro
+JOIN customers_table c ON ro.customer_id = c.customer_id
+LEFT JOIN valid_discounts d
+       ON ro.tx_date BETWEEN d.valid_from AND d.valid_until
+WHERE f.ctid = ro.ctid;
+
+
+-- Update total_amount including discount and tax
+
+UPDATE fact_pos_logs f
+SET total_amount = ROUND(
+    (
+        (i.price * f.quantity)
+        - ((i.price * f.quantity) * d.discount_percentage / 100)
+        + f.tax
+    )::numeric
+, 2)
+FROM items_table i, discounts_table d
+WHERE f.item_id = i.item_id
+  AND f.discount_id = d.discount_id;
 
 
 -- Update total_amount including discount and tax
