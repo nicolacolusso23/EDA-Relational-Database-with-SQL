@@ -306,27 +306,26 @@ ORDER BY avg_spent DESC;
 -- DISCOUNT DISTRIBUTION ANALYSIS
 -- ==========================================================================================
 
--- CTE, JOIN, aggregation, ROUND
+-- Count total sales per month, number of sales with discount,
 
--- Discount usage per item
+-- and calculate the percentage of discounted sales per month.
 
--- Count the number of times each item was sold with a discount and calculate the percentage relative to its total sales. Useful for identifying the most frequently discounted items and understanding promotion impact on product-level sales.
+-- Useful for analyzing discount trends over time.
 
-WITH item_totals AS (
+WITH monthly_sales AS (
     SELECT
-        i.item_id,
-        i.item_name,
+        date_trunc('month', transaction_datetime) AS month,
         COUNT(*) AS total_sales,
-        COUNT(*) FILTER (WHERE f.discount_id <> 0) AS discount_sales
-    FROM fact_pos_logs f
-    JOIN items_table i ON f.item_id = i.item_id
-    GROUP BY i.item_id, i.item_name
+        COUNT(*) FILTER (WHERE discount_id >= 234) AS discount_sales
+    FROM fact_pos_logs
+    GROUP BY month
 )
 SELECT
-    item_name,
-    discount_sales AS times_discount_applied,
+    TO_CHAR(month, 'YYYY-MM') AS month,
+    total_sales,
+    discount_sales,
     ROUND(discount_sales::numeric / total_sales * 100, 2) AS pct_discounted
-FROM item_totals
+FROM monthly_sales
 ORDER BY pct_discounted DESC;
 
 
