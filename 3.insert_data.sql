@@ -639,15 +639,6 @@ UPDATE fact_pos_logs
 SET customer_id = (10501 + floor(random() * (10910 - 10501 + 1)))::INT;  
 
 
--- Remove old columns
-
-ALTER TABLE fact_pos_logs
-DROP COLUMN menu_item;
-
-ALTER TABLE fact_pos_logs
-DROP COLUMN discount;
-
-
 -- Map menu items to item_id
 
 UPDATE fact_pos_logs f
@@ -689,6 +680,13 @@ WHERE f.item_id = i.item_id
   AND f.discount_id = d.discount_id;
 
 
+-- Remove old columns
+
+ALTER TABLE fact_pos_logs
+DROP COLUMN menu_item;
+
+ALTER TABLE fact_pos_logs
+DROP COLUMN discount;
 
 -- ==========================================================================================
 -- INDEXES AND CONSTRAINTS
